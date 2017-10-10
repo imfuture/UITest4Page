@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>今目标平台自动化测试报告</title>
+    <meta name="generator" content="HTMLTestRunner 0.8.2"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    
+<style type="text/css" media="screen">
+body        { font-family: verdana, arial, helvetica, sans-serif; font-size: 80%; }
+table       { font-size: 100%; }
+pre         { }
+
+/* -- heading ---------------------------------------------------------------------- */
+h1 {
+    font-size: 16pt;
+    color: gray;
+}
+.heading {
+    margin-top: 0ex;
+    margin-bottom: 1ex;
+}
+
+.heading .attribute {
+    margin-top: 1ex;
+    margin-bottom: 0;
+}
+
+.heading .description {
+    margin-top: 4ex;
+    margin-bottom: 6ex;
+}
+
+/* -- css div popup ------------------------------------------------------------------------ */
+a.popup_link {
+}
+
+a.popup_link:hover {
+    color: red;
+}
+
+.popup_window {
+    display: none;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    /*border: solid #627173 1px; */
+    padding: 10px;
+    background-color: #E6E6D6;
+    font-family: "Lucida Console", "Courier New", Courier, monospace;
+    text-align: left;
+    font-size: 8pt;
+    width: 500px;
+}
+
+}
+/* -- report ------------------------------------------------------------------------ */
+#show_detail_line {
+    margin-top: 3ex;
+    margin-bottom: 1ex;
+}
+#result_table {
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid #777;
+}
+#header_row {
+    font-weight: bold;
+    color: white;
+    background-color: #777;
+}
+#result_table td {
+    border: 1px solid #777;
+    padding: 2px;
+}
+#total_row  { font-weight: bold; }
+.passClass  { background-color: #6c6; }
+.failClass  { background-color: #c60; }
+.errorClass { background-color: #c00; }
+.passCase   { color: #6c6; }
+.failCase   { color: #c60; font-weight: bold; }
+.errorCase  { color: #c00; font-weight: bold; }
+.hiddenRow  { display: none; }
+.testcase   { margin-left: 2em; }
+
+
+/* -- ending ---------------------------------------------------------------------- */
+#ending {
+}
+
+</style>
+
+</head>
+<body>
+<script language="javascript" type="text/javascript"><!--
+output_list = Array();
+
+/* level - 0:Summary; 1:Failed; 2:All */
+function showCase(level) {
+    trs = document.getElementsByTagName("tr");
+    for (var i = 0; i < trs.length; i++) {
+        tr = trs[i];
+        id = tr.id;
+        if (id.substr(0,2) == 'ft') {
+            if (level < 1) {
+                tr.className = 'hiddenRow';
+            }
+            else {
+                tr.className = '';
+            }
+        }
+        if (id.substr(0,2) == 'pt') {
+            if (level > 1) {
+                tr.className = '';
+            }
+            else {
+                tr.className = 'hiddenRow';
+            }
+        }
+    }
+}
+
+
+function showClassDetail(cid, count) {
+    var id_list = Array(count);
+    var toHide = 1;
+    for (var i = 0; i < count; i++) {
+        tid0 = 't' + cid.substr(1) + '.' + (i+1);
+        tid = 'f' + tid0;
+        tr = document.getElementById(tid);
+        if (!tr) {
+            tid = 'p' + tid0;
+            tr = document.getElementById(tid);
+        }
+        id_list[i] = tid;
+        if (tr.className) {
+            toHide = 0;
+        }
+    }
+    for (var i = 0; i < count; i++) {
+        tid = id_list[i];
+        if (toHide) {
+            document.getElementById('div_'+tid).style.display = 'none'
+            document.getElementById(tid).className = 'hiddenRow';
+        }
+        else {
+            document.getElementById(tid).className = '';
+        }
+    }
+}
+
+
+function showTestDetail(div_id){
+    var details_div = document.getElementById(div_id)
+    var displayState = details_div.style.display
+    // alert(displayState)
+    if (displayState != 'block' ) {
+        displayState = 'block'
+        details_div.style.display = 'block'
+    }
+    else {
+        details_div.style.display = 'none'
+    }
+}
+
+
+function html_escape(s) {
+    s = s.replace(/&/g,'&amp;');
+    s = s.replace(/</g,'&lt;');
+    s = s.replace(/>/g,'&gt;');
+    return s;
+}
+
+/* obsoleted by detail in <div>
+function showOutput(id, name) {
+    var w = window.open("", //url
+                    name,
+                    "resizable,scrollbars,status,width=800,height=450");
+    d = w.document;
+    d.write("<pre>");
+    d.write(html_escape(output_list[id]));
+    d.write("\n");
+    d.write("<a href='javascript:window.close()'>close</a>\n");
+    d.write("</pre>\n");
+    d.close();
+}
+*/
+--></script>
+
+<div class='heading'>
+<h1>今目标平台自动化测试报告</h1>
+<p class='attribute'><strong>Start Time:</strong> 2017-06-16 17:00:52</p>
+<p class='attribute'><strong>Duration:</strong> 0:01:39.800423</p>
+<p class='attribute'><strong>Status:</strong> Pass 34</p>
+
+<p class='description'>Testcases detail</p>
+</div>
+
+
+
+<p id='show_detail_line'>Show
+<a href='javascript:showCase(0)'>Summary</a>
+<a href='javascript:showCase(1)'>Failed</a>
+<a href='javascript:showCase(2)'>All</a>
+</p>
+<table id='result_table'>
+<colgroup>
+<col align='left' />
+<col align='right' />
+<col align='right' />
+<col align='right' />
+<col align='right' />
+<col align='right' />
+</colgroup>
+<tr id='header_row'>
+    <td>Test Group/Test case</td>
+    <td>Count</td>
+    <td>Pass</td>
+    <td>Fail</td>
+    <td>Error</td>
+    <td>View</td>
+</tr>
+
+<tr class='passClass'>
+    <td>test_notice.TestNoticeIndex: 公告应用测试</td>
+    <td>15</td>
+    <td>15</td>
+    <td>0</td>
+    <td>0</td>
+    <td><a href="javascript:showClassDetail('c1',15)">Detail</a></td>
+</tr>
+
+<tr id='pt1.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_01_notice_page: 验证公告页面</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.1')" >
+        pass</a>
+
+    <div id='div_pt1.1' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.1').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.1: 2017-06-16 17:01:04,503 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;div.addBtn&gt;, Spend 0.467966079712 seconds
+2017-06-16 17:01:05,295 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;i.jgicon.jgicon-pageage&gt;, Spend 0.789159059525 seconds
+2017-06-16 17:01:05,353 - root - INFO - SUCCESS    Switch to frame element: &lt;css-&gt;iframe&gt;, Spend 0.0570850372314 seconds
+2017-06-16 17:01:06,464 - root - INFO - SUCCESS    Element: &lt;css-&gt;div.bread-left&gt; is exist, Spend 1.11083507538 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.2' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_02_preview_notice: 新建公告-预览</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.2')" >
+        pass</a>
+
+    <div id='div_pt1.2' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.2').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.2: 2017-06-16 17:01:06,642 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;span.mid_text&gt;, Spend 0.177295923233 seconds
+2017-06-16 17:01:07,984 - root - INFO - SUCCESS    Clear and type element: &lt;css-&gt;#addScrollDiv &gt; ul &gt; li:nth-child(2) &gt; div &gt; input[type="text"]&gt; content: notice-title_2017-06-16_17-00-52, Spend 1.3403878212 seconds
+2017-06-16 17:01:08,441 - root - INFO - SUCCESS    Clear and type element: &lt;css-&gt;#cke_1_contents &gt; div&gt; content: notice-content-test, Spend 0.456557035446 seconds
+2017-06-16 17:01:08,615 - root - INFO - SUCCESS    Clicked element: &lt;xpath-&gt;//*[@id="addScrollDiv"]/ul/li[9]/button[3]&gt;, Spend 0.173239946365 seconds
+2017-06-16 17:01:09,746 - root - INFO - SUCCESS    Element: &lt;css-&gt;h6.ui-dialog-title.notice-preview-dialog-title&gt; is exist, Spend 1.13054013252 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.3' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_03_save_notice: 保存公告</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.3')" >
+        pass</a>
+
+    <div id='div_pt1.3' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.3').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.3: 2017-06-16 17:01:09,905 - root - INFO - SUCCESS    Clicked element: &lt;xpath-&gt;//*[@id="notice-preview-body"]/div[3]/button&gt;, Spend 0.156358957291 seconds
+2017-06-16 17:01:10,077 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.btn_save.confirm.ui-button&gt;, Spend 0.171052932739 seconds
+2017-06-16 17:01:11,125 - root - INFO - SUCCESS    Element: &lt;css-&gt;button.btn.notice-option.publishNotice&gt; is exist, Spend 1.04818987846 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.4' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_04_publish_notice: 发布公告</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.4')" >
+        pass</a>
+
+    <div id='div_pt1.4' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.4').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.4: 2017-06-16 17:01:11,270 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.notice-option.publishNotice&gt;, Spend 0.141438007355 seconds
+2017-06-16 17:01:11,454 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.bg-blue.ui-button&gt;, Spend 0.182601928711 seconds
+2017-06-16 17:01:12,509 - root - INFO - SUCCESS    Element: &lt;css-&gt;button.btn.notice-option.suspendNotice&gt; is exist, Spend 1.05425596237 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.5' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_05_recall_notice: 撤回公告</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.5')" >
+        pass</a>
+
+    <div id='div_pt1.5' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.5').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.5: 2017-06-16 17:01:12,628 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.notice-option.suspendNotice&gt;, Spend 0.118594169617 seconds
+2017-06-16 17:01:12,745 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.bg-blue.ui-button&gt;, Spend 0.116497039795 seconds
+2017-06-16 17:01:13,773 - root - INFO - SUCCESS    Element: &lt;css-&gt;button.btn.notice-option.publishNotice&gt; is exist, Spend 1.0267739296 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.6' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_06_edit_notice: 编辑公告-保存并发布</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.6')" >
+        pass</a>
+
+    <div id='div_pt1.6' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.6').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.6: 2017-06-16 17:01:13,942 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.editNotice.notice-option&gt;, Spend 0.168421983719 seconds
+2017-06-16 17:01:15,134 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.btn_submit.confirm.ui-button&gt;, Spend 1.19131493568 seconds
+2017-06-16 17:01:16,177 - root - INFO - SUCCESS    Element: &lt;css-&gt;button.btn.notice-option.editNotice&gt; is exist, Spend 1.04294490814 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.7' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_07_stick_on_top: 查看页面置顶公告</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.7')" >
+        pass</a>
+
+    <div id='div_pt1.7' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.7').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.7: 2017-06-16 17:01:18,334 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.notice-option.stickNotice&gt;, Spend 0.150892019272 seconds
+2017-06-16 17:01:19,382 - root - INFO - SUCCESS    Element: &lt;css-&gt;button.btn.cancelStickNotice.notice-option&gt; is exist, Spend 1.04792308807 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.8' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_08_cancel_stick: 取消置顶</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.8')" >
+        pass</a>
+
+    <div id='div_pt1.8' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.8').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.8: 2017-06-16 17:01:21,530 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.cancelStickNotice.notice-option&gt;, Spend 0.142729043961 seconds
+2017-06-16 17:01:22,559 - root - INFO - SUCCESS    Element: &lt;css-&gt;button.btn.notice-option.stickNotice&gt; is exist, Spend 1.02867102623 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.9' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_09_follow_notice: 关注公告</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.9')" >
+        pass</a>
+
+    <div id='div_pt1.9' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.9').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.9: 2017-06-16 17:01:22,739 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;i.notice_detail_attention&gt;, Spend 0.179090976715 seconds
+2017-06-16 17:01:23,774 - root - INFO - SUCCESS    Element: &lt;id-&gt;jingoalAsyncTip&gt; is exist, Spend 0.0302541255951 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.10' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_10_unfollow_notice: 取消关注公告</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.10')" >
+        pass</a>
+
+    <div id='div_pt1.10' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.10').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.10: 2017-06-16 17:01:24,883 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;div.detail-basics-title &gt; div:nth-of-type(1) &gt; i&gt;, Spend 0.102537155151 seconds
+2017-06-16 17:01:25,904 - root - INFO - SUCCESS    Element: &lt;id-&gt;jingoalAsyncTip&gt; is exist, Spend 0.0176751613617 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.11' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_11_delete_notice: 删除公告</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.11')" >
+        pass</a>
+
+    <div id='div_pt1.11' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.11').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.11: 2017-06-16 17:01:27,087 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.delNotice.notice-option&gt;, Spend 0.179286956787 seconds
+2017-06-16 17:01:27,287 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.bg-blue.ui-button&gt;, Spend 0.199480056763 seconds
+2017-06-16 17:01:28,327 - root - INFO - SUCCESS    Element: &lt;id-&gt;jingoalAsyncTip&gt; is exist, Spend 1.03704285622 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.12' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_12_create_category: 创建栏目</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.12')" >
+        pass</a>
+
+    <div id='div_pt1.12' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.12').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.12: 2017-06-16 17:01:28,500 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;#notice_label_setting&gt;, Spend 0.171855926514 seconds
+2017-06-16 17:01:29,717 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.add-columns-btn.border.btn.default.newColum&gt;, Spend 1.21648812294 seconds
+2017-06-16 17:01:29,920 - root - INFO - SUCCESS    Clear and type element: &lt;css-&gt;div.columName.text-input-wrap.top-border-dark.ui-input &gt; input&gt; content: category name, Spend 0.201503992081 seconds
+2017-06-16 17:01:30,181 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.btnOK.columOK.confirm.ui-button&gt;, Spend 0.260355949402 seconds
+2017-06-16 17:01:31,224 - root - INFO - SUCCESS    Element: &lt;id-&gt;jingoalAsyncTip&gt; is exist, Spend 1.04277014732 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.13' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_13_edit_category: 编辑栏目</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.13')" >
+        pass</a>
+
+    <div id='div_pt1.13' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.13').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.13: 2017-06-16 17:01:31,467 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;tbody.personnel_table &gt; tr:nth-of-type(4) &gt; td:nth-of-type(4) &gt; div.opt-btn-warp &gt; button:nth-of-type(1)&gt;, Spend 0.241296052933 seconds
+2017-06-16 17:01:31,598 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.btnOK.columOK.confirm.ui-button&gt;, Spend 0.130674123764 seconds
+2017-06-16 17:01:31,611 - root - INFO - SUCCESS    Element: &lt;id-&gt;jingoalAsyncTip&gt; is exist, Spend 0.0111219882965 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.14' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_14_delete_category: 删除栏目</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.14')" >
+        pass</a>
+
+    <div id='div_pt1.14' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.14').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.14: 2017-06-16 17:01:32,801 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;tbody.personnel_table &gt; tr:nth-of-type(4) &gt; td:nth-of-type(4) &gt; div.opt-btn-warp &gt; button:nth-of-type(2)&gt;, Spend 0.184255838394 seconds
+2017-06-16 17:01:33,006 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.bg-blue.ui-button&gt;, Spend 0.204133033752 seconds
+2017-06-16 17:01:33,039 - root - INFO - SUCCESS    Element: &lt;id-&gt;jingoalAsyncTip&gt; is exist, Spend 0.0327770709991 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.15' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_15_drag_drop_category: 拖动栏目排序</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.15')" >
+        pass</a>
+
+    <div id='div_pt1.15' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.15').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.15: 2017-06-16 17:01:34,369 - root - INFO - SUCCESS    Drag and drop element: &lt;css-&gt;tbody.personnel_table &gt; tr:nth-of-type(3) &gt; td:nth-of-type(1)&gt; to element: &lt;css-&gt;tbody.personnel_table &gt; tr:nth-of-type(1) &gt; td:nth-of-type(1)&gt;, Spend 0.325381994247 seconds
+2017-06-16 17:01:35,139 - root - INFO - SUCCESS    Drag and drop element: &lt;css-&gt;tbody.personnel_table &gt; tr:nth-of-type(1) &gt; td:nth-of-type(1)&gt; to element: &lt;css-&gt;tbody.personnel_table &gt; tr:nth-of-type(3) &gt; td:nth-of-type(1)&gt;, Spend 0.266633987427 seconds
+2017-06-16 17:01:35,153 - root - INFO - SUCCESS    Element: &lt;id-&gt;jingoalAsyncTip&gt; is exist, Spend 0.0138080120087 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr class='passClass'>
+    <td>test_task.TestTaskIndex: 任务应用测试</td>
+    <td>19</td>
+    <td>19</td>
+    <td>0</td>
+    <td>0</td>
+    <td><a href="javascript:showClassDetail('c2',19)">Detail</a></td>
+</tr>
+
+<tr id='pt2.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_01_task_page: 验证任务页面</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt2.1')" >
+        pass</a>
+
+    <div id='div_pt2.1' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt2.1').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt2.1: 2017-06-16 17:01:47,573 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;div.addBtn&gt;, Spend 0.12900185585 seconds
+2017-06-16 17:01:48,232 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;i.jgicon.jgicon-flag&gt;, Spend 0.658211946487 seconds
+2017-06-16 17:01:48,343 - root - INFO - SUCCESS    Switch to frame element: &lt;css-&gt;iframe&gt;, Spend 0.110370874405 seconds
+2017-06-16 17:01:49,392 - root - INFO - SUCCESS    Element: &lt;css-&gt;div.btn_addTask.btn_addTask&gt; is exist, Spend 1.04858708382 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt2.2' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_02_new_task: 新建任务</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt2.2')" >
+        pass</a>
+
+    <div id='div_pt2.2' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt2.2').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt2.2: 2017-06-16 17:01:49,551 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;div.btn_addTask.btn_addTask&gt;, Spend 0.157283067703 seconds
+2017-06-16 17:01:51,016 - root - INFO - SUCCESS    Clear and type element: &lt;css-&gt;div.line-height-normal.task_title.text-input-wrap.ui-input &gt; input&gt; content: Task-Title_2017-06-16_17-00-52, Spend 1.46432304382 seconds
+2017-06-16 17:01:51,166 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.bg-blue.btn.task_edit_submit.ui-button&gt;, Spend 0.148922920227 seconds
+2017-06-16 17:01:52,216 - root - INFO - SUCCESS    Element: &lt;css-&gt;label.title&gt; is exist, Spend 1.04981613159 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt2.3' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_03_edit_task: 编辑任务</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt2.3')" >
+        pass</a>
+
+    <div id='div_pt2.3' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt2.3').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt2.3: 2017-06-16 17:01:52,396 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.default.task_edit_btn.ui-button&gt;, Spend 0.179020166397 seconds
+2017-06-16 17:01:53,529 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.bg-blue.btn.task_edit_submit.ui-button&gt;, Spend 1.13207912445 seconds
+2017-06-16 17:01:53,539 - root - INFO - SUCCESS    Element: &lt;css-&gt;label.title&gt; is exist, Spend 0.00901699066162 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt2.4' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_04_add_event: 新建事件</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt2.4')" >
+        pass</a>
+
+    <div id='div_pt2.4' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt2.4').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt2.4: 2017-06-16 17:01:54,690 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.default.task_affair_add_btn.ui-button&gt;, Spend 0.148849010468 seconds
+2017-06-16 17:01:55,899 - root - INFO - SUCCESS    Clear and type element: &lt;css-&gt;div.line-height-normal.task_affair_title.text-input-wrap.ui-input &gt; input&gt; content: Event_Title, Spend 1.2080039978 seconds
+2017-06-16 17:01:56,024 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.bg-blue.task_affair_submit.ui-button&gt;, Spend 0.124939918518 seconds
+2017-06-16 17:01:57,075 - root - INFO - SUCCESS    Element: &lt;css-&gt;td.task_affair_list_title.title &gt; div.ellipsis&gt; is exist, Spend 1.05028295517 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt2.5' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_05_add_comment: 评论事件</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt2.5')" >
+        pass</a>
+
+    <div id='div_pt2.5' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt2.5').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt2.5: 2017-06-16 17:01:57,235 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;td.task_affair_list_title.title &gt; div.ellipsis&gt;, Spend 0.15917301178 seconds
+2017-06-16 17:01:58,524 - root - INFO - SUCCESS    Clear and type element: &lt;css-&gt;div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr&gt; content: Comment Content, Spend 0.284378051758 seconds
+2017-06-16 17:01:58,661 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.bg-blue.btn.comment_submit_button.ui-button&gt;, Spend 0.135924100876 seconds
+2017-06-16 17:01:59,708 - root - INFO - SUCCESS    Element: &lt;css-&gt;img.image&gt; is exist, Spend 1.04651093483 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt2.6' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_06_finish_event: 完成事件</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt2.6')" >
+        pass</a>
+
+    <div id='div_pt2.6' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt2.6').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt2.6: 2017-06-16 17:01:59,873 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.default.task_affair_finish&gt;, Spend 0.164973020554 seconds
+2017-06-16 17:02:00,058 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;div.modal-footer-content &gt; button.bg-blue.btn.btn.ui-button&gt;, Spend 0.183740854263 seconds
+2017-06-16 17:02:01,087 - root - INFO - SUCCESS    Element: &lt;css-&gt;div.title-left &gt; button.btn.default&gt; is exist, Spend 0.0243511199951 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt2.7' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_07_resume_event: 恢复事件</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt2.7')" >
+        pass</a>
+
+    <div id='div_pt2.7' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt2.7').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt2.7: 2017-06-16 17:02:01,229 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;div.title-left &gt; button.btn.default&gt;, Spend 0.142260789871 seconds
+2017-06-16 17:02:02,353 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;div.modal-footer-content &gt; button.bg-blue.btn.btn.ui-button&gt;, Spend 0.11915397644 seconds
+2017-06-16 17:02:03,373 - root - INFO - SUCCESS    Element: &lt;css-&gt;button.btn.default.task_affair_finish&gt; is exist, Spend 0.0172810554504 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt2.8' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_08_add_discussion: 发起讨论</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt2.8')" >
+        pass</a>
+
+    <div id='div_pt2.8' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt2.8').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt2.8: 2017-06-16 17:02:03,749 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;div.task_tab.task_talk_list_tab&gt;, Spend 0.372347831726 seconds
+2017-06-16 17:02:05,077 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.default.task_talk_add_btn.ui-button&gt;, Spend 1.3276219368 seconds
+2017-06-16 17:02:06,571 - root - INFO - SUCCESS    Clear and type element: &lt;css-&gt;div.line-height-normal.talk_title.text-input-wrap.ui-input &gt; input&gt; content: Discussion_Title, Spend 1.49309396744 seconds
+2017-06-16 17:02:06,834 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.bg-blue.talk_edit_submit.ui-button&gt;, Spend 0.262296199799 seconds
+2017-06-16 17:02:07,949 - root - INFO - SUCCESS    Element: &lt;css-&gt;tbody &gt; tr:nth-of-type(1) &gt; td.task_talk_list_title.title&gt; is exist, Spend 1.11370396614 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt2.9' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_09_edit_discussion: 编辑讨论</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt2.9')" >
+        pass</a>
+
+    <div id='div_pt2.9' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt2.9').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt2.9: 2017-06-16 17:02:08,218 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;tbody &gt; tr:nth-of-type(1) &gt; td.task_talk_list_title.title&gt;, Spend 0.269159078598 seconds
+2017-06-16 17:02:09,496 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.default.task_talk_edit_btn&gt;, Spend 0.275301933289 seconds
+2017-06-16 17:02:10,643 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.bg-blue.talk_edit_submit.ui-button&gt;, Spend 1.14669203758 seconds
+2017-06-16 17:02:11,701 - root - INFO - SUCCESS    Element: &lt;id-&gt;jingoalAsyncTip&gt; is exist, Spend 1.05685591698 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt2.10' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_10_comment_discussion: 对讨论进行评论</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt2.10')" >
+        pass</a>
+
+    <div id='div_pt2.10' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt2.10').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt2.10: 2017-06-16 17:02:12,925 - root - INFO - SUCCESS    Clear and type element: &lt;css-&gt;div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr&gt; content: Comment Content, Spend 0.221566200256 seconds
+2017-06-16 17:02:13,078 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.bg-blue.btn.comment_submit_button.ui-button&gt;, Spend 0.152690887451 seconds
+2017-06-16 17:02:14,122 - root - INFO - SUCCESS    Element: &lt;css-&gt;img.image&gt; is exist, Spend 1.04372191429 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt2.11' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_11_summarize_discussion: 总结讨论</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt2.11')" >
+        pass</a>
+
+    <div id='div_pt2.11' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt2.11').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt2.11: 2017-06-16 17:02:14,274 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.default.task_talk_summary_btn&gt;, Spend 0.151452064514 seconds
+2017-06-16 17:02:15,553 - root - INFO - SUCCESS    Clear and type element: &lt;css-&gt;#cke_talk_summary_desc &gt; div.cke_inner.cke_reset &gt; div.cke_contents.cke_reset &gt; div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr&gt; content: Summary Content, Spend 1.27786111832 seconds
+2017-06-16 17:02:15,699 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.bg-blue.talk_summary_submit.ui-button&gt;, Spend 0.145384073257 seconds
+2017-06-16 17:02:16,743 - root - INFO - SUCCESS    Element: &lt;css-&gt;div.item-detail.editor_style &gt; p:nth-of-type(1)&gt; is exist, Spend 1.04350495338 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt2.12' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_12_end_discussion: 结束讨论</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt2.12')" >
+        pass</a>
+
+    <div id='div_pt2.12' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt2.12').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt2.12: 2017-06-16 17:02:16,910 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;div.title-left &gt; button:nth-of-type(3)&gt;, Spend 0.165479898453 seconds
+2017-06-16 17:02:17,124 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;div.modal-footer-content &gt; button.bg-blue.btn.btn.ui-button&gt;, Spend 0.213932991028 seconds
+2017-06-16 17:02:18,160 - root - INFO - SUCCESS    Element: &lt;css-&gt;div.title-left &gt; button:nth-of-type(2)&gt; is exist, Spend 0.0337200164795 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt2.13' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_13_resume_discussion: 恢复讨论</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt2.13')" >
+        pass</a>
+
+    <div id='div_pt2.13' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt2.13').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt2.13: 2017-06-16 17:02:18,331 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;div.title-left &gt; button:nth-of-type(2)&gt;, Spend 0.169583797455 seconds
+2017-06-16 17:02:18,549 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.btn.bg-blue.ui-button&gt;, Spend 0.217491149902 seconds
+2017-06-16 17:02:19,588 - root - INFO - SUCCESS    Element: &lt;css-&gt;div.title-left &gt; button:nth-of-type(3)&gt; is exist, Spend 1.03872108459 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt2.14' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_14_summary_task: 总结任务</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt2.14')" >
+        pass</a>
+
+    <div id='div_pt2.14' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt2.14').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt2.14: 2017-06-16 17:02:19,753 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.default.task_summary_btn.ui-button&gt;, Spend 0.164123058319 seconds
+2017-06-16 17:02:21,127 - root - INFO - SUCCESS    Clear and type element: &lt;css-&gt;div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr&gt; content: Task Summary!2017-06-16_17-00-52, Spend 1.37301111221 seconds
+2017-06-16 17:02:21,278 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.bg-blue.btn.task_edit_submit.ui-button&gt;, Spend 0.150405883789 seconds
+2017-06-16 17:02:22,333 - root - INFO - SUCCESS    Element: &lt;xpath-&gt;//*[@id="task113-detail-block"]/div[1]/div/div/div/ul/li[8]/div/div[2]/p&gt; is exist, Spend 1.05470204353 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt2.15' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_15_recall_task: 撤销任务</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt2.15')" >
+        pass</a>
+
+    <div id='div_pt2.15' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt2.15').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt2.15: 2017-06-16 17:02:22,473 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.default.task_revoke_btn.ui-button&gt;, Spend 0.139578104019 seconds
+2017-06-16 17:02:23,645 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.bg-blue.btn.submit.ui-button&gt;, Spend 1.17112207413 seconds
+2017-06-16 17:02:23,672 - root - INFO - SUCCESS    Element: &lt;css-&gt;div.vertical-middle.btn-left.inline &gt; button.btn.default.ui-button&gt; is exist, Spend 0.0261459350586 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt2.16' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_16_resume_task: 恢复任务</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt2.16')" >
+        pass</a>
+
+    <div id='div_pt2.16' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt2.16').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt2.16: 2017-06-16 17:02:24,809 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;div.vertical-middle.btn-left.inline &gt; button.btn.default.ui-button&gt;, Spend 0.132668972015 seconds
+2017-06-16 17:02:24,923 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;div.modal-footer-content &gt; button.bg-blue.btn.btn.ui-button&gt;, Spend 0.112895965576 seconds
+2017-06-16 17:02:25,936 - root - INFO - SUCCESS    Element: &lt;css-&gt;button.btn.default.task_revoke_btn.ui-button&gt; is exist, Spend 0.0102820396423 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt2.17' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_17_finish_task: 完成任务</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt2.17')" >
+        pass</a>
+
+    <div id='div_pt2.17' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt2.17').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt2.17: 2017-06-16 17:02:26,086 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.default.task_complete_btn.ui-button&gt;, Spend 0.148988962173 seconds
+2017-06-16 17:02:27,241 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.bg-blue.btn.task_edit_submit.ui-button&gt;, Spend 1.15406703949 seconds
+2017-06-16 17:02:28,289 - root - INFO - SUCCESS    Element: &lt;css-&gt;label.remark_muted&gt; is exist, Spend 1.04716205597 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt2.18' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_18_event_tag_new: 新建事件类型</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt2.18')" >
+        pass</a>
+
+    <div id='div_pt2.18' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt2.18').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt2.18: 2017-06-16 17:02:28,476 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;ul.taskMenu &gt; li:nth-of-type(3) &gt; h3.task-item&gt;, Spend 0.186526060104 seconds
+2017-06-16 17:02:29,662 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.btn.default.task_affair_tag_add_btn.ui-button&gt;, Spend 1.18469119072 seconds
+2017-06-16 17:02:29,831 - root - INFO - SUCCESS    Clear and type element: &lt;css-&gt;div.line-height-normal.text-input-wrap.ui-input &gt; input&gt; content: Event Tag, Spend 0.168542146683 seconds
+2017-06-16 17:02:30,018 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;button.bg-blue.btn.btn_submit.ui-button&gt;, Spend 0.186237812042 seconds
+2017-06-16 17:02:31,069 - root - INFO - SUCCESS    Element: &lt;css-&gt;tbody &gt; tr:nth-of-type(9) &gt; td.title&gt; is exist, Spend 1.0487279892 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt2.19' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_19_event_tag_delete: 删除事件类型</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt2.19')" >
+        pass</a>
+
+    <div id='div_pt2.19' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt2.19').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt2.19: 2017-06-16 17:02:31,294 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;tbody &gt; tr:nth-of-type(9) &gt; td:nth-of-type(3) &gt; a.deletetag&gt;, Spend 0.223083019257 seconds
+2017-06-16 17:02:31,413 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;div.modal-footer-content &gt; button.bg-blue.btn.btn.ui-button&gt;, Spend 0.118266105652 seconds
+2017-06-16 17:02:32,438 - root - INFO - SUCCESS    Element: &lt;id-&gt;jingoalAsyncTip&gt; is exist, Spend 0.021635055542 seconds
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='total_row'>
+    <td>Total</td>
+    <td>34</td>
+    <td>34</td>
+    <td>0</td>
+    <td>0</td>
+    <td>&nbsp;</td>
+</tr>
+</table>
+
+<div id='ending'>&nbsp;</div>
+
+</body>
+</html>

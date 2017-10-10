@@ -1,0 +1,1317 @@
+2017-06-16 10:47:35,129 - root - INFO - ######################## This App Cases Start #########################
+2017-06-16 10:47:37,732 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.60141301155 seconds
+2017-06-16 10:47:38,098 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 0.364917993546 seconds
+2017-06-16 10:47:40,188 - root - INFO - SUCCESS    Navigated to http://web.jingoal.com, Spend 2.0892829895 seconds
+2017-06-16 10:47:41,753 - root - INFO - SUCCESS    Clear and type element: <id->email> content: admin@1566720, Spend 1.56321001053 seconds
+2017-06-16 10:47:41,942 - root - INFO - SUCCESS    Clear and type element: <id->password> content: `12qwaszx, Spend 0.188766002655 seconds
+2017-06-16 10:47:42,068 - root - INFO - SUCCESS    Clicked element: <css->a.btn-submit.ng-binding>, Spend 0.125085830688 seconds
+2017-06-16 10:47:45,215 - root - INFO - SUCCESS    Clicked element: <css->div.addBtn>, Spend 0.140279054642 seconds
+2017-06-16 10:47:46,363 - root - INFO - SUCCESS    Clicked element: <css->i.jgicon.jgicon-pageage>, Spend 1.14810013771 seconds
+2017-06-16 10:47:46,414 - root - INFO - SUCCESS    Switch to frame element: <css->iframe>, Spend 0.050302028656 seconds
+2017-06-16 10:47:47,464 - root - INFO - SUCCESS    Element: <css->div.bread-left> is exist, Spend 1.05016493797 seconds
+2017-06-16 10:47:47,642 - root - INFO - SUCCESS    Clicked element: <css->span.mid_text>, Spend 0.1769759655 seconds
+2017-06-16 10:47:48,943 - root - INFO - SUCCESS    Clear and type element: <css->#addScrollDiv > ul > li:nth-child(2) > div > input[type="text"]> content: notice-title_2017-06-16_10-47-35, Spend 1.3002281189 seconds
+2017-06-16 10:47:49,218 - root - INFO - SUCCESS    Clear and type element: <css->#cke_1_contents > div> content: notice-content-test, Spend 0.274517059326 seconds
+2017-06-16 10:47:49,374 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="addScrollDiv"]/ul/li[9]/button[3]>, Spend 0.155097961426 seconds
+2017-06-16 10:47:50,427 - root - INFO - SUCCESS    Element: <css->h6.ui-dialog-title.notice-preview-dialog-title> is exist, Spend 1.05235910416 seconds
+2017-06-16 10:47:50,589 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="notice-preview-body"]/div[3]/button>, Spend 0.161182880402 seconds
+2017-06-16 10:47:50,766 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btn_save.confirm.ui-button>, Spend 0.175454854965 seconds
+2017-06-16 10:47:51,811 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.publishNotice> is exist, Spend 1.04438304901 seconds
+2017-06-16 10:47:51,971 - root - INFO - SUCCESS    Clicked element: <css->button.btn.notice-option.publishNotice>, Spend 0.16001200676 seconds
+2017-06-16 10:47:52,131 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.ui-button>, Spend 0.158874034882 seconds
+2017-06-16 10:47:53,175 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.suspendNotice> is exist, Spend 1.04415202141 seconds
+2017-06-16 10:47:53,280 - root - INFO - SUCCESS    Clicked element: <css->button.btn.notice-option.suspendNotice>, Spend 0.104054927826 seconds
+2017-06-16 10:47:53,392 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.ui-button>, Spend 0.111789941788 seconds
+2017-06-16 10:47:54,432 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.publishNotice> is exist, Spend 1.03918004036 seconds
+2017-06-16 10:47:54,582 - root - INFO - SUCCESS    Clicked element: <css->button.btn.editNotice.notice-option>, Spend 0.148883104324 seconds
+2017-06-16 10:47:55,756 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btn_submit.confirm.ui-button>, Spend 1.17386817932 seconds
+2017-06-16 10:47:56,803 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.editNotice> is exist, Spend 1.0459959507 seconds
+2017-06-16 10:47:58,971 - root - INFO - SUCCESS    Clicked element: <css->button.btn.notice-option.stickNotice>, Spend 0.15954208374 seconds
+2017-06-16 10:48:00,020 - root - INFO - SUCCESS    Element: <css->button.btn.cancelStickNotice.notice-option> is exist, Spend 1.04824709892 seconds
+2017-06-16 10:48:02,155 - root - INFO - SUCCESS    Clicked element: <css->button.btn.cancelStickNotice.notice-option>, Spend 0.130059957504 seconds
+2017-06-16 10:48:03,187 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.stickNotice> is exist, Spend 1.03108406067 seconds
+2017-06-16 10:48:03,331 - root - INFO - SUCCESS    Clicked element: <css->i.notice_detail_attention>, Spend 0.14329791069 seconds
+2017-06-16 10:48:04,364 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0286748409271 seconds
+2017-06-16 10:48:05,463 - root - INFO - SUCCESS    Clicked element: <css->div.detail-basics-title > div:nth-of-type(1) > i>, Spend 0.0961089134216 seconds
+2017-06-16 10:48:06,481 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0153729915619 seconds
+2017-06-16 10:48:07,633 - root - INFO - SUCCESS    Clicked element: <css->button.btn.delNotice.notice-option>, Spend 0.150411844254 seconds
+2017-06-16 10:48:07,782 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.ui-button>, Spend 0.148014068604 seconds
+2017-06-16 10:48:08,811 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 1.02906084061 seconds
+2017-06-16 10:48:08,957 - root - INFO - SUCCESS    Clicked element: <css->#notice_label_setting>, Spend 0.14399600029 seconds
+2017-06-16 10:48:10,118 - root - INFO - SUCCESS    Clicked element: <css->button.add-columns-btn.border.btn.default.newColum>, Spend 1.16106390953 seconds
+2017-06-16 10:48:10,351 - root - INFO - SUCCESS    Clear and type element: <css->div.columName.text-input-wrap.top-border-dark.ui-input > input> content: category name, Spend 0.231167078018 seconds
+2017-06-16 10:48:10,487 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btnOK.columOK.confirm.ui-button>, Spend 0.135722160339 seconds
+2017-06-16 10:48:11,517 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 1.02885389328 seconds
+2017-06-16 10:48:11,653 - root - INFO - SUCCESS    Clicked element: <css->tbody.personnel_table > tr:nth-of-type(4) > td:nth-of-type(4) > div.opt-btn-warp > button:nth-of-type(1)>, Spend 0.135298013687 seconds
+2017-06-16 10:48:11,781 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btnOK.columOK.confirm.ui-button>, Spend 0.127646923065 seconds
+2017-06-16 10:48:11,792 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0106821060181 seconds
+2017-06-16 10:48:12,944 - root - INFO - SUCCESS    Clicked element: <css->tbody.personnel_table > tr:nth-of-type(4) > td:nth-of-type(4) > div.opt-btn-warp > button:nth-of-type(2)>, Spend 0.146948099136 seconds
+2017-06-16 10:48:13,052 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.ui-button>, Spend 0.107540845871 seconds
+2017-06-16 10:48:13,061 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.00888085365295 seconds
+2017-06-16 10:48:14,354 - root - INFO - SUCCESS    Drag and drop element: <css->tbody.personnel_table > tr:nth-of-type(3) > td:nth-of-type(1)> to element: <css->tbody.personnel_table > tr:nth-of-type(1) > td:nth-of-type(1)>, Spend 0.290589094162 seconds
+2017-06-16 10:48:15,017 - root - INFO - SUCCESS    Drag and drop element: <css->tbody.personnel_table > tr:nth-of-type(1) > td:nth-of-type(1)> to element: <css->tbody.personnel_table > tr:nth-of-type(3) > td:nth-of-type(1)>, Spend 0.160643100739 seconds
+2017-06-16 10:48:15,028 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0103230476379 seconds
+2017-06-16 10:48:15,291 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.262995958328 seconds
+2017-06-16 10:48:15,292 - root - INFO - ######################## This App Cases End ###########################
+2017-06-16 10:48:15,294 - root - INFO - ######################## This App Cases Start #########################
+2017-06-16 10:48:17,401 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.10617518425 seconds
+2017-06-16 10:48:17,694 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 0.292061805725 seconds
+2017-06-16 10:48:19,549 - root - INFO - SUCCESS    Navigated to http://web.jingoal.com, Spend 1.85443091393 seconds
+2017-06-16 10:48:21,051 - root - INFO - SUCCESS    Clear and type element: <id->email> content: admin@1566720, Spend 1.50150179863 seconds
+2017-06-16 10:48:21,220 - root - INFO - SUCCESS    Clear and type element: <id->password> content: `12qwaszx, Spend 0.168365001678 seconds
+2017-06-16 10:48:21,345 - root - INFO - SUCCESS    Clicked element: <css->a.btn-submit.ng-binding>, Spend 0.124418020248 seconds
+2017-06-16 10:48:24,493 - root - INFO - SUCCESS    Clicked element: <css->div.addBtn>, Spend 0.144866943359 seconds
+2017-06-16 10:48:25,460 - root - INFO - SUCCESS    Clicked element: <css->i.jgicon.jgicon-flag>, Spend 0.966775894165 seconds
+2017-06-16 10:48:25,511 - root - INFO - SUCCESS    Switch to frame element: <css->iframe>, Spend 0.0505011081696 seconds
+2017-06-16 10:48:26,556 - root - INFO - SUCCESS    Element: <css->div.btn_addTask.btn_addTask> is exist, Spend 1.04394602776 seconds
+2017-06-16 10:48:26,693 - root - INFO - SUCCESS    Clicked element: <css->div.btn_addTask.btn_addTask>, Spend 0.13658285141 seconds
+2017-06-16 10:48:28,038 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_title.text-input-wrap.ui-input > input> content: Task-Title_2017-06-16_10-47-35, Spend 1.34498906136 seconds
+2017-06-16 10:48:28,177 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 0.136773824692 seconds
+2017-06-16 10:48:29,228 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 1.05005407333 seconds
+2017-06-16 10:48:29,362 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_edit_btn.ui-button>, Spend 0.133744001389 seconds
+2017-06-16 10:48:30,487 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 1.12425303459 seconds
+2017-06-16 10:48:30,496 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 0.00882482528687 seconds
+2017-06-16 10:48:31,636 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_add_btn.ui-button>, Spend 0.134968996048 seconds
+2017-06-16 10:48:32,838 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_affair_title.text-input-wrap.ui-input > input> content: Event_Title, Spend 1.2010140419 seconds
+2017-06-16 10:48:32,959 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.task_affair_submit.ui-button>, Spend 0.119554042816 seconds
+2017-06-16 10:48:34,002 - root - INFO - SUCCESS    Element: <css->td.task_affair_list_title.title > div.ellipsis> is exist, Spend 1.04286289215 seconds
+2017-06-16 10:48:34,151 - root - INFO - SUCCESS    Clicked element: <css->td.task_affair_list_title.title > div.ellipsis>, Spend 0.148111104965 seconds
+2017-06-16 10:48:35,389 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.234595060349 seconds
+2017-06-16 10:48:35,532 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.139776945114 seconds
+2017-06-16 10:48:36,578 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.04520606995 seconds
+2017-06-16 10:48:36,713 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_finish>, Spend 0.133972883224 seconds
+2017-06-16 10:48:36,876 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.16179895401 seconds
+2017-06-16 10:48:37,911 - root - INFO - SUCCESS    Element: <css->div.title-left > button.btn.default> is exist, Spend 0.0308048725128 seconds
+2017-06-16 10:48:38,036 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button.btn.default>, Spend 0.124000072479 seconds
+2017-06-16 10:48:39,165 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.btn.btn.bg-blue.ui-button>, Spend 0.12402009964 seconds
+2017-06-16 10:48:40,193 - root - INFO - SUCCESS    Element: <css->button.btn.default.task_affair_finish> is exist, Spend 1.02762293816 seconds
+2017-06-16 10:48:40,361 - root - INFO - SUCCESS    Clicked element: <css->div.task_tab.task_talk_list_tab>, Spend 0.167308092117 seconds
+2017-06-16 10:48:41,569 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_add_btn.ui-button>, Spend 1.20695090294 seconds
+2017-06-16 10:48:42,805 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.talk_title.text-input-wrap.ui-input > input> content: Discussion_Title, Spend 1.23581886292 seconds
+2017-06-16 10:48:42,973 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 0.168036937714 seconds
+2017-06-16 10:48:44,031 - root - INFO - SUCCESS    Element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title> is exist, Spend 1.05686283112 seconds
+2017-06-16 10:48:44,161 - root - INFO - SUCCESS    Clicked element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title>, Spend 0.129492044449 seconds
+2017-06-16 10:48:45,305 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_edit_btn>, Spend 0.138805866241 seconds
+2017-06-16 10:48:46,424 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 1.11808514595 seconds
+2017-06-16 10:48:47,468 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 1.0441660881 seconds
+2017-06-16 10:48:48,702 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.226946115494 seconds
+2017-06-16 10:48:48,844 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.141319036484 seconds
+2017-06-16 10:48:49,894 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.04941701889 seconds
+2017-06-16 10:48:50,038 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_summary_btn>, Spend 0.142915964127 seconds
+2017-06-16 10:48:51,389 - root - INFO - SUCCESS    Clear and type element: <css->#cke_talk_summary_desc > div.cke_inner.cke_reset > div.cke_contents.cke_reset > div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: summary_content, Spend 1.3511068821 seconds
+2017-06-16 10:48:51,570 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_summary_submit.ui-button>, Spend 0.180467128754 seconds
+2017-06-16 10:48:52,612 - root - INFO - SUCCESS    Element: <css->div.item-detail.editor_style > p:nth-of-type(1)> is exist, Spend 1.04117417336 seconds
+2017-06-16 10:48:52,689 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.0762898921967 seconds
+2017-06-16 10:48:52,690 - root - INFO - ######################## This App Cases End ###########################
+2017-06-16 10:48:57,497 - root - INFO - 发送邮件成功
+2017-06-16 14:19:33,770 - root - INFO - ######################## This App Cases Start #########################
+2017-06-16 14:19:36,469 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.69291710854 seconds
+2017-06-16 14:19:36,813 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 0.343787193298 seconds
+2017-06-16 14:19:38,714 - root - INFO - SUCCESS    Navigated to http://web.jingoal.com, Spend 1.8993999958 seconds
+2017-06-16 14:19:42,026 - root - INFO - SUCCESS    Clear and type element: <id->email> content: admin@1566720, Spend 3.31215119362 seconds
+2017-06-16 14:19:42,193 - root - INFO - SUCCESS    Clear and type element: <id->password> content: `12qwaszx, Spend 0.164113998413 seconds
+2017-06-16 14:19:42,301 - root - INFO - SUCCESS    Clicked element: <css->a.btn-submit.ng-binding>, Spend 0.106718063354 seconds
+2017-06-16 14:19:46,584 - root - INFO - SUCCESS    Clicked element: <css->div.addBtn>, Spend 1.27627515793 seconds
+2017-06-16 14:19:47,241 - root - INFO - SUCCESS    Clicked element: <css->i.jgicon.jgicon-flag>, Spend 0.65371799469 seconds
+2017-06-16 14:19:47,295 - root - INFO - SUCCESS    Switch to frame element: <css->iframe>, Spend 0.0535681247711 seconds
+2017-06-16 14:19:48,398 - root - INFO - SUCCESS    Element: <css->div.btn_addTask.btn_addTask> is exist, Spend 1.10263609886 seconds
+2017-06-16 14:19:48,567 - root - INFO - SUCCESS    Clicked element: <css->div.btn_addTask.btn_addTask>, Spend 0.165010929108 seconds
+2017-06-16 14:19:49,965 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_title.text-input-wrap.ui-input > input> content: Task-Title_2017-06-16_14-19-33, Spend 1.39789700508 seconds
+2017-06-16 14:19:50,106 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 0.140803098679 seconds
+2017-06-16 14:19:51,148 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 1.040776968 seconds
+2017-06-16 14:19:51,308 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_edit_btn.ui-button>, Spend 0.158387184143 seconds
+2017-06-16 14:19:52,432 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 1.12367391586 seconds
+2017-06-16 14:19:52,446 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 0.0137739181519 seconds
+2017-06-16 14:19:53,593 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_add_btn.ui-button>, Spend 0.139651060104 seconds
+2017-06-16 14:19:54,805 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_affair_title.text-input-wrap.ui-input > input> content: Event_Title, Spend 1.21141791344 seconds
+2017-06-16 14:19:54,932 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.task_affair_submit.ui-button>, Spend 0.12499499321 seconds
+2017-06-16 14:19:55,975 - root - INFO - SUCCESS    Element: <css->td.task_affair_list_title.title > div.ellipsis> is exist, Spend 1.04191994667 seconds
+2017-06-16 14:19:56,140 - root - INFO - SUCCESS    Clicked element: <css->td.task_affair_list_title.title > div.ellipsis>, Spend 0.16252207756 seconds
+2017-06-16 14:19:57,596 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.453099012375 seconds
+2017-06-16 14:19:57,802 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.205544948578 seconds
+2017-06-16 14:19:58,857 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.05412793159 seconds
+2017-06-16 14:19:59,028 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_finish>, Spend 0.169840097427 seconds
+2017-06-16 14:19:59,243 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.21413397789 seconds
+2017-06-16 14:20:00,272 - root - INFO - SUCCESS    Element: <css->div.title-left > button.btn.default> is exist, Spend 0.0222060680389 seconds
+2017-06-16 14:20:00,434 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button.btn.default>, Spend 0.159860134125 seconds
+2017-06-16 14:20:01,599 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.160414934158 seconds
+2017-06-16 14:20:02,619 - root - INFO - SUCCESS    Element: <css->button.btn.default.task_affair_finish> is exist, Spend 0.0168850421906 seconds
+2017-06-16 14:20:02,787 - root - INFO - SUCCESS    Clicked element: <css->div.task_tab.task_talk_list_tab>, Spend 0.164650917053 seconds
+2017-06-16 14:20:03,942 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_add_btn.ui-button>, Spend 1.15541911125 seconds
+2017-06-16 14:20:05,188 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.talk_title.text-input-wrap.ui-input > input> content: Discussion_Title, Spend 1.24468111992 seconds
+2017-06-16 14:20:05,314 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 0.125700950623 seconds
+2017-06-16 14:20:06,365 - root - INFO - SUCCESS    Element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title> is exist, Spend 1.05011820793 seconds
+2017-06-16 14:20:06,521 - root - INFO - SUCCESS    Clicked element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title>, Spend 0.153393030167 seconds
+2017-06-16 14:20:07,676 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_edit_btn>, Spend 0.150197982788 seconds
+2017-06-16 14:20:08,806 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 1.12991595268 seconds
+2017-06-16 14:20:09,851 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 1.04418301582 seconds
+2017-06-16 14:20:11,093 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.238567113876 seconds
+2017-06-16 14:20:11,231 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.135997056961 seconds
+2017-06-16 14:20:12,274 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.04290699959 seconds
+2017-06-16 14:20:12,443 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_summary_btn>, Spend 0.165274858475 seconds
+2017-06-16 14:20:13,691 - root - INFO - SUCCESS    Clear and type element: <css->#cke_talk_summary_desc > div.cke_inner.cke_reset > div.cke_contents.cke_reset > div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Summary Content, Spend 1.24725818634 seconds
+2017-06-16 14:20:13,831 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_summary_submit.ui-button>, Spend 0.137121915817 seconds
+2017-06-16 14:20:14,881 - root - INFO - SUCCESS    Element: <css->div.item-detail.editor_style > p:nth-of-type(1)> is exist, Spend 1.0499560833 seconds
+2017-06-16 14:20:15,039 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button:nth-of-type(3)>, Spend 0.156197071075 seconds
+2017-06-16 14:20:15,210 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.169629096985 seconds
+2017-06-16 14:20:16,240 - root - INFO - SUCCESS    Element: <css->div.title-left > button:nth-of-type(2)> is exist, Spend 0.029853105545 seconds
+2017-06-16 14:20:16,375 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button:nth-of-type(2)>, Spend 0.13303399086 seconds
+2017-06-16 14:20:16,568 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btn.bg-blue.ui-button>, Spend 0.192555904388 seconds
+2017-06-16 14:20:17,603 - root - INFO - SUCCESS    Element: <css->div.title-left > button:nth-of-type(3)> is exist, Spend 1.03409910202 seconds
+2017-06-16 14:20:17,750 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_summary_btn.ui-button>, Spend 0.145498037338 seconds
+2017-06-16 14:20:19,107 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Task Summary!2017-06-16_14-19-33, Spend 1.35643386841 seconds
+2017-06-16 14:20:19,259 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 0.151961088181 seconds
+2017-06-16 14:20:19,377 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.11630988121 seconds
+2017-06-16 14:20:19,378 - root - INFO - ######################## This App Cases End ###########################
+2017-06-16 15:10:20,595 - root - INFO - ######################## This App Cases Start #########################
+2017-06-16 15:10:24,163 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.55824303627 seconds
+2017-06-16 15:10:24,460 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 0.296334028244 seconds
+2017-06-16 15:10:26,775 - root - INFO - SUCCESS    Navigated to http://web.jingoal.com, Spend 2.31443476677 seconds
+2017-06-16 15:10:29,818 - root - INFO - SUCCESS    Clear and type element: <id->email> content: admin@1566720, Spend 3.04222202301 seconds
+2017-06-16 15:10:30,011 - root - INFO - SUCCESS    Clear and type element: <id->password> content: `12qwaszx, Spend 0.190092802048 seconds
+2017-06-16 15:10:30,127 - root - INFO - SUCCESS    Clicked element: <css->a.btn-submit.ng-binding>, Spend 0.115796804428 seconds
+2017-06-16 15:10:33,279 - root - INFO - SUCCESS    Clicked element: <css->div.addBtn>, Spend 0.138568162918 seconds
+2017-06-16 15:10:34,045 - root - INFO - SUCCESS    Clicked element: <css->i.jgicon.jgicon-flag>, Spend 0.76576089859 seconds
+2017-06-16 15:10:34,106 - root - INFO - SUCCESS    Switch to frame element: <css->iframe>, Spend 0.0606951713562 seconds
+2017-06-16 15:10:35,205 - root - INFO - SUCCESS    Element: <css->div.btn_addTask.btn_addTask> is exist, Spend 1.09763503075 seconds
+2017-06-16 15:10:35,399 - root - INFO - SUCCESS    Clicked element: <css->div.btn_addTask.btn_addTask>, Spend 0.191790819168 seconds
+2017-06-16 15:10:36,984 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_title.text-input-wrap.ui-input > input> content: Task-Title_2017-06-16_15-10-20, Spend 1.5817399025 seconds
+2017-06-16 15:10:37,156 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 0.171804904938 seconds
+2017-06-16 15:10:38,204 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 1.04736495018 seconds
+2017-06-16 15:10:38,361 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_edit_btn.ui-button>, Spend 0.154565811157 seconds
+2017-06-16 15:10:39,512 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 1.15055608749 seconds
+2017-06-16 15:10:39,522 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 0.00887298583984 seconds
+2017-06-16 15:10:40,682 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_add_btn.ui-button>, Spend 0.156744003296 seconds
+2017-06-16 15:10:41,927 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_affair_title.text-input-wrap.ui-input > input> content: Event_Title, Spend 1.24423503876 seconds
+2017-06-16 15:10:42,061 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.task_affair_submit.ui-button>, Spend 0.131747961044 seconds
+2017-06-16 15:10:43,111 - root - INFO - SUCCESS    Element: <css->td.task_affair_list_title.title > div.ellipsis> is exist, Spend 1.04946613312 seconds
+2017-06-16 15:10:43,358 - root - INFO - SUCCESS    Clicked element: <css->td.task_affair_list_title.title > div.ellipsis>, Spend 0.242858171463 seconds
+2017-06-16 15:10:44,687 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.32271194458 seconds
+2017-06-16 15:10:44,844 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.156951904297 seconds
+2017-06-16 15:10:45,894 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.04932498932 seconds
+2017-06-16 15:10:46,106 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_finish>, Spend 0.210143089294 seconds
+2017-06-16 15:10:46,372 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.264342069626 seconds
+2017-06-16 15:10:47,413 - root - INFO - SUCCESS    Element: <css->div.title-left > button.btn.default> is exist, Spend 0.0359799861908 seconds
+2017-06-16 15:10:47,588 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button.btn.default>, Spend 0.174265861511 seconds
+2017-06-16 15:10:48,715 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.120429039001 seconds
+2017-06-16 15:10:49,735 - root - INFO - SUCCESS    Element: <css->button.btn.default.task_affair_finish> is exist, Spend 0.0158851146698 seconds
+2017-06-16 15:10:49,912 - root - INFO - SUCCESS    Clicked element: <css->div.task_tab.task_talk_list_tab>, Spend 0.174970149994 seconds
+2017-06-16 15:10:51,096 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_add_btn.ui-button>, Spend 1.18302202225 seconds
+2017-06-16 15:10:52,400 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.talk_title.text-input-wrap.ui-input > input> content: Discussion_Title, Spend 1.30395913124 seconds
+2017-06-16 15:10:52,558 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 0.157226085663 seconds
+2017-06-16 15:10:53,604 - root - INFO - SUCCESS    Element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title> is exist, Spend 1.04508090019 seconds
+2017-06-16 15:10:53,763 - root - INFO - SUCCESS    Clicked element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title>, Spend 0.157548904419 seconds
+2017-06-16 15:10:54,913 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_edit_btn>, Spend 0.146264076233 seconds
+2017-06-16 15:10:56,057 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 1.14338088036 seconds
+2017-06-16 15:10:57,120 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 1.06066012383 seconds
+2017-06-16 15:10:58,372 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.248162031174 seconds
+2017-06-16 15:10:58,530 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.1568608284 seconds
+2017-06-16 15:10:59,581 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.05032992363 seconds
+2017-06-16 15:10:59,733 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_summary_btn>, Spend 0.151201963425 seconds
+2017-06-16 15:11:01,027 - root - INFO - SUCCESS    Clear and type element: <css->#cke_talk_summary_desc > div.cke_inner.cke_reset > div.cke_contents.cke_reset > div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Summary Content, Spend 1.29387593269 seconds
+2017-06-16 15:11:01,191 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_summary_submit.ui-button>, Spend 0.163171052933 seconds
+2017-06-16 15:11:02,255 - root - INFO - SUCCESS    Element: <css->div.item-detail.editor_style > p:nth-of-type(1)> is exist, Spend 1.06327700615 seconds
+2017-06-16 15:11:02,416 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button:nth-of-type(3)>, Spend 0.159749031067 seconds
+2017-06-16 15:11:02,588 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.171137809753 seconds
+2017-06-16 15:11:03,629 - root - INFO - SUCCESS    Element: <css->div.title-left > button:nth-of-type(2)> is exist, Spend 0.0353229045868 seconds
+2017-06-16 15:11:03,774 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button:nth-of-type(2)>, Spend 0.144129037857 seconds
+2017-06-16 15:11:03,934 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btn.bg-blue.ui-button>, Spend 0.157160997391 seconds
+2017-06-16 15:11:05,040 - root - INFO - SUCCESS    Element: <css->div.title-left > button:nth-of-type(3)> is exist, Spend 1.10500884056 seconds
+2017-06-16 15:11:05,210 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_summary_btn.ui-button>, Spend 0.168591976166 seconds
+2017-06-16 15:11:06,637 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Task Summary!2017-06-16_15-10-20, Spend 1.42708396912 seconds
+2017-06-16 15:11:06,816 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 0.178602933884 seconds
+2017-06-16 15:11:07,884 - root - INFO - SUCCESS    Element: <xpath->//*[@id="task113-detail-block"]/div[1]/div/div/div/ul/li[8]/div/div[2]/p> is exist, Spend 1.06664586067 seconds
+2017-06-16 15:11:08,016 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.130883932114 seconds
+2017-06-16 15:11:08,018 - root - INFO - ######################## This App Cases End ###########################
+2017-06-16 15:38:51,819 - root - INFO - ######################## This App Cases Start #########################
+2017-06-16 15:38:54,518 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.69599699974 seconds
+2017-06-16 15:38:55,040 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 0.520071983337 seconds
+2017-06-16 15:38:57,325 - root - INFO - SUCCESS    Navigated to http://web.jingoal.com, Spend 2.28366112709 seconds
+2017-06-16 15:38:58,790 - root - INFO - SUCCESS    Clear and type element: <id->email> content: admin@1566720, Spend 1.46268296242 seconds
+2017-06-16 15:38:59,010 - root - INFO - SUCCESS    Clear and type element: <id->password> content: `12qwaszx, Spend 0.219038009644 seconds
+2017-06-16 15:38:59,132 - root - INFO - SUCCESS    Clicked element: <css->a.btn-submit.ng-binding>, Spend 0.120769023895 seconds
+2017-06-16 15:39:02,423 - root - INFO - SUCCESS    Clicked element: <css->div.addBtn>, Spend 0.282068014145 seconds
+2017-06-16 15:39:03,074 - root - INFO - SUCCESS    Clicked element: <css->i.jgicon.jgicon-flag>, Spend 0.650969982147 seconds
+2017-06-16 15:39:03,177 - root - INFO - SUCCESS    Switch to frame element: <css->iframe>, Spend 0.0996408462524 seconds
+2017-06-16 15:39:04,221 - root - INFO - SUCCESS    Element: <css->div.btn_addTask.btn_addTask> is exist, Spend 1.04371213913 seconds
+2017-06-16 15:39:04,382 - root - INFO - SUCCESS    Clicked element: <css->div.btn_addTask.btn_addTask>, Spend 0.157305002213 seconds
+2017-06-16 15:39:05,822 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_title.text-input-wrap.ui-input > input> content: Task-Title_2017-06-16_15-38-51, Spend 1.43947696686 seconds
+2017-06-16 15:39:05,961 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 0.139180898666 seconds
+2017-06-16 15:39:07,008 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 1.04626703262 seconds
+2017-06-16 15:39:07,159 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_edit_btn.ui-button>, Spend 0.148886919022 seconds
+2017-06-16 15:39:08,290 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 1.13099908829 seconds
+2017-06-16 15:39:08,303 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 0.0120959281921 seconds
+2017-06-16 15:39:09,453 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_add_btn.ui-button>, Spend 0.145596027374 seconds
+2017-06-16 15:39:10,669 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_affair_title.text-input-wrap.ui-input > input> content: Event_Title, Spend 1.21482300758 seconds
+2017-06-16 15:39:10,791 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.task_affair_submit.ui-button>, Spend 0.120754003525 seconds
+2017-06-16 15:39:11,840 - root - INFO - SUCCESS    Element: <css->td.task_affair_list_title.title > div.ellipsis> is exist, Spend 1.04828691483 seconds
+2017-06-16 15:39:11,991 - root - INFO - SUCCESS    Clicked element: <css->td.task_affair_list_title.title > div.ellipsis>, Spend 0.147336006165 seconds
+2017-06-16 15:39:13,266 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.269506931305 seconds
+2017-06-16 15:39:13,416 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.149760961533 seconds
+2017-06-16 15:39:14,460 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.04377794266 seconds
+2017-06-16 15:39:14,615 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_finish>, Spend 0.153740882874 seconds
+2017-06-16 15:39:14,826 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.210824966431 seconds
+2017-06-16 15:39:15,858 - root - INFO - SUCCESS    Element: <css->div.title-left > button.btn.default> is exist, Spend 0.0283219814301 seconds
+2017-06-16 15:39:15,989 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button.btn.default>, Spend 0.130192995071 seconds
+2017-06-16 15:39:17,100 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.106844902039 seconds
+2017-06-16 15:39:18,119 - root - INFO - SUCCESS    Element: <css->button.btn.default.task_affair_finish> is exist, Spend 0.0152959823608 seconds
+2017-06-16 15:39:18,295 - root - INFO - SUCCESS    Clicked element: <css->div.task_tab.task_talk_list_tab>, Spend 0.173990011215 seconds
+2017-06-16 15:39:18,717 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_add_btn.ui-button>, Spend 0.42126083374 seconds
+2017-06-16 15:39:20,130 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.talk_title.text-input-wrap.ui-input > input> content: Discussion_Title, Spend 1.40968799591 seconds
+2017-06-16 15:39:20,287 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 0.155911207199 seconds
+2017-06-16 15:39:21,366 - root - INFO - SUCCESS    Element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title> is exist, Spend 1.0775821209 seconds
+2017-06-16 15:39:21,559 - root - INFO - SUCCESS    Clicked element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title>, Spend 0.189399003983 seconds
+2017-06-16 15:39:22,775 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_edit_btn>, Spend 0.210994958878 seconds
+2017-06-16 15:39:23,900 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 1.12452292442 seconds
+2017-06-16 15:39:24,938 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 1.0368270874 seconds
+2017-06-16 15:39:26,142 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.200186014175 seconds
+2017-06-16 15:39:26,295 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.152085065842 seconds
+2017-06-16 15:39:27,346 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.04941606522 seconds
+2017-06-16 15:39:27,494 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_summary_btn>, Spend 0.146027088165 seconds
+2017-06-16 15:39:29,755 - root - INFO - SUCCESS    Clear and type element: <css->#cke_talk_summary_desc > div.cke_inner.cke_reset > div.cke_contents.cke_reset > div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Summary Content, Spend 2.26082897186 seconds
+2017-06-16 15:39:29,917 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_summary_submit.ui-button>, Spend 0.161697864532 seconds
+2017-06-16 15:39:35,014 - root - INFO - FAIL    Element: <css->div.item-detail.editor_style > p:nth-of-type(1)> is not exist, Spend 5.09658408165 seconds
+2017-06-16 15:39:35,117 - root - INFO - FAIL    Unable to click element: <css->div.title-left > button:nth-of-type(3)>, Spend 0.0997688770294 seconds
+2017-06-16 15:39:35,200 - root - INFO - FAIL    Unable to click element: <css->div.title-left > button:nth-of-type(2)>, Spend 0.0751628875732 seconds
+2017-06-16 15:39:35,301 - root - INFO - FAIL    Unable to click element: <css->button.btn.default.task_summary_btn.ui-button>, Spend 0.099240064621 seconds
+2017-06-16 15:39:35,433 - root - INFO - FAIL    Unable to click element: <css->button.btn.default.task_revoke_btn.ui-button>, Spend 0.128809928894 seconds
+2017-06-16 15:39:35,548 - root - INFO - FAIL    Unable to click element: <css->div.vertical-middle.btn-left.inline > button.btn.default.ui-button>, Spend 0.112123012543 seconds
+2017-06-16 15:39:35,660 - root - INFO - FAIL    Unable to click element: <css->button.btn.default.task_complete_btn.ui-button>, Spend 0.109433889389 seconds
+2017-06-16 15:39:35,788 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.123479127884 seconds
+2017-06-16 15:39:35,790 - root - INFO - ######################## This App Cases End ###########################
+2017-06-16 15:39:48,157 - root - INFO - ######################## This App Cases Start #########################
+2017-06-16 15:39:50,372 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.21408891678 seconds
+2017-06-16 15:39:50,678 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 0.305845975876 seconds
+2017-06-16 15:39:52,691 - root - INFO - SUCCESS    Navigated to http://web.jingoal.com, Spend 2.01196312904 seconds
+2017-06-16 15:39:55,427 - root - INFO - SUCCESS    Clear and type element: <id->email> content: admin@1566720, Spend 2.73593902588 seconds
+2017-06-16 15:39:55,711 - root - INFO - SUCCESS    Clear and type element: <id->password> content: `12qwaszx, Spend 0.281695842743 seconds
+2017-06-16 15:39:55,884 - root - INFO - SUCCESS    Clicked element: <css->a.btn-submit.ng-binding>, Spend 0.17226099968 seconds
+2017-06-16 15:39:59,040 - root - INFO - SUCCESS    Clicked element: <css->div.addBtn>, Spend 0.147416114807 seconds
+2017-06-16 15:39:59,656 - root - INFO - SUCCESS    Clicked element: <css->i.jgicon.jgicon-flag>, Spend 0.615751028061 seconds
+2017-06-16 15:39:59,713 - root - INFO - SUCCESS    Switch to frame element: <css->iframe>, Spend 0.0561277866364 seconds
+2017-06-16 15:40:00,815 - root - INFO - SUCCESS    Element: <css->div.btn_addTask.btn_addTask> is exist, Spend 1.10144495964 seconds
+2017-06-16 15:40:01,053 - root - INFO - SUCCESS    Clicked element: <css->div.btn_addTask.btn_addTask>, Spend 0.235831975937 seconds
+2017-06-16 15:40:02,500 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_title.text-input-wrap.ui-input > input> content: Task-Title_2017-06-16_15-39-48, Spend 1.44685077667 seconds
+2017-06-16 15:40:02,647 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 0.146394968033 seconds
+2017-06-16 15:40:03,698 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 1.04969882965 seconds
+2017-06-16 15:40:03,845 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_edit_btn.ui-button>, Spend 0.145245790482 seconds
+2017-06-16 15:40:04,978 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 1.13342499733 seconds
+2017-06-16 15:40:04,990 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 0.0112359523773 seconds
+2017-06-16 15:40:06,146 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_add_btn.ui-button>, Spend 0.148353099823 seconds
+2017-06-16 15:40:07,397 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_affair_title.text-input-wrap.ui-input > input> content: Event_Title, Spend 1.25142788887 seconds
+2017-06-16 15:40:07,525 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.task_affair_submit.ui-button>, Spend 0.127067089081 seconds
+2017-06-16 15:40:08,575 - root - INFO - SUCCESS    Element: <css->td.task_affair_list_title.title > div.ellipsis> is exist, Spend 1.04909086227 seconds
+2017-06-16 15:40:08,723 - root - INFO - SUCCESS    Clicked element: <css->td.task_affair_list_title.title > div.ellipsis>, Spend 0.146542072296 seconds
+2017-06-16 15:40:10,060 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.330973863602 seconds
+2017-06-16 15:40:10,197 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.136338949203 seconds
+2017-06-16 15:40:11,242 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.04516291618 seconds
+2017-06-16 15:40:11,402 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_finish>, Spend 0.157138109207 seconds
+2017-06-16 15:40:11,663 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.260613918304 seconds
+2017-06-16 15:40:12,687 - root - INFO - SUCCESS    Element: <css->div.title-left > button.btn.default> is exist, Spend 0.0234460830688 seconds
+2017-06-16 15:40:12,827 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button.btn.default>, Spend 0.137722015381 seconds
+2017-06-16 15:40:13,944 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.111685991287 seconds
+2017-06-16 15:40:14,962 - root - INFO - SUCCESS    Element: <css->button.btn.default.task_affair_finish> is exist, Spend 0.0153388977051 seconds
+2017-06-16 15:40:15,127 - root - INFO - SUCCESS    Clicked element: <css->div.task_tab.task_talk_list_tab>, Spend 0.163256883621 seconds
+2017-06-16 15:40:16,274 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_add_btn.ui-button>, Spend 1.14437794685 seconds
+2017-06-16 15:40:17,608 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.talk_title.text-input-wrap.ui-input > input> content: Discussion_Title, Spend 1.33306479454 seconds
+2017-06-16 15:40:17,754 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 0.145334005356 seconds
+2017-06-16 15:40:18,808 - root - INFO - SUCCESS    Element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title> is exist, Spend 1.05314207077 seconds
+2017-06-16 15:40:18,951 - root - INFO - SUCCESS    Clicked element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title>, Spend 0.140805959702 seconds
+2017-06-16 15:40:20,108 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_edit_btn>, Spend 0.152152061462 seconds
+2017-06-16 15:40:21,232 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 1.1238079071 seconds
+2017-06-16 15:40:22,283 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 1.05015921593 seconds
+2017-06-16 15:40:23,594 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.305446863174 seconds
+2017-06-16 15:40:23,748 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.152841806412 seconds
+2017-06-16 15:40:24,797 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.0490219593 seconds
+2017-06-16 15:40:24,948 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_summary_btn>, Spend 0.147380113602 seconds
+2017-06-16 15:40:26,293 - root - INFO - SUCCESS    Clear and type element: <css->#cke_talk_summary_desc > div.cke_inner.cke_reset > div.cke_contents.cke_reset > div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Summary Content, Spend 1.34477591515 seconds
+2017-06-16 15:40:26,457 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_summary_submit.ui-button>, Spend 0.1635658741 seconds
+2017-06-16 15:40:27,517 - root - INFO - SUCCESS    Element: <css->div.item-detail.editor_style > p:nth-of-type(1)> is exist, Spend 1.05894994736 seconds
+2017-06-16 15:40:27,670 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button:nth-of-type(3)>, Spend 0.150334119797 seconds
+2017-06-16 15:40:27,833 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.162651062012 seconds
+2017-06-16 15:40:28,860 - root - INFO - SUCCESS    Element: <css->div.title-left > button:nth-of-type(2)> is exist, Spend 0.0237638950348 seconds
+2017-06-16 15:40:28,999 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button:nth-of-type(2)>, Spend 0.134724140167 seconds
+2017-06-16 15:40:29,169 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btn.bg-blue.ui-button>, Spend 0.169533967972 seconds
+2017-06-16 15:40:30,218 - root - INFO - SUCCESS    Element: <css->div.title-left > button:nth-of-type(3)> is exist, Spend 1.04806780815 seconds
+2017-06-16 15:40:30,358 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_summary_btn.ui-button>, Spend 0.139236927032 seconds
+2017-06-16 15:40:31,771 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Task Summary!2017-06-16_15-39-48, Spend 1.41209721565 seconds
+2017-06-16 15:40:31,939 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 0.167783975601 seconds
+2017-06-16 15:40:33,003 - root - INFO - SUCCESS    Element: <xpath->//*[@id="task113-detail-block"]/div[1]/div/div/div/ul/li[8]/div/div[2]/p> is exist, Spend 1.06343984604 seconds
+2017-06-16 15:40:33,147 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_revoke_btn.ui-button>, Spend 0.142655849457 seconds
+2017-06-16 15:40:34,305 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.submit.ui-button>, Spend 1.15699481964 seconds
+2017-06-16 15:40:34,333 - root - INFO - SUCCESS    Element: <css->div.vertical-middle.btn-left.inline > button.btn.default.ui-button> is exist, Spend 0.0275180339813 seconds
+2017-06-16 15:40:34,553 - root - INFO - SUCCESS    Clicked element: <css->div.vertical-middle.btn-left.inline > button.btn.default.ui-button>, Spend 0.2171189785 seconds
+2017-06-16 15:40:34,611 - root - INFO - FAIL    Unable to click element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.0578920841217 seconds
+2017-06-16 15:40:39,759 - root - INFO - FAIL    Unable to click element: <css->button.btn.default.task_complete_btn.ui-button>, Spend 5.13858103752 seconds
+2017-06-16 15:40:39,928 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.16348695755 seconds
+2017-06-16 15:40:39,928 - root - INFO - ######################## This App Cases End ###########################
+2017-06-16 15:42:10,037 - root - INFO - ######################## This App Cases Start #########################
+2017-06-16 15:42:12,292 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.25434494019 seconds
+2017-06-16 15:42:12,603 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 0.310237169266 seconds
+2017-06-16 15:42:15,761 - root - INFO - SUCCESS    Navigated to http://web.jingoal.com, Spend 3.15802693367 seconds
+2017-06-16 15:42:18,207 - root - INFO - SUCCESS    Clear and type element: <id->email> content: admin@1566720, Spend 2.44487500191 seconds
+2017-06-16 15:42:18,380 - root - INFO - SUCCESS    Clear and type element: <id->password> content: `12qwaszx, Spend 0.172935009003 seconds
+2017-06-16 15:42:18,483 - root - INFO - SUCCESS    Clicked element: <css->a.btn-submit.ng-binding>, Spend 0.102328062057 seconds
+2017-06-16 15:42:21,636 - root - INFO - SUCCESS    Clicked element: <css->div.addBtn>, Spend 0.146968126297 seconds
+2017-06-16 15:42:22,612 - root - INFO - SUCCESS    Clicked element: <css->i.jgicon.jgicon-flag>, Spend 0.975975990295 seconds
+2017-06-16 15:42:22,669 - root - INFO - SUCCESS    Switch to frame element: <css->iframe>, Spend 0.0540058612823 seconds
+2017-06-16 15:42:23,714 - root - INFO - SUCCESS    Element: <css->div.btn_addTask.btn_addTask> is exist, Spend 1.04446196556 seconds
+2017-06-16 15:42:23,930 - root - INFO - SUCCESS    Clicked element: <css->div.btn_addTask.btn_addTask>, Spend 0.210635185242 seconds
+2017-06-16 15:42:25,489 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_title.text-input-wrap.ui-input > input> content: Task-Title_2017-06-16_15-42-10, Spend 1.55831599236 seconds
+2017-06-16 15:42:25,631 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 0.141091108322 seconds
+2017-06-16 15:42:26,680 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 1.04872512817 seconds
+2017-06-16 15:42:26,825 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_edit_btn.ui-button>, Spend 0.143168926239 seconds
+2017-06-16 15:42:27,947 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 1.12123394012 seconds
+2017-06-16 15:42:27,959 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 0.0114979743958 seconds
+2017-06-16 15:42:29,114 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_add_btn.ui-button>, Spend 0.151706933975 seconds
+2017-06-16 15:42:30,327 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_affair_title.text-input-wrap.ui-input > input> content: Event_Title, Spend 1.2122900486 seconds
+2017-06-16 15:42:30,446 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.task_affair_submit.ui-button>, Spend 0.118865013123 seconds
+2017-06-16 15:42:31,484 - root - INFO - SUCCESS    Element: <css->td.task_affair_list_title.title > div.ellipsis> is exist, Spend 1.03736400604 seconds
+2017-06-16 15:42:31,641 - root - INFO - SUCCESS    Clicked element: <css->td.task_affair_list_title.title > div.ellipsis>, Spend 0.15585899353 seconds
+2017-06-16 15:42:32,925 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.277760982513 seconds
+2017-06-16 15:42:33,071 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.145159006119 seconds
+2017-06-16 15:42:34,118 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.04629206657 seconds
+2017-06-16 15:42:34,262 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_finish>, Spend 0.142207860947 seconds
+2017-06-16 15:42:34,446 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.18301486969 seconds
+2017-06-16 15:42:35,479 - root - INFO - SUCCESS    Element: <css->div.title-left > button.btn.default> is exist, Spend 0.0292971134186 seconds
+2017-06-16 15:42:35,614 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button.btn.default>, Spend 0.133832931519 seconds
+2017-06-16 15:42:36,727 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.109837055206 seconds
+2017-06-16 15:42:37,746 - root - INFO - SUCCESS    Element: <css->button.btn.default.task_affair_finish> is exist, Spend 0.0150940418243 seconds
+2017-06-16 15:42:37,908 - root - INFO - SUCCESS    Clicked element: <css->div.task_tab.task_talk_list_tab>, Spend 0.16051697731 seconds
+2017-06-16 15:42:39,052 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_add_btn.ui-button>, Spend 1.14114189148 seconds
+2017-06-16 15:42:40,276 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.talk_title.text-input-wrap.ui-input > input> content: Discussion_Title, Spend 1.22303986549 seconds
+2017-06-16 15:42:40,398 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 0.121628046036 seconds
+2017-06-16 15:42:41,443 - root - INFO - SUCCESS    Element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title> is exist, Spend 1.04430007935 seconds
+2017-06-16 15:42:41,601 - root - INFO - SUCCESS    Clicked element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title>, Spend 0.155869007111 seconds
+2017-06-16 15:42:42,747 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_edit_btn>, Spend 0.141241073608 seconds
+2017-06-16 15:42:43,870 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 1.12240099907 seconds
+2017-06-16 15:42:44,921 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 1.05075597763 seconds
+2017-06-16 15:42:46,134 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.209311962128 seconds
+2017-06-16 15:42:46,265 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.129582166672 seconds
+2017-06-16 15:42:47,303 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.03739905357 seconds
+2017-06-16 15:42:47,450 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_summary_btn>, Spend 0.141894102097 seconds
+2017-06-16 15:42:48,716 - root - INFO - SUCCESS    Clear and type element: <css->#cke_talk_summary_desc > div.cke_inner.cke_reset > div.cke_contents.cke_reset > div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Summary Content, Spend 1.26584100723 seconds
+2017-06-16 15:42:48,860 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_summary_submit.ui-button>, Spend 0.142822980881 seconds
+2017-06-16 15:42:49,919 - root - INFO - SUCCESS    Element: <css->div.item-detail.editor_style > p:nth-of-type(1)> is exist, Spend 1.05923295021 seconds
+2017-06-16 15:42:50,078 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button:nth-of-type(3)>, Spend 0.157291889191 seconds
+2017-06-16 15:42:50,229 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.150796890259 seconds
+2017-06-16 15:42:51,264 - root - INFO - SUCCESS    Element: <css->div.title-left > button:nth-of-type(2)> is exist, Spend 0.0311660766602 seconds
+2017-06-16 15:42:51,374 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button:nth-of-type(2)>, Spend 0.109412193298 seconds
+2017-06-16 15:42:51,517 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btn.bg-blue.ui-button>, Spend 0.142207145691 seconds
+2017-06-16 15:42:52,549 - root - INFO - SUCCESS    Element: <css->div.title-left > button:nth-of-type(3)> is exist, Spend 1.03108787537 seconds
+2017-06-16 15:42:52,704 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_summary_btn.ui-button>, Spend 0.151513814926 seconds
+2017-06-16 15:42:54,157 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Task Summary!2017-06-16_15-42-10, Spend 1.4527130127 seconds
+2017-06-16 15:42:54,307 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 0.147536039352 seconds
+2017-06-16 15:42:55,354 - root - INFO - SUCCESS    Element: <xpath->//*[@id="task113-detail-block"]/div[1]/div/div/div/ul/li[8]/div/div[2]/p> is exist, Spend 1.04676008224 seconds
+2017-06-16 15:42:55,507 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_revoke_btn.ui-button>, Spend 0.151880979538 seconds
+2017-06-16 15:42:56,665 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.submit.ui-button>, Spend 1.15718078613 seconds
+2017-06-16 15:42:56,690 - root - INFO - SUCCESS    Element: <css->div.vertical-middle.btn-left.inline > button.btn.default.ui-button> is exist, Spend 0.0245461463928 seconds
+2017-06-16 15:42:57,830 - root - INFO - SUCCESS    Clicked element: <css->div.vertical-middle.btn-left.inline > button.btn.default.ui-button>, Spend 0.134252071381 seconds
+2017-06-16 15:42:57,952 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.121994018555 seconds
+2017-06-16 15:42:58,968 - root - INFO - SUCCESS    Element: <css->button.btn.default.task_revoke_btn.ui-button> is exist, Spend 0.0125410556793 seconds
+2017-06-16 15:42:59,110 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_complete_btn.ui-button>, Spend 0.140310049057 seconds
+2017-06-16 15:43:00,253 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 1.1418941021 seconds
+2017-06-16 15:43:01,302 - root - INFO - SUCCESS    Element: <css->label.remark_muted> is exist, Spend 1.04893708229 seconds
+2017-06-16 15:43:01,446 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.142113924026 seconds
+2017-06-16 15:43:01,447 - root - INFO - ######################## This App Cases End ###########################
+2017-06-16 15:45:03,280 - root - INFO - ######################## This App Cases Start #########################
+2017-06-16 15:45:05,564 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.28355193138 seconds
+2017-06-16 15:45:05,852 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 0.286623954773 seconds
+2017-06-16 15:45:07,641 - root - INFO - SUCCESS    Navigated to http://web.jingoal.com, Spend 1.78888082504 seconds
+2017-06-16 15:45:10,078 - root - INFO - SUCCESS    Clear and type element: <id->email> content: admin@1566720, Spend 2.43611216545 seconds
+2017-06-16 15:45:10,248 - root - INFO - SUCCESS    Clear and type element: <id->password> content: `12qwaszx, Spend 0.169668912888 seconds
+2017-06-16 15:45:10,374 - root - INFO - SUCCESS    Clicked element: <css->a.btn-submit.ng-binding>, Spend 0.125757932663 seconds
+2017-06-16 15:45:13,506 - root - INFO - SUCCESS    Clicked element: <css->div.addBtn>, Spend 0.128682136536 seconds
+2017-06-16 15:45:14,272 - root - INFO - SUCCESS    Clicked element: <css->i.jgicon.jgicon-pageage>, Spend 0.76513004303 seconds
+2017-06-16 15:45:14,404 - root - INFO - SUCCESS    Switch to frame element: <css->iframe>, Spend 0.131824970245 seconds
+2017-06-16 15:45:15,454 - root - INFO - SUCCESS    Element: <css->div.bread-left> is exist, Spend 1.04950809479 seconds
+2017-06-16 15:45:15,621 - root - INFO - SUCCESS    Clicked element: <css->span.mid_text>, Spend 0.166400194168 seconds
+2017-06-16 15:45:17,094 - root - INFO - SUCCESS    Clear and type element: <css->#addScrollDiv > ul > li:nth-child(2) > div > input[type="text"]> content: notice-title_2017-06-16_15-45-03, Spend 1.47252392769 seconds
+2017-06-16 15:45:17,400 - root - INFO - SUCCESS    Clear and type element: <css->#cke_1_contents > div> content: notice-content-test, Spend 0.3047311306 seconds
+2017-06-16 15:45:17,640 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="addScrollDiv"]/ul/li[9]/button[3]>, Spend 0.239843845367 seconds
+2017-06-16 15:45:18,687 - root - INFO - SUCCESS    Element: <css->h6.ui-dialog-title.notice-preview-dialog-title> is exist, Spend 1.04667186737 seconds
+2017-06-16 15:45:18,828 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="notice-preview-body"]/div[3]/button>, Spend 0.140185117722 seconds
+2017-06-16 15:45:18,975 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btn_save.confirm.ui-button>, Spend 0.146409988403 seconds
+2017-06-16 15:45:20,020 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.publishNotice> is exist, Spend 1.04407310486 seconds
+2017-06-16 15:45:20,174 - root - INFO - SUCCESS    Clicked element: <css->button.btn.notice-option.publishNotice>, Spend 0.152956008911 seconds
+2017-06-16 15:45:20,353 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.ui-button>, Spend 0.178668022156 seconds
+2017-06-16 15:45:21,412 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.suspendNotice> is exist, Spend 1.05823898315 seconds
+2017-06-16 15:45:21,741 - root - INFO - SUCCESS    Clicked element: <css->button.btn.notice-option.suspendNotice>, Spend 0.325127840042 seconds
+2017-06-16 15:45:21,942 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.ui-button>, Spend 0.200680971146 seconds
+2017-06-16 15:45:22,978 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.publishNotice> is exist, Spend 1.03564214706 seconds
+2017-06-16 15:45:23,134 - root - INFO - SUCCESS    Clicked element: <css->button.btn.editNotice.notice-option>, Spend 0.15510392189 seconds
+2017-06-16 15:45:24,349 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btn_submit.confirm.ui-button>, Spend 1.21482610703 seconds
+2017-06-16 15:45:25,401 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.editNotice> is exist, Spend 1.05095696449 seconds
+2017-06-16 15:45:27,546 - root - INFO - SUCCESS    Clicked element: <css->button.btn.notice-option.stickNotice>, Spend 0.140163898468 seconds
+2017-06-16 15:45:28,599 - root - INFO - SUCCESS    Element: <css->button.btn.cancelStickNotice.notice-option> is exist, Spend 1.05260896683 seconds
+2017-06-16 15:45:30,726 - root - INFO - SUCCESS    Clicked element: <css->button.btn.cancelStickNotice.notice-option>, Spend 0.123010873795 seconds
+2017-06-16 15:45:31,756 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.stickNotice> is exist, Spend 1.02875208855 seconds
+2017-06-16 15:45:31,925 - root - INFO - SUCCESS    Clicked element: <css->i.notice_detail_attention>, Spend 0.168262958527 seconds
+2017-06-16 15:45:32,960 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0323629379272 seconds
+2017-06-16 15:45:34,122 - root - INFO - SUCCESS    Clicked element: <css->div.detail-basics-title > div:nth-of-type(1) > i>, Spend 0.15633392334 seconds
+2017-06-16 15:45:35,157 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0321490764618 seconds
+2017-06-16 15:45:36,335 - root - INFO - SUCCESS    Clicked element: <css->button.btn.delNotice.notice-option>, Spend 0.172346830368 seconds
+2017-06-16 15:45:36,477 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.ui-button>, Spend 0.14160490036 seconds
+2017-06-16 15:45:36,488 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0103850364685 seconds
+2017-06-16 15:45:36,665 - root - INFO - SUCCESS    Clicked element: <css->#notice_label_setting>, Spend 0.177250862122 seconds
+2017-06-16 15:45:37,834 - root - INFO - SUCCESS    Clicked element: <css->button.add-columns-btn.border.btn.default.newColum>, Spend 1.1681060791 seconds
+2017-06-16 15:45:38,013 - root - INFO - SUCCESS    Clear and type element: <css->div.columName.text-input-wrap.top-border-dark.ui-input > input> content: category name, Spend 0.178542137146 seconds
+2017-06-16 15:45:38,178 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btnOK.columOK.confirm.ui-button>, Spend 0.164388895035 seconds
+2017-06-16 15:45:38,192 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0136680603027 seconds
+2017-06-16 15:45:39,376 - root - INFO - SUCCESS    Clicked element: <css->tbody.personnel_table > tr:nth-of-type(4) > td:nth-of-type(4) > div.opt-btn-warp > button:nth-of-type(1)>, Spend 1.1829559803 seconds
+2017-06-16 15:45:39,476 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btnOK.columOK.confirm.ui-button>, Spend 0.0996999740601 seconds
+2017-06-16 15:45:39,485 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.00869798660278 seconds
+2017-06-16 15:45:40,672 - root - INFO - SUCCESS    Clicked element: <css->tbody.personnel_table > tr:nth-of-type(4) > td:nth-of-type(4) > div.opt-btn-warp > button:nth-of-type(2)>, Spend 0.182080984116 seconds
+2017-06-16 15:45:40,819 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.ui-button>, Spend 0.145311117172 seconds
+2017-06-16 15:45:40,830 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0102210044861 seconds
+2017-06-16 15:45:42,086 - root - INFO - SUCCESS    Drag and drop element: <css->tbody.personnel_table > tr:nth-of-type(3) > td:nth-of-type(1)> to element: <css->tbody.personnel_table > tr:nth-of-type(1) > td:nth-of-type(1)>, Spend 0.250926971436 seconds
+2017-06-16 15:45:42,752 - root - INFO - SUCCESS    Drag and drop element: <css->tbody.personnel_table > tr:nth-of-type(1) > td:nth-of-type(1)> to element: <css->tbody.personnel_table > tr:nth-of-type(3) > td:nth-of-type(1)>, Spend 0.163835048676 seconds
+2017-06-16 15:45:42,762 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.00975298881531 seconds
+2017-06-16 15:45:42,868 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.10449886322 seconds
+2017-06-16 15:45:42,870 - root - INFO - ######################## This App Cases End ###########################
+2017-06-16 15:45:42,878 - root - INFO - ######################## This App Cases Start #########################
+2017-06-16 15:45:45,253 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.37386989594 seconds
+2017-06-16 15:45:45,571 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 0.317276000977 seconds
+2017-06-16 15:45:47,385 - root - INFO - SUCCESS    Navigated to http://web.jingoal.com, Spend 1.81293916702 seconds
+2017-06-16 15:45:50,687 - root - INFO - SUCCESS    Clear and type element: <id->email> content: admin@1566720, Spend 3.30126404762 seconds
+2017-06-16 15:45:50,848 - root - INFO - SUCCESS    Clear and type element: <id->password> content: `12qwaszx, Spend 0.160547971725 seconds
+2017-06-16 15:45:50,953 - root - INFO - SUCCESS    Clicked element: <css->a.btn-submit.ng-binding>, Spend 0.104401826859 seconds
+2017-06-16 15:45:54,138 - root - INFO - SUCCESS    Clicked element: <css->div.addBtn>, Spend 0.183357954025 seconds
+2017-06-16 15:45:54,886 - root - INFO - SUCCESS    Clicked element: <css->i.jgicon.jgicon-flag>, Spend 0.746307134628 seconds
+2017-06-16 15:45:54,947 - root - INFO - SUCCESS    Switch to frame element: <css->iframe>, Spend 0.0595920085907 seconds
+2017-06-16 15:45:56,050 - root - INFO - SUCCESS    Element: <css->div.btn_addTask.btn_addTask> is exist, Spend 1.10338902473 seconds
+2017-06-16 15:45:56,216 - root - INFO - SUCCESS    Clicked element: <css->div.btn_addTask.btn_addTask>, Spend 0.165165901184 seconds
+2017-06-16 15:45:57,643 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_title.text-input-wrap.ui-input > input> content: Task-Title_2017-06-16_15-45-03, Spend 1.42537593842 seconds
+2017-06-16 15:45:57,845 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 0.200747013092 seconds
+2017-06-16 15:45:58,908 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 1.06241703033 seconds
+2017-06-16 15:45:59,071 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_edit_btn.ui-button>, Spend 0.162135839462 seconds
+2017-06-16 15:46:00,196 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 1.12431406975 seconds
+2017-06-16 15:46:00,207 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 0.0107300281525 seconds
+2017-06-16 15:46:01,357 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_add_btn.ui-button>, Spend 0.143837928772 seconds
+2017-06-16 15:46:02,552 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_affair_title.text-input-wrap.ui-input > input> content: Event_Title, Spend 1.19481682777 seconds
+2017-06-16 15:46:02,666 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.task_affair_submit.ui-button>, Spend 0.113826990128 seconds
+2017-06-16 15:46:03,710 - root - INFO - SUCCESS    Element: <css->td.task_affair_list_title.title > div.ellipsis> is exist, Spend 1.04392695427 seconds
+2017-06-16 15:46:03,850 - root - INFO - SUCCESS    Clicked element: <css->td.task_affair_list_title.title > div.ellipsis>, Spend 0.139219045639 seconds
+2017-06-16 15:46:05,093 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.238659858704 seconds
+2017-06-16 15:46:05,228 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.134799003601 seconds
+2017-06-16 15:46:06,276 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.04722094536 seconds
+2017-06-16 15:46:06,445 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_finish>, Spend 0.167448997498 seconds
+2017-06-16 15:46:06,642 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.196709156036 seconds
+2017-06-16 15:46:07,678 - root - INFO - SUCCESS    Element: <css->div.title-left > button.btn.default> is exist, Spend 0.0316569805145 seconds
+2017-06-16 15:46:07,813 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button.btn.default>, Spend 0.133978843689 seconds
+2017-06-16 15:46:08,935 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.117516994476 seconds
+2017-06-16 15:46:09,956 - root - INFO - SUCCESS    Element: <css->button.btn.default.task_affair_finish> is exist, Spend 0.0174119472504 seconds
+2017-06-16 15:46:10,114 - root - INFO - SUCCESS    Clicked element: <css->div.task_tab.task_talk_list_tab>, Spend 0.157449007034 seconds
+2017-06-16 15:46:11,279 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_add_btn.ui-button>, Spend 1.16405510902 seconds
+2017-06-16 15:46:12,524 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.talk_title.text-input-wrap.ui-input > input> content: Discussion_Title, Spend 1.24093103409 seconds
+2017-06-16 15:46:12,653 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 0.12851190567 seconds
+2017-06-16 15:46:13,703 - root - INFO - SUCCESS    Element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title> is exist, Spend 1.04928088188 seconds
+2017-06-16 15:46:13,839 - root - INFO - SUCCESS    Clicked element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title>, Spend 0.134778022766 seconds
+2017-06-16 15:46:15,010 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_edit_btn>, Spend 0.165514230728 seconds
+2017-06-16 15:46:16,150 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 1.13969898224 seconds
+2017-06-16 15:46:17,201 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 1.05099201202 seconds
+2017-06-16 15:46:18,451 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.246086835861 seconds
+2017-06-16 15:46:18,581 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.129526138306 seconds
+2017-06-16 15:46:19,632 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.049669981 seconds
+2017-06-16 15:46:19,772 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_summary_btn>, Spend 0.137409925461 seconds
+2017-06-16 15:46:21,014 - root - INFO - SUCCESS    Clear and type element: <css->#cke_talk_summary_desc > div.cke_inner.cke_reset > div.cke_contents.cke_reset > div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Summary Content, Spend 1.2418320179 seconds
+2017-06-16 15:46:21,148 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_summary_submit.ui-button>, Spend 0.132308959961 seconds
+2017-06-16 15:46:22,199 - root - INFO - SUCCESS    Element: <css->div.item-detail.editor_style > p:nth-of-type(1)> is exist, Spend 1.04999995232 seconds
+2017-06-16 15:46:22,341 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button:nth-of-type(3)>, Spend 0.142117023468 seconds
+2017-06-16 15:46:22,489 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.146900177002 seconds
+2017-06-16 15:46:23,519 - root - INFO - SUCCESS    Element: <css->div.title-left > button:nth-of-type(2)> is exist, Spend 0.0281829833984 seconds
+2017-06-16 15:46:23,632 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button:nth-of-type(2)>, Spend 0.112349033356 seconds
+2017-06-16 15:46:23,786 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btn.bg-blue.ui-button>, Spend 0.153073072433 seconds
+2017-06-16 15:46:24,816 - root - INFO - SUCCESS    Element: <css->div.title-left > button:nth-of-type(3)> is exist, Spend 1.02999901772 seconds
+2017-06-16 15:46:24,952 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_summary_btn.ui-button>, Spend 0.134968042374 seconds
+2017-06-16 15:46:26,281 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Task Summary!2017-06-16_15-45-03, Spend 1.32871699333 seconds
+2017-06-16 15:46:26,425 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 0.143880844116 seconds
+2017-06-16 15:46:27,471 - root - INFO - SUCCESS    Element: <xpath->//*[@id="task113-detail-block"]/div[1]/div/div/div/ul/li[8]/div/div[2]/p> is exist, Spend 1.04463911057 seconds
+2017-06-16 15:46:27,605 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_revoke_btn.ui-button>, Spend 0.133149862289 seconds
+2017-06-16 15:46:28,792 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.submit.ui-button>, Spend 1.18655991554 seconds
+2017-06-16 15:46:28,827 - root - INFO - SUCCESS    Element: <css->div.vertical-middle.btn-left.inline > button.btn.default.ui-button> is exist, Spend 0.0328280925751 seconds
+2017-06-16 15:46:29,980 - root - INFO - SUCCESS    Clicked element: <css->div.vertical-middle.btn-left.inline > button.btn.default.ui-button>, Spend 0.148086071014 seconds
+2017-06-16 15:46:30,125 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.145037889481 seconds
+2017-06-16 15:46:31,144 - root - INFO - SUCCESS    Element: <css->button.btn.default.task_revoke_btn.ui-button> is exist, Spend 0.0162160396576 seconds
+2017-06-16 15:46:31,311 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_complete_btn.ui-button>, Spend 0.166046857834 seconds
+2017-06-16 15:46:32,470 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 1.15779805183 seconds
+2017-06-16 15:46:33,507 - root - INFO - SUCCESS    Element: <css->label.remark_muted> is exist, Spend 1.03677082062 seconds
+2017-06-16 15:46:33,600 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.0921220779419 seconds
+2017-06-16 15:46:33,601 - root - INFO - ######################## This App Cases End ###########################
+2017-06-16 15:46:43,992 - root - INFO - 发送邮件成功
+2017-06-16 16:16:06,564 - root - INFO - ######################## This App Cases Start #########################
+2017-06-16 16:16:09,559 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.98478603363 seconds
+2017-06-16 16:16:09,997 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 0.436495065689 seconds
+2017-06-16 16:16:12,144 - root - INFO - SUCCESS    Navigated to http://web.jingoal.com, Spend 2.14682292938 seconds
+2017-06-16 16:16:13,393 - root - INFO - SUCCESS    Clear and type element: <id->email> content: admin@1566720, Spend 1.24800395966 seconds
+2017-06-16 16:16:13,653 - root - INFO - SUCCESS    Clear and type element: <id->password> content: `12qwaszx, Spend 0.259458065033 seconds
+2017-06-16 16:16:13,998 - root - INFO - SUCCESS    Clicked element: <css->a.btn-submit.ng-binding>, Spend 0.343170881271 seconds
+2017-06-16 16:16:17,151 - root - INFO - SUCCESS    Clicked element: <css->div.addBtn>, Spend 0.144328832626 seconds
+2017-06-16 16:16:17,887 - root - INFO - SUCCESS    Clicked element: <css->i.jgicon.jgicon-flag>, Spend 0.734987020493 seconds
+2017-06-16 16:16:17,933 - root - INFO - SUCCESS    Switch to frame element: <css->iframe>, Spend 0.0453760623932 seconds
+2017-06-16 16:16:19,029 - root - INFO - SUCCESS    Element: <css->div.btn_addTask.btn_addTask> is exist, Spend 1.09553098679 seconds
+2017-06-16 16:16:19,193 - root - INFO - SUCCESS    Clicked element: <css->div.btn_addTask.btn_addTask>, Spend 0.161126852036 seconds
+2017-06-16 16:16:20,889 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_title.text-input-wrap.ui-input > input> content: Task-Title_2017-06-16_16-16-06, Spend 1.69529891014 seconds
+2017-06-16 16:16:21,068 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 0.177974939346 seconds
+2017-06-16 16:16:22,119 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 1.05015611649 seconds
+2017-06-16 16:16:22,277 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_edit_btn.ui-button>, Spend 0.156246900558 seconds
+2017-06-16 16:16:23,424 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 1.14600014687 seconds
+2017-06-16 16:16:23,450 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 0.0251598358154 seconds
+2017-06-16 16:16:24,656 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_add_btn.ui-button>, Spend 0.203071117401 seconds
+2017-06-16 16:16:25,870 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_affair_title.text-input-wrap.ui-input > input> content: Event_Title, Spend 1.21378397942 seconds
+2017-06-16 16:16:26,000 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.task_affair_submit.ui-button>, Spend 0.129137992859 seconds
+2017-06-16 16:16:27,050 - root - INFO - SUCCESS    Element: <css->td.task_affair_list_title.title > div.ellipsis> is exist, Spend 1.04950404167 seconds
+2017-06-16 16:16:27,202 - root - INFO - SUCCESS    Clicked element: <css->td.task_affair_list_title.title > div.ellipsis>, Spend 0.149198055267 seconds
+2017-06-16 16:16:28,681 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.47385597229 seconds
+2017-06-16 16:16:28,836 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.153939008713 seconds
+2017-06-16 16:16:29,880 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.04329490662 seconds
+2017-06-16 16:16:30,030 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_finish>, Spend 0.14861702919 seconds
+2017-06-16 16:16:30,244 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.213449001312 seconds
+2017-06-16 16:16:31,295 - root - INFO - SUCCESS    Element: <css->div.title-left > button.btn.default> is exist, Spend 0.0472099781036 seconds
+2017-06-16 16:16:31,496 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button.btn.default>, Spend 0.198474884033 seconds
+2017-06-16 16:16:32,623 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.123492956161 seconds
+2017-06-16 16:16:33,641 - root - INFO - SUCCESS    Element: <css->button.btn.default.task_affair_finish> is exist, Spend 0.0162570476532 seconds
+2017-06-16 16:16:33,812 - root - INFO - SUCCESS    Clicked element: <css->div.task_tab.task_talk_list_tab>, Spend 0.167846918106 seconds
+2017-06-16 16:16:34,956 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_add_btn.ui-button>, Spend 1.14320898056 seconds
+2017-06-16 16:16:36,245 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.talk_title.text-input-wrap.ui-input > input> content: Discussion_Title, Spend 1.28398489952 seconds
+2017-06-16 16:16:36,376 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 0.129952907562 seconds
+2017-06-16 16:16:37,433 - root - INFO - SUCCESS    Element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title> is exist, Spend 1.0563120842 seconds
+2017-06-16 16:16:37,586 - root - INFO - SUCCESS    Clicked element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title>, Spend 0.152266979218 seconds
+2017-06-16 16:16:38,737 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_edit_btn>, Spend 0.14571595192 seconds
+2017-06-16 16:16:39,861 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 1.12412190437 seconds
+2017-06-16 16:16:40,907 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 1.04528999329 seconds
+2017-06-16 16:16:42,151 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.237987995148 seconds
+2017-06-16 16:16:42,304 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.152777194977 seconds
+2017-06-16 16:16:43,344 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.03594112396 seconds
+2017-06-16 16:16:43,488 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_summary_btn>, Spend 0.142549991608 seconds
+2017-06-16 16:16:44,782 - root - INFO - SUCCESS    Clear and type element: <css->#cke_talk_summary_desc > div.cke_inner.cke_reset > div.cke_contents.cke_reset > div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Summary Content, Spend 1.2932767868 seconds
+2017-06-16 16:16:44,929 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_summary_submit.ui-button>, Spend 0.146417140961 seconds
+2017-06-16 16:16:45,979 - root - INFO - SUCCESS    Element: <css->div.item-detail.editor_style > p:nth-of-type(1)> is exist, Spend 1.04947686195 seconds
+2017-06-16 16:16:46,137 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button:nth-of-type(3)>, Spend 0.155805110931 seconds
+2017-06-16 16:16:46,308 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.170256853104 seconds
+2017-06-16 16:16:47,343 - root - INFO - SUCCESS    Element: <css->div.title-left > button:nth-of-type(2)> is exist, Spend 0.0318591594696 seconds
+2017-06-16 16:16:47,458 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button:nth-of-type(2)>, Spend 0.114264965057 seconds
+2017-06-16 16:16:47,593 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btn.bg-blue.ui-button>, Spend 0.133495807648 seconds
+2017-06-16 16:16:48,632 - root - INFO - SUCCESS    Element: <css->div.title-left > button:nth-of-type(3)> is exist, Spend 1.03816795349 seconds
+2017-06-16 16:16:48,784 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_summary_btn.ui-button>, Spend 0.149840116501 seconds
+2017-06-16 16:16:50,188 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Task Summary!2017-06-16_16-16-06, Spend 1.40338206291 seconds
+2017-06-16 16:16:50,403 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 0.212321043015 seconds
+2017-06-16 16:16:51,453 - root - INFO - SUCCESS    Element: <xpath->//*[@id="task113-detail-block"]/div[1]/div/div/div/ul/li[8]/div/div[2]/p> is exist, Spend 1.04971289635 seconds
+2017-06-16 16:16:51,599 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_revoke_btn.ui-button>, Spend 0.144064903259 seconds
+2017-06-16 16:16:52,764 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.submit.ui-button>, Spend 1.16416788101 seconds
+2017-06-16 16:16:52,791 - root - INFO - SUCCESS    Element: <css->div.vertical-middle.btn-left.inline > button.btn.default.ui-button> is exist, Spend 0.0264451503754 seconds
+2017-06-16 16:16:53,978 - root - INFO - SUCCESS    Clicked element: <css->div.vertical-middle.btn-left.inline > button.btn.default.ui-button>, Spend 0.179218053818 seconds
+2017-06-16 16:16:54,135 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.155548810959 seconds
+2017-06-16 16:16:55,156 - root - INFO - SUCCESS    Element: <css->button.btn.default.task_revoke_btn.ui-button> is exist, Spend 0.0141170024872 seconds
+2017-06-16 16:16:55,340 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_complete_btn.ui-button>, Spend 0.182509183884 seconds
+2017-06-16 16:16:56,501 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 1.1594440937 seconds
+2017-06-16 16:16:57,559 - root - INFO - SUCCESS    Element: <css->label.remark_muted> is exist, Spend 1.05765199661 seconds
+2017-06-16 16:16:57,726 - root - INFO - SUCCESS    Clicked element: <css->ul.taskMenu > li:nth-of-type(3) > h3.task-item>, Spend 0.166126966476 seconds
+2017-06-16 16:16:58,892 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_tag_add_btn.ui-button>, Spend 1.16423201561 seconds
+2017-06-16 16:17:04,023 - root - INFO - FAIL    Unable to click element: <css->tbody > tr:nth-of-type(9) > td:nth-of-type(3) > a.deletetag>, Spend 5.1182820797 seconds
+2017-06-16 16:17:04,147 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.118821144104 seconds
+2017-06-16 16:17:04,148 - root - INFO - ######################## This App Cases End ###########################
+2017-06-16 16:19:12,252 - root - INFO - ######################## This App Cases Start #########################
+2017-06-16 16:19:14,689 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.43633389473 seconds
+2017-06-16 16:19:14,981 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 0.290043115616 seconds
+2017-06-16 16:19:17,228 - root - INFO - SUCCESS    Navigated to http://web.jingoal.com, Spend 2.2473590374 seconds
+2017-06-16 16:19:18,918 - root - INFO - SUCCESS    Clear and type element: <id->email> content: admin@1566720, Spend 1.68911790848 seconds
+2017-06-16 16:19:19,107 - root - INFO - SUCCESS    Clear and type element: <id->password> content: `12qwaszx, Spend 0.185360908508 seconds
+2017-06-16 16:19:19,217 - root - INFO - SUCCESS    Clicked element: <css->a.btn-submit.ng-binding>, Spend 0.109026908875 seconds
+2017-06-16 16:19:23,418 - root - INFO - SUCCESS    Clicked element: <css->div.addBtn>, Spend 1.19512009621 seconds
+2017-06-16 16:19:24,194 - root - INFO - SUCCESS    Clicked element: <css->i.jgicon.jgicon-flag>, Spend 0.774749994278 seconds
+2017-06-16 16:19:24,264 - root - INFO - SUCCESS    Switch to frame element: <css->iframe>, Spend 0.0703120231628 seconds
+2017-06-16 16:19:26,332 - root - INFO - SUCCESS    Element: <css->div.btn_addTask.btn_addTask> is exist, Spend 2.06664299965 seconds
+2017-06-16 16:19:26,517 - root - INFO - SUCCESS    Clicked element: <css->div.btn_addTask.btn_addTask>, Spend 0.183369159698 seconds
+2017-06-16 16:19:27,872 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_title.text-input-wrap.ui-input > input> content: Task-Title_2017-06-16_16-19-12, Spend 1.35467910767 seconds
+2017-06-16 16:19:28,019 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 0.146529912949 seconds
+2017-06-16 16:19:29,062 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 1.04235196114 seconds
+2017-06-16 16:19:29,215 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_edit_btn.ui-button>, Spend 0.151119232178 seconds
+2017-06-16 16:19:30,335 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 1.1178150177 seconds
+2017-06-16 16:19:30,347 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 0.0117650032043 seconds
+2017-06-16 16:19:31,491 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_add_btn.ui-button>, Spend 0.141226053238 seconds
+2017-06-16 16:19:32,677 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_affair_title.text-input-wrap.ui-input > input> content: Event_Title, Spend 1.18561506271 seconds
+2017-06-16 16:19:32,804 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.task_affair_submit.ui-button>, Spend 0.125928878784 seconds
+2017-06-16 16:19:33,847 - root - INFO - SUCCESS    Element: <css->td.task_affair_list_title.title > div.ellipsis> is exist, Spend 1.04264092445 seconds
+2017-06-16 16:19:33,993 - root - INFO - SUCCESS    Clicked element: <css->td.task_affair_list_title.title > div.ellipsis>, Spend 0.14404296875 seconds
+2017-06-16 16:19:40,103 - root - INFO - FAIL    Unable to clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 5.10469198227 seconds
+2017-06-16 16:19:40,296 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_finish>, Spend 0.161567926407 seconds
+2017-06-16 16:19:40,477 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.181443929672 seconds
+2017-06-16 16:19:41,512 - root - INFO - SUCCESS    Element: <css->div.title-left > button.btn.default> is exist, Spend 0.0321781635284 seconds
+2017-06-16 16:19:41,642 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button.btn.default>, Spend 0.129143953323 seconds
+2017-06-16 16:19:42,764 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.118713855743 seconds
+2017-06-16 16:19:43,782 - root - INFO - SUCCESS    Element: <css->button.btn.default.task_affair_finish> is exist, Spend 0.0127201080322 seconds
+2017-06-16 16:19:44,010 - root - INFO - SUCCESS    Clicked element: <css->div.task_tab.task_talk_list_tab>, Spend 0.225582838058 seconds
+2017-06-16 16:19:45,189 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_add_btn.ui-button>, Spend 1.17785692215 seconds
+2017-06-16 16:19:46,405 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.talk_title.text-input-wrap.ui-input > input> content: Discussion_Title, Spend 1.21525788307 seconds
+2017-06-16 16:19:46,554 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 0.148395776749 seconds
+2017-06-16 16:19:47,600 - root - INFO - SUCCESS    Element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title> is exist, Spend 1.04377102852 seconds
+2017-06-16 16:19:47,777 - root - INFO - SUCCESS    Clicked element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title>, Spend 0.175415992737 seconds
+2017-06-16 16:19:48,933 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_edit_btn>, Spend 0.152859926224 seconds
+2017-06-16 16:19:50,083 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 1.14895701408 seconds
+2017-06-16 16:19:51,126 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 1.04205298424 seconds
+2017-06-16 16:19:52,393 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.261013031006 seconds
+2017-06-16 16:19:52,556 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.162488937378 seconds
+2017-06-16 16:19:53,600 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.04332089424 seconds
+2017-06-16 16:19:53,787 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_summary_btn>, Spend 0.186213970184 seconds
+2017-06-16 16:19:55,021 - root - INFO - SUCCESS    Clear and type element: <css->#cke_talk_summary_desc > div.cke_inner.cke_reset > div.cke_contents.cke_reset > div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Summary Content, Spend 1.23272895813 seconds
+2017-06-16 16:19:55,168 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_summary_submit.ui-button>, Spend 0.146234989166 seconds
+2017-06-16 16:19:56,216 - root - INFO - SUCCESS    Element: <css->div.item-detail.editor_style > p:nth-of-type(1)> is exist, Spend 1.04804491997 seconds
+2017-06-16 16:19:56,596 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button:nth-of-type(3)>, Spend 0.37760591507 seconds
+2017-06-16 16:19:56,878 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.281918048859 seconds
+2017-06-16 16:19:57,925 - root - INFO - SUCCESS    Element: <css->div.title-left > button:nth-of-type(2)> is exist, Spend 0.0452840328217 seconds
+2017-06-16 16:19:58,117 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button:nth-of-type(2)>, Spend 0.189332962036 seconds
+2017-06-16 16:19:58,269 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btn.bg-blue.ui-button>, Spend 0.15193104744 seconds
+2017-06-16 16:19:59,300 - root - INFO - SUCCESS    Element: <css->div.title-left > button:nth-of-type(3)> is exist, Spend 1.03094315529 seconds
+2017-06-16 16:19:59,498 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_summary_btn.ui-button>, Spend 0.196326971054 seconds
+2017-06-16 16:20:00,915 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Task Summary!2017-06-16_16-19-12, Spend 1.41558599472 seconds
+2017-06-16 16:20:01,154 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 0.2385160923 seconds
+2017-06-16 16:20:02,211 - root - INFO - SUCCESS    Element: <xpath->//*[@id="task113-detail-block"]/div[1]/div/div/div/ul/li[8]/div/div[2]/p> is exist, Spend 1.05674004555 seconds
+2017-06-16 16:20:02,390 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_revoke_btn.ui-button>, Spend 0.17839384079 seconds
+2017-06-16 16:20:03,560 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.submit.ui-button>, Spend 1.1691160202 seconds
+2017-06-16 16:20:03,586 - root - INFO - SUCCESS    Element: <css->div.vertical-middle.btn-left.inline > button.btn.default.ui-button> is exist, Spend 0.0253050327301 seconds
+2017-06-16 16:20:04,748 - root - INFO - SUCCESS    Clicked element: <css->div.vertical-middle.btn-left.inline > button.btn.default.ui-button>, Spend 0.15494799614 seconds
+2017-06-16 16:20:04,906 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.157073974609 seconds
+2017-06-16 16:20:05,922 - root - INFO - SUCCESS    Element: <css->button.btn.default.task_revoke_btn.ui-button> is exist, Spend 0.0134699344635 seconds
+2017-06-16 16:20:06,099 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_complete_btn.ui-button>, Spend 0.173014879227 seconds
+2017-06-16 16:20:07,254 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 1.15424585342 seconds
+2017-06-16 16:20:08,293 - root - INFO - SUCCESS    Element: <css->label.remark_muted> is exist, Spend 1.03818297386 seconds
+2017-06-16 16:20:08,477 - root - INFO - SUCCESS    Clicked element: <css->ul.taskMenu > li:nth-of-type(3) > h3.task-item>, Spend 0.183568000793 seconds
+2017-06-16 16:20:09,669 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_tag_add_btn.ui-button>, Spend 1.19147205353 seconds
+2017-06-16 16:20:09,823 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.146452188492 seconds
+2017-06-16 16:20:09,823 - root - INFO - ######################## This App Cases End ###########################
+2017-06-16 16:25:21,664 - root - INFO - ######################## This App Cases Start #########################
+2017-06-16 16:25:24,397 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.72812700272 seconds
+2017-06-16 16:25:24,739 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 0.341416120529 seconds
+2017-06-16 16:25:26,699 - root - INFO - SUCCESS    Navigated to http://web.jingoal.com, Spend 1.95906114578 seconds
+2017-06-16 16:25:28,406 - root - INFO - SUCCESS    Clear and type element: <id->email> content: admin@1566720, Spend 1.70399212837 seconds
+2017-06-16 16:25:28,562 - root - INFO - SUCCESS    Clear and type element: <id->password> content: `12qwaszx, Spend 0.154758930206 seconds
+2017-06-16 16:25:28,676 - root - INFO - SUCCESS    Clicked element: <css->a.btn-submit.ng-binding>, Spend 0.113322019577 seconds
+2017-06-16 16:25:31,852 - root - INFO - SUCCESS    Clicked element: <css->div.addBtn>, Spend 0.167891979218 seconds
+2017-06-16 16:25:33,069 - root - INFO - SUCCESS    Clicked element: <css->i.jgicon.jgicon-flag>, Spend 1.21659898758 seconds
+2017-06-16 16:25:33,126 - root - INFO - SUCCESS    Switch to frame element: <css->iframe>, Spend 0.052686214447 seconds
+2017-06-16 16:25:34,167 - root - INFO - SUCCESS    Element: <css->div.btn_addTask.btn_addTask> is exist, Spend 1.04075503349 seconds
+2017-06-16 16:25:34,377 - root - INFO - SUCCESS    Clicked element: <css->div.btn_addTask.btn_addTask>, Spend 0.206904888153 seconds
+2017-06-16 16:25:35,913 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_title.text-input-wrap.ui-input > input> content: Task-Title_2017-06-16_16-25-21, Spend 1.53567409515 seconds
+2017-06-16 16:25:36,070 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 0.15577507019 seconds
+2017-06-16 16:25:37,121 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 1.04609918594 seconds
+2017-06-16 16:25:37,288 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_edit_btn.ui-button>, Spend 0.165608882904 seconds
+2017-06-16 16:25:38,430 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 1.14074611664 seconds
+2017-06-16 16:25:38,449 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 0.018935918808 seconds
+2017-06-16 16:25:39,617 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_add_btn.ui-button>, Spend 0.163316965103 seconds
+2017-06-16 16:25:40,850 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_affair_title.text-input-wrap.ui-input > input> content: Event_Title, Spend 1.22797489166 seconds
+2017-06-16 16:25:40,969 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.task_affair_submit.ui-button>, Spend 0.117389917374 seconds
+2017-06-16 16:25:42,024 - root - INFO - SUCCESS    Element: <css->td.task_affair_list_title.title > div.ellipsis> is exist, Spend 1.05456995964 seconds
+2017-06-16 16:25:42,178 - root - INFO - SUCCESS    Clicked element: <css->td.task_affair_list_title.title > div.ellipsis>, Spend 0.152088880539 seconds
+2017-06-16 16:25:43,481 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.298817157745 seconds
+2017-06-16 16:25:43,628 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.146873950958 seconds
+2017-06-16 16:25:44,668 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.03940200806 seconds
+2017-06-16 16:25:44,813 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_finish>, Spend 0.143895149231 seconds
+2017-06-16 16:25:44,983 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.16881608963 seconds
+2017-06-16 16:25:46,014 - root - INFO - SUCCESS    Element: <css->div.title-left > button.btn.default> is exist, Spend 0.0286610126495 seconds
+2017-06-16 16:25:46,151 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button.btn.default>, Spend 0.136108160019 seconds
+2017-06-16 16:25:47,272 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.116199016571 seconds
+2017-06-16 16:25:48,291 - root - INFO - SUCCESS    Element: <css->button.btn.default.task_affair_finish> is exist, Spend 0.0185029506683 seconds
+2017-06-16 16:25:48,456 - root - INFO - SUCCESS    Clicked element: <css->div.task_tab.task_talk_list_tab>, Spend 0.162365913391 seconds
+2017-06-16 16:25:49,593 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_add_btn.ui-button>, Spend 1.13657784462 seconds
+2017-06-16 16:25:50,851 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.talk_title.text-input-wrap.ui-input > input> content: Discussion_Title, Spend 1.25708603859 seconds
+2017-06-16 16:25:50,979 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 0.125478029251 seconds
+2017-06-16 16:25:52,023 - root - INFO - SUCCESS    Element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title> is exist, Spend 1.0429110527 seconds
+2017-06-16 16:25:52,212 - root - INFO - SUCCESS    Clicked element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title>, Spend 0.183177947998 seconds
+2017-06-16 16:25:53,360 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_edit_btn>, Spend 0.14393901825 seconds
+2017-06-16 16:25:54,502 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 1.14114713669 seconds
+2017-06-16 16:25:55,557 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 1.05462598801 seconds
+2017-06-16 16:25:56,810 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.246000051498 seconds
+2017-06-16 16:25:56,946 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.135225057602 seconds
+2017-06-16 16:25:57,990 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.04273486137 seconds
+2017-06-16 16:25:58,138 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_summary_btn>, Spend 0.14538192749 seconds
+2017-06-16 16:25:59,416 - root - INFO - SUCCESS    Clear and type element: <css->#cke_talk_summary_desc > div.cke_inner.cke_reset > div.cke_contents.cke_reset > div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Summary Content, Spend 1.27766895294 seconds
+2017-06-16 16:25:59,557 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_summary_submit.ui-button>, Spend 0.140179157257 seconds
+2017-06-16 16:26:00,603 - root - INFO - SUCCESS    Element: <css->div.item-detail.editor_style > p:nth-of-type(1)> is exist, Spend 1.04580998421 seconds
+2017-06-16 16:26:00,759 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button:nth-of-type(3)>, Spend 0.15410900116 seconds
+2017-06-16 16:26:00,902 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.142292976379 seconds
+2017-06-16 16:26:01,938 - root - INFO - SUCCESS    Element: <css->div.title-left > button:nth-of-type(2)> is exist, Spend 0.0338821411133 seconds
+2017-06-16 16:26:02,055 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button:nth-of-type(2)>, Spend 0.11562204361 seconds
+2017-06-16 16:26:02,215 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btn.bg-blue.ui-button>, Spend 0.159299850464 seconds
+2017-06-16 16:26:03,253 - root - INFO - SUCCESS    Element: <css->div.title-left > button:nth-of-type(3)> is exist, Spend 1.03695416451 seconds
+2017-06-16 16:26:03,405 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_summary_btn.ui-button>, Spend 0.15031003952 seconds
+2017-06-16 16:26:04,749 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Task Summary!2017-06-16_16-25-21, Spend 1.3434689045 seconds
+2017-06-16 16:26:04,903 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 0.152750968933 seconds
+2017-06-16 16:26:05,972 - root - INFO - SUCCESS    Element: <xpath->//*[@id="task113-detail-block"]/div[1]/div/div/div/ul/li[8]/div/div[2]/p> is exist, Spend 1.06817603111 seconds
+2017-06-16 16:26:06,114 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_revoke_btn.ui-button>, Spend 0.140655994415 seconds
+2017-06-16 16:26:07,288 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.submit.ui-button>, Spend 1.17314314842 seconds
+2017-06-16 16:26:07,314 - root - INFO - SUCCESS    Element: <css->div.vertical-middle.btn-left.inline > button.btn.default.ui-button> is exist, Spend 0.0261950492859 seconds
+2017-06-16 16:26:08,458 - root - INFO - SUCCESS    Clicked element: <css->div.vertical-middle.btn-left.inline > button.btn.default.ui-button>, Spend 0.139086961746 seconds
+2017-06-16 16:26:08,638 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.178475141525 seconds
+2017-06-16 16:26:09,655 - root - INFO - SUCCESS    Element: <css->button.btn.default.task_revoke_btn.ui-button> is exist, Spend 0.0124289989471 seconds
+2017-06-16 16:26:09,802 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_complete_btn.ui-button>, Spend 0.144932031631 seconds
+2017-06-16 16:26:10,956 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 1.15322399139 seconds
+2017-06-16 16:26:11,999 - root - INFO - SUCCESS    Element: <css->label.remark_muted> is exist, Spend 1.04135513306 seconds
+2017-06-16 16:26:12,201 - root - INFO - SUCCESS    Clicked element: <css->ul.taskMenu > li:nth-of-type(3) > h3.task-item>, Spend 0.199543952942 seconds
+2017-06-16 16:26:13,414 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_tag_add_btn.ui-button>, Spend 1.21239900589 seconds
+2017-06-16 16:26:13,515 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.094190120697 seconds
+2017-06-16 16:26:13,515 - root - INFO - ######################## This App Cases End ###########################
+2017-06-16 16:26:53,781 - root - INFO - ######################## This App Cases Start #########################
+2017-06-16 16:26:56,192 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.40940999985 seconds
+2017-06-16 16:26:56,521 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 0.328315973282 seconds
+2017-06-16 16:26:58,735 - root - INFO - SUCCESS    Navigated to http://web.jingoal.com, Spend 2.21281814575 seconds
+2017-06-16 16:27:01,531 - root - INFO - SUCCESS    Clear and type element: <id->email> content: admin@1566720, Spend 2.79490494728 seconds
+2017-06-16 16:27:01,790 - root - INFO - SUCCESS    Clear and type element: <id->password> content: `12qwaszx, Spend 0.258532047272 seconds
+2017-06-16 16:27:01,976 - root - INFO - SUCCESS    Clicked element: <css->a.btn-submit.ng-binding>, Spend 0.185544013977 seconds
+2017-06-16 16:27:05,141 - root - INFO - SUCCESS    Clicked element: <css->div.addBtn>, Spend 0.157861948013 seconds
+2017-06-16 16:27:07,216 - root - INFO - SUCCESS    Clicked element: <css->i.jgicon.jgicon-flag>, Spend 2.07459306717 seconds
+2017-06-16 16:27:07,304 - root - INFO - SUCCESS    Switch to frame element: <css->iframe>, Spend 0.0868279933929 seconds
+2017-06-16 16:27:08,359 - root - INFO - SUCCESS    Element: <css->div.btn_addTask.btn_addTask> is exist, Spend 1.05168294907 seconds
+2017-06-16 16:27:08,529 - root - INFO - SUCCESS    Clicked element: <css->div.btn_addTask.btn_addTask>, Spend 0.167613983154 seconds
+2017-06-16 16:27:10,025 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_title.text-input-wrap.ui-input > input> content: Task-Title_2017-06-16_16-26-53, Spend 1.49582600594 seconds
+2017-06-16 16:27:10,195 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 0.168990850449 seconds
+2017-06-16 16:27:11,245 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 1.04941320419 seconds
+2017-06-16 16:27:11,388 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_edit_btn.ui-button>, Spend 0.140779018402 seconds
+2017-06-16 16:27:12,523 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 1.13429784775 seconds
+2017-06-16 16:27:12,532 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 0.00922894477844 seconds
+2017-06-16 16:27:13,705 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_add_btn.ui-button>, Spend 0.164160966873 seconds
+2017-06-16 16:27:14,978 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_affair_title.text-input-wrap.ui-input > input> content: Event_Title, Spend 1.26903891563 seconds
+2017-06-16 16:27:15,103 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.task_affair_submit.ui-button>, Spend 0.124691009521 seconds
+2017-06-16 16:27:16,156 - root - INFO - SUCCESS    Element: <css->td.task_affair_list_title.title > div.ellipsis> is exist, Spend 1.0530769825 seconds
+2017-06-16 16:27:16,328 - root - INFO - SUCCESS    Clicked element: <css->td.task_affair_list_title.title > div.ellipsis>, Spend 0.170016050339 seconds
+2017-06-16 16:27:17,633 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.299947977066 seconds
+2017-06-16 16:27:17,801 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.167657136917 seconds
+2017-06-16 16:27:18,849 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.04680800438 seconds
+2017-06-16 16:27:19,008 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_finish>, Spend 0.157158136368 seconds
+2017-06-16 16:27:19,191 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.182902097702 seconds
+2017-06-16 16:27:20,226 - root - INFO - SUCCESS    Element: <css->div.title-left > button.btn.default> is exist, Spend 0.0311770439148 seconds
+2017-06-16 16:27:20,372 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button.btn.default>, Spend 0.141769886017 seconds
+2017-06-16 16:27:21,489 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.114383935928 seconds
+2017-06-16 16:27:22,509 - root - INFO - SUCCESS    Element: <css->button.btn.default.task_affair_finish> is exist, Spend 0.0164439678192 seconds
+2017-06-16 16:27:22,704 - root - INFO - SUCCESS    Clicked element: <css->div.task_tab.task_talk_list_tab>, Spend 0.192406177521 seconds
+2017-06-16 16:27:23,907 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_add_btn.ui-button>, Spend 1.20217108727 seconds
+2017-06-16 16:27:25,190 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.talk_title.text-input-wrap.ui-input > input> content: Discussion_Title, Spend 1.281883955 seconds
+2017-06-16 16:27:25,317 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 0.126767873764 seconds
+2017-06-16 16:27:26,367 - root - INFO - SUCCESS    Element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title> is exist, Spend 1.04942917824 seconds
+2017-06-16 16:27:26,518 - root - INFO - SUCCESS    Clicked element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title>, Spend 0.148871898651 seconds
+2017-06-16 16:27:27,669 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_edit_btn>, Spend 0.147686004639 seconds
+2017-06-16 16:27:28,809 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 1.13859987259 seconds
+2017-06-16 16:27:29,850 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 1.04052209854 seconds
+2017-06-16 16:27:31,083 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.226475954056 seconds
+2017-06-16 16:27:31,208 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.122984886169 seconds
+2017-06-16 16:27:32,240 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.03139901161 seconds
+2017-06-16 16:27:32,396 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_summary_btn>, Spend 0.15430688858 seconds
+2017-06-16 16:27:33,629 - root - INFO - SUCCESS    Clear and type element: <css->#cke_talk_summary_desc > div.cke_inner.cke_reset > div.cke_contents.cke_reset > div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Summary Content, Spend 1.23310303688 seconds
+2017-06-16 16:27:33,769 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_summary_submit.ui-button>, Spend 0.139159917831 seconds
+2017-06-16 16:27:34,810 - root - INFO - SUCCESS    Element: <css->div.item-detail.editor_style > p:nth-of-type(1)> is exist, Spend 1.04041981697 seconds
+2017-06-16 16:27:34,961 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button:nth-of-type(3)>, Spend 0.149358034134 seconds
+2017-06-16 16:27:35,098 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.136753797531 seconds
+2017-06-16 16:27:36,135 - root - INFO - SUCCESS    Element: <css->div.title-left > button:nth-of-type(2)> is exist, Spend 0.031848192215 seconds
+2017-06-16 16:27:36,264 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button:nth-of-type(2)>, Spend 0.127281904221 seconds
+2017-06-16 16:27:36,409 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btn.bg-blue.ui-button>, Spend 0.143821954727 seconds
+2017-06-16 16:27:37,439 - root - INFO - SUCCESS    Element: <css->div.title-left > button:nth-of-type(3)> is exist, Spend 1.03013801575 seconds
+2017-06-16 16:27:37,597 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_summary_btn.ui-button>, Spend 0.153675794601 seconds
+2017-06-16 16:27:39,014 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Task Summary!2017-06-16_16-26-53, Spend 1.41648197174 seconds
+2017-06-16 16:27:39,184 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 0.169537067413 seconds
+2017-06-16 16:27:40,243 - root - INFO - SUCCESS    Element: <xpath->//*[@id="task113-detail-block"]/div[1]/div/div/div/ul/li[8]/div/div[2]/p> is exist, Spend 1.05884480476 seconds
+2017-06-16 16:27:40,385 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_revoke_btn.ui-button>, Spend 0.138784885406 seconds
+2017-06-16 16:27:41,545 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.submit.ui-button>, Spend 1.15925693512 seconds
+2017-06-16 16:27:41,570 - root - INFO - SUCCESS    Element: <css->div.vertical-middle.btn-left.inline > button.btn.default.ui-button> is exist, Spend 0.0249629020691 seconds
+2017-06-16 16:27:42,792 - root - INFO - SUCCESS    Clicked element: <css->div.vertical-middle.btn-left.inline > button.btn.default.ui-button>, Spend 0.215889930725 seconds
+2017-06-16 16:27:42,950 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.157956123352 seconds
+2017-06-16 16:27:43,969 - root - INFO - SUCCESS    Element: <css->button.btn.default.task_revoke_btn.ui-button> is exist, Spend 0.0166139602661 seconds
+2017-06-16 16:27:44,165 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_complete_btn.ui-button>, Spend 0.194344043732 seconds
+2017-06-16 16:27:45,334 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 1.16793894768 seconds
+2017-06-16 16:27:46,387 - root - INFO - SUCCESS    Element: <css->label.remark_muted> is exist, Spend 1.05304384232 seconds
+2017-06-16 16:27:46,564 - root - INFO - SUCCESS    Clicked element: <css->ul.taskMenu > li:nth-of-type(3) > h3.task-item>, Spend 0.173840999603 seconds
+2017-06-16 16:27:47,774 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_tag_add_btn.ui-button>, Spend 1.20964813232 seconds
+2017-06-16 16:27:48,041 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.text-input-wrap.ui-input > input> content: Event Tag, Spend 0.265692949295 seconds
+2017-06-16 16:27:48,239 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.btn_submit.ui-button>, Spend 0.197107076645 seconds
+2017-06-16 16:27:49,282 - root - INFO - SUCCESS    Element: <css->tbody > tr:nth-of-type(9) > td.title> is exist, Spend 1.04260396957 seconds
+2017-06-16 16:27:49,460 - root - INFO - SUCCESS    Clicked element: <css->tbody > tr:nth-of-type(9) > td:nth-of-type(3) > a.deletetag>, Spend 0.176128149033 seconds
+2017-06-16 16:27:49,625 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.163138151169 seconds
+2017-06-16 16:27:50,665 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0385711193085 seconds
+2017-06-16 16:27:50,824 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.15699505806 seconds
+2017-06-16 16:27:50,824 - root - INFO - ######################## This App Cases End ###########################
+2017-06-16 16:49:17,814 - root - INFO - ######################## This App Cases Start #########################
+2017-06-16 16:49:20,410 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.59112095833 seconds
+2017-06-16 16:49:21,017 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 0.606318950653 seconds
+2017-06-16 16:49:23,384 - root - INFO - SUCCESS    Navigated to http://web.jingoal.com, Spend 2.36629891396 seconds
+2017-06-16 16:49:24,652 - root - INFO - SUCCESS    Clear and type element: <id->email> content: admin@1566720, Spend 1.26529788971 seconds
+2017-06-16 16:49:24,808 - root - INFO - SUCCESS    Clear and type element: <id->password> content: `12qwaszx, Spend 0.155390977859 seconds
+2017-06-16 16:49:24,916 - root - INFO - SUCCESS    Clicked element: <css->a.btn-submit.ng-binding>, Spend 0.107573032379 seconds
+2017-06-16 16:49:28,067 - root - INFO - SUCCESS    Clicked element: <css->div.addBtn>, Spend 0.145806074142 seconds
+2017-06-16 16:49:28,811 - root - INFO - SUCCESS    Clicked element: <css->i.jgicon.jgicon-pageage>, Spend 0.74266409874 seconds
+2017-06-16 16:49:28,927 - root - INFO - SUCCESS    Switch to frame element: <css->iframe>, Spend 0.113363027573 seconds
+2017-06-16 16:49:30,988 - root - INFO - SUCCESS    Element: <css->div.bread-left> is exist, Spend 2.05990481377 seconds
+2017-06-16 16:49:31,260 - root - INFO - SUCCESS    Clicked element: <css->span.mid_text>, Spend 0.271413087845 seconds
+2017-06-16 16:49:32,691 - root - INFO - SUCCESS    Clear and type element: <css->#addScrollDiv > ul > li:nth-child(2) > div > input[type="text"]> content: notice-title_2017-06-16_16-49-17, Spend 1.42994999886 seconds
+2017-06-16 16:49:32,975 - root - INFO - SUCCESS    Clear and type element: <css->#cke_1_contents > div> content: notice-content-test, Spend 0.283620834351 seconds
+2017-06-16 16:49:33,141 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="addScrollDiv"]/ul/li[9]/button[3]>, Spend 0.164952993393 seconds
+2017-06-16 16:49:34,198 - root - INFO - SUCCESS    Element: <css->h6.ui-dialog-title.notice-preview-dialog-title> is exist, Spend 1.05670595169 seconds
+2017-06-16 16:49:34,357 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="notice-preview-body"]/div[3]/button>, Spend 0.15755200386 seconds
+2017-06-16 16:49:34,542 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btn_save.confirm.ui-button>, Spend 0.184731006622 seconds
+2017-06-16 16:49:35,594 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.publishNotice> is exist, Spend 1.0514318943 seconds
+2017-06-16 16:49:35,744 - root - INFO - SUCCESS    Clicked element: <css->button.btn.notice-option.publishNotice>, Spend 0.148756027222 seconds
+2017-06-16 16:49:36,126 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.ui-button>, Spend 0.381263971329 seconds
+2017-06-16 16:49:37,194 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.suspendNotice> is exist, Spend 1.06734514236 seconds
+2017-06-16 16:49:37,306 - root - INFO - SUCCESS    Clicked element: <css->button.btn.notice-option.suspendNotice>, Spend 0.112112998962 seconds
+2017-06-16 16:49:37,479 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.ui-button>, Spend 0.17209482193 seconds
+2017-06-16 16:49:38,509 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.publishNotice> is exist, Spend 1.02977204323 seconds
+2017-06-16 16:49:38,644 - root - INFO - SUCCESS    Clicked element: <css->button.btn.editNotice.notice-option>, Spend 0.134504079819 seconds
+2017-06-16 16:49:39,842 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btn_submit.confirm.ui-button>, Spend 1.1970281601 seconds
+2017-06-16 16:49:41,910 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.editNotice> is exist, Spend 2.06711792946 seconds
+2017-06-16 16:49:44,075 - root - INFO - SUCCESS    Clicked element: <css->button.btn.notice-option.stickNotice>, Spend 0.15833902359 seconds
+2017-06-16 16:49:45,121 - root - INFO - SUCCESS    Element: <css->button.btn.cancelStickNotice.notice-option> is exist, Spend 1.04561305046 seconds
+2017-06-16 16:49:47,264 - root - INFO - SUCCESS    Clicked element: <css->button.btn.cancelStickNotice.notice-option>, Spend 0.137323141098 seconds
+2017-06-16 16:49:48,298 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.stickNotice> is exist, Spend 1.03393101692 seconds
+2017-06-16 16:49:48,486 - root - INFO - SUCCESS    Clicked element: <css->i.notice_detail_attention>, Spend 0.185059070587 seconds
+2017-06-16 16:49:49,523 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0312869548798 seconds
+2017-06-16 16:49:50,628 - root - INFO - SUCCESS    Clicked element: <css->div.detail-basics-title > div:nth-of-type(1) > i>, Spend 0.103200912476 seconds
+2017-06-16 16:49:51,641 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0102047920227 seconds
+2017-06-16 16:49:52,812 - root - INFO - SUCCESS    Clicked element: <css->button.btn.delNotice.notice-option>, Spend 0.166617870331 seconds
+2017-06-16 16:49:52,990 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.ui-button>, Spend 0.177895069122 seconds
+2017-06-16 16:49:54,023 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 1.03246498108 seconds
+2017-06-16 16:49:54,194 - root - INFO - SUCCESS    Clicked element: <css->#notice_label_setting>, Spend 0.169210910797 seconds
+2017-06-16 16:49:55,418 - root - INFO - SUCCESS    Clicked element: <css->button.add-columns-btn.border.btn.default.newColum>, Spend 1.22021794319 seconds
+2017-06-16 16:49:55,705 - root - INFO - SUCCESS    Clear and type element: <css->div.columName.text-input-wrap.top-border-dark.ui-input > input> content: category name, Spend 0.286753892899 seconds
+2017-06-16 16:49:55,915 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btnOK.columOK.confirm.ui-button>, Spend 0.209100008011 seconds
+2017-06-16 16:49:57,034 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 1.11817288399 seconds
+2017-06-16 16:49:57,185 - root - INFO - SUCCESS    Clicked element: <css->tbody.personnel_table > tr:nth-of-type(4) > td:nth-of-type(4) > div.opt-btn-warp > button:nth-of-type(1)>, Spend 0.149688959122 seconds
+2017-06-16 16:49:57,299 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btnOK.columOK.confirm.ui-button>, Spend 0.113624811172 seconds
+2017-06-16 16:49:57,309 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0100739002228 seconds
+2017-06-16 16:49:58,460 - root - INFO - SUCCESS    Clicked element: <css->tbody.personnel_table > tr:nth-of-type(4) > td:nth-of-type(4) > div.opt-btn-warp > button:nth-of-type(2)>, Spend 0.146099090576 seconds
+2017-06-16 16:49:58,592 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.ui-button>, Spend 0.130848169327 seconds
+2017-06-16 16:49:58,606 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.013288974762 seconds
+2017-06-16 16:49:59,858 - root - INFO - SUCCESS    Drag and drop element: <css->tbody.personnel_table > tr:nth-of-type(3) > td:nth-of-type(1)> to element: <css->tbody.personnel_table > tr:nth-of-type(1) > td:nth-of-type(1)>, Spend 0.246922016144 seconds
+2017-06-16 16:50:00,521 - root - INFO - SUCCESS    Drag and drop element: <css->tbody.personnel_table > tr:nth-of-type(1) > td:nth-of-type(1)> to element: <css->tbody.personnel_table > tr:nth-of-type(3) > td:nth-of-type(1)>, Spend 0.159296035767 seconds
+2017-06-16 16:50:00,535 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0138339996338 seconds
+2017-06-16 16:50:00,631 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.0952181816101 seconds
+2017-06-16 16:50:00,632 - root - INFO - ######################## This App Cases End ###########################
+2017-06-16 16:50:00,634 - root - INFO - ######################## This App Cases Start #########################
+2017-06-16 16:50:02,887 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.25191903114 seconds
+2017-06-16 16:50:03,149 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 0.261368989944 seconds
+2017-06-16 16:50:05,322 - root - INFO - SUCCESS    Navigated to http://web.jingoal.com, Spend 2.17308998108 seconds
+2017-06-16 16:50:07,041 - root - INFO - SUCCESS    Clear and type element: <id->email> content: admin@1566720, Spend 1.71809697151 seconds
+2017-06-16 16:50:07,283 - root - INFO - SUCCESS    Clear and type element: <id->password> content: `12qwaszx, Spend 0.239408016205 seconds
+2017-06-16 16:50:07,467 - root - INFO - SUCCESS    Clicked element: <css->a.btn-submit.ng-binding>, Spend 0.183531045914 seconds
+2017-06-16 16:50:11,215 - root - INFO - SUCCESS    Clicked element: <css->div.addBtn>, Spend 0.743850946426 seconds
+2017-06-16 16:50:12,158 - root - INFO - SUCCESS    Clicked element: <css->i.jgicon.jgicon-flag>, Spend 0.941611051559 seconds
+2017-06-16 16:50:12,210 - root - INFO - SUCCESS    Switch to frame element: <css->iframe>, Spend 0.0495300292969 seconds
+2017-06-16 16:50:14,301 - root - INFO - SUCCESS    Element: <css->div.btn_addTask.btn_addTask> is exist, Spend 2.09086489677 seconds
+2017-06-16 16:50:14,456 - root - INFO - SUCCESS    Clicked element: <css->div.btn_addTask.btn_addTask>, Spend 0.154778957367 seconds
+2017-06-16 16:50:15,757 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_title.text-input-wrap.ui-input > input> content: Task-Title_2017-06-16_16-49-17, Spend 1.29986095428 seconds
+2017-06-16 16:50:15,923 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 0.166071891785 seconds
+2017-06-16 16:50:16,968 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 1.04489302635 seconds
+2017-06-16 16:50:17,120 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_edit_btn.ui-button>, Spend 0.151026010513 seconds
+2017-06-16 16:50:18,251 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 1.13054609299 seconds
+2017-06-16 16:50:18,261 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 0.0093629360199 seconds
+2017-06-16 16:50:19,413 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_add_btn.ui-button>, Spend 0.147749185562 seconds
+2017-06-16 16:50:20,763 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_affair_title.text-input-wrap.ui-input > input> content: Event_Title, Spend 1.34943389893 seconds
+2017-06-16 16:50:20,947 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.task_affair_submit.ui-button>, Spend 0.183453083038 seconds
+2017-06-16 16:50:21,988 - root - INFO - SUCCESS    Element: <css->td.task_affair_list_title.title > div.ellipsis> is exist, Spend 1.04044795036 seconds
+2017-06-16 16:50:22,153 - root - INFO - SUCCESS    Clicked element: <css->td.task_affair_list_title.title > div.ellipsis>, Spend 0.163963079453 seconds
+2017-06-16 16:50:28,253 - root - INFO - FAIL    Unable to clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 5.09570717812 seconds
+2017-06-16 16:50:28,423 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_finish>, Spend 0.156071901321 seconds
+2017-06-16 16:50:28,571 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.147217035294 seconds
+2017-06-16 16:50:29,607 - root - INFO - SUCCESS    Element: <css->div.title-left > button.btn.default> is exist, Spend 0.0309820175171 seconds
+2017-06-16 16:50:29,832 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button.btn.default>, Spend 0.224068164825 seconds
+2017-06-16 16:50:30,959 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.123001098633 seconds
+2017-06-16 16:50:31,981 - root - INFO - SUCCESS    Element: <css->button.btn.default.task_affair_finish> is exist, Spend 0.0187880992889 seconds
+2017-06-16 16:50:32,144 - root - INFO - SUCCESS    Clicked element: <css->div.task_tab.task_talk_list_tab>, Spend 0.162617921829 seconds
+2017-06-16 16:50:33,315 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_add_btn.ui-button>, Spend 1.17066907883 seconds
+2017-06-16 16:50:34,529 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.talk_title.text-input-wrap.ui-input > input> content: Discussion_Title, Spend 1.21363091469 seconds
+2017-06-16 16:50:34,661 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 0.131307840347 seconds
+2017-06-16 16:50:35,704 - root - INFO - SUCCESS    Element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title> is exist, Spend 1.04255509377 seconds
+2017-06-16 16:50:35,862 - root - INFO - SUCCESS    Clicked element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title>, Spend 0.1570520401 seconds
+2017-06-16 16:50:37,004 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_edit_btn>, Spend 0.139747858047 seconds
+2017-06-16 16:50:38,133 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 1.1284198761 seconds
+2017-06-16 16:50:39,176 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 1.03990602493 seconds
+2017-06-16 16:50:40,375 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.194190979004 seconds
+2017-06-16 16:50:40,525 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.149674892426 seconds
+2017-06-16 16:50:41,570 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.04418897629 seconds
+2017-06-16 16:50:41,708 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_summary_btn>, Spend 0.137475013733 seconds
+2017-06-16 16:50:42,979 - root - INFO - SUCCESS    Clear and type element: <css->#cke_talk_summary_desc > div.cke_inner.cke_reset > div.cke_contents.cke_reset > div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Summary Content, Spend 1.27049612999 seconds
+2017-06-16 16:50:43,136 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_summary_submit.ui-button>, Spend 0.156344175339 seconds
+2017-06-16 16:50:48,233 - root - INFO - FAIL    Element: <css->div.item-detail.editor_style > p:nth-of-type(1)> is not exist, Spend 5.09613990784 seconds
+2017-06-16 16:50:48,341 - root - INFO - FAIL    Unable to click element: <css->div.title-left > button:nth-of-type(3)>, Spend 0.105808973312 seconds
+2017-06-16 16:50:48,424 - root - INFO - FAIL    Unable to click element: <css->div.title-left > button:nth-of-type(2)>, Spend 0.077978849411 seconds
+2017-06-16 16:50:48,539 - root - INFO - FAIL    Unable to click element: <css->button.btn.default.task_summary_btn.ui-button>, Spend 0.114543199539 seconds
+2017-06-16 16:50:48,633 - root - INFO - FAIL    Unable to click element: <css->button.btn.default.task_revoke_btn.ui-button>, Spend 0.0935649871826 seconds
+2017-06-16 16:50:49,740 - root - INFO - FAIL    Unable to click element: <css->div.vertical-middle.btn-left.inline > button.btn.default.ui-button>, Spend 0.103599071503 seconds
+2017-06-16 16:50:49,828 - root - INFO - FAIL    Unable to click element: <css->button.btn.default.task_complete_btn.ui-button>, Spend 0.0873439311981 seconds
+2017-06-16 16:50:49,916 - root - INFO - FAIL    Unable to click element: <css->ul.taskMenu > li:nth-of-type(3) > h3.task-item>, Spend 0.0870769023895 seconds
+2017-06-16 16:50:55,010 - root - INFO - FAIL    Unable to click element: <css->tbody > tr:nth-of-type(9) > td:nth-of-type(3) > a.deletetag>, Spend 5.09319591522 seconds
+2017-06-16 16:50:55,169 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.154203891754 seconds
+2017-06-16 16:50:55,169 - root - INFO - ######################## This App Cases End ###########################
+2017-06-16 16:51:00,404 - root - INFO - 发送邮件成功
+2017-06-16 16:53:00,060 - root - INFO - ######################## This App Cases Start #########################
+2017-06-16 16:53:02,728 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.66529917717 seconds
+2017-06-16 16:53:03,128 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 0.398972988129 seconds
+2017-06-16 16:53:05,367 - root - INFO - SUCCESS    Navigated to http://web.jingoal.com, Spend 2.23836493492 seconds
+2017-06-16 16:53:06,735 - root - INFO - SUCCESS    Clear and type element: <id->email> content: admin@1566720, Spend 1.36455702782 seconds
+2017-06-16 16:53:06,907 - root - INFO - SUCCESS    Clear and type element: <id->password> content: `12qwaszx, Spend 0.172521114349 seconds
+2017-06-16 16:53:07,031 - root - INFO - SUCCESS    Clicked element: <css->a.btn-submit.ng-binding>, Spend 0.123076915741 seconds
+2017-06-16 16:53:10,203 - root - INFO - SUCCESS    Clicked element: <css->div.addBtn>, Spend 0.166700839996 seconds
+2017-06-16 16:53:11,047 - root - INFO - SUCCESS    Clicked element: <css->i.jgicon.jgicon-pageage>, Spend 0.842894792557 seconds
+2017-06-16 16:53:11,147 - root - INFO - SUCCESS    Switch to frame element: <css->iframe>, Spend 0.099662065506 seconds
+2017-06-16 16:53:12,207 - root - INFO - SUCCESS    Element: <css->div.bread-left> is exist, Spend 1.05941319466 seconds
+2017-06-16 16:53:12,387 - root - INFO - SUCCESS    Clicked element: <css->span.mid_text>, Spend 0.17915391922 seconds
+2017-06-16 16:53:13,789 - root - INFO - SUCCESS    Clear and type element: <css->#addScrollDiv > ul > li:nth-child(2) > div > input[type="text"]> content: notice-title_2017-06-16_16-53-00, Spend 1.40109491348 seconds
+2017-06-16 16:53:14,088 - root - INFO - SUCCESS    Clear and type element: <css->#cke_1_contents > div> content: notice-content-test, Spend 0.298897027969 seconds
+2017-06-16 16:53:14,253 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="addScrollDiv"]/ul/li[9]/button[3]>, Spend 0.163998126984 seconds
+2017-06-16 16:53:15,296 - root - INFO - SUCCESS    Element: <css->h6.ui-dialog-title.notice-preview-dialog-title> is exist, Spend 1.04325795174 seconds
+2017-06-16 16:53:15,432 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="notice-preview-body"]/div[3]/button>, Spend 0.134396076202 seconds
+2017-06-16 16:53:15,578 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btn_save.confirm.ui-button>, Spend 0.145434856415 seconds
+2017-06-16 16:53:16,623 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.publishNotice> is exist, Spend 1.04503703117 seconds
+2017-06-16 16:53:16,760 - root - INFO - SUCCESS    Clicked element: <css->button.btn.notice-option.publishNotice>, Spend 0.135892868042 seconds
+2017-06-16 16:53:16,919 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.ui-button>, Spend 0.158080101013 seconds
+2017-06-16 16:53:17,968 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.suspendNotice> is exist, Spend 1.04847812653 seconds
+2017-06-16 16:53:18,078 - root - INFO - SUCCESS    Clicked element: <css->button.btn.notice-option.suspendNotice>, Spend 0.10929608345 seconds
+2017-06-16 16:53:18,194 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.ui-button>, Spend 0.114973068237 seconds
+2017-06-16 16:53:19,225 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.publishNotice> is exist, Spend 1.03129291534 seconds
+2017-06-16 16:53:19,385 - root - INFO - SUCCESS    Clicked element: <css->button.btn.editNotice.notice-option>, Spend 0.159082889557 seconds
+2017-06-16 16:53:20,558 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btn_submit.confirm.ui-button>, Spend 1.1724460125 seconds
+2017-06-16 16:53:21,601 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.editNotice> is exist, Spend 1.04292702675 seconds
+2017-06-16 16:53:23,788 - root - INFO - SUCCESS    Clicked element: <css->button.btn.notice-option.stickNotice>, Spend 0.181818008423 seconds
+2017-06-16 16:53:24,871 - root - INFO - SUCCESS    Element: <css->button.btn.cancelStickNotice.notice-option> is exist, Spend 1.08180379868 seconds
+2017-06-16 16:53:27,012 - root - INFO - SUCCESS    Clicked element: <css->button.btn.cancelStickNotice.notice-option>, Spend 0.136720895767 seconds
+2017-06-16 16:53:28,045 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.stickNotice> is exist, Spend 1.0324640274 seconds
+2017-06-16 16:53:28,176 - root - INFO - SUCCESS    Clicked element: <css->i.notice_detail_attention>, Spend 0.130832910538 seconds
+2017-06-16 16:53:29,209 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0306210517883 seconds
+2017-06-16 16:53:30,315 - root - INFO - SUCCESS    Clicked element: <css->div.detail-basics-title > div:nth-of-type(1) > i>, Spend 0.100677967072 seconds
+2017-06-16 16:53:31,333 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0132768154144 seconds
+2017-06-16 16:53:32,538 - root - INFO - SUCCESS    Clicked element: <css->button.btn.delNotice.notice-option>, Spend 0.200351953506 seconds
+2017-06-16 16:53:33,083 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.ui-button>, Spend 0.544037103653 seconds
+2017-06-16 16:53:34,122 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 1.03845405579 seconds
+2017-06-16 16:53:34,292 - root - INFO - SUCCESS    Clicked element: <css->#notice_label_setting>, Spend 0.169419050217 seconds
+2017-06-16 16:53:35,464 - root - INFO - SUCCESS    Clicked element: <css->button.add-columns-btn.border.btn.default.newColum>, Spend 1.17096304893 seconds
+2017-06-16 16:53:35,716 - root - INFO - SUCCESS    Clear and type element: <css->div.columName.text-input-wrap.top-border-dark.ui-input > input> content: category name, Spend 0.25154209137 seconds
+2017-06-16 16:53:35,857 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btnOK.columOK.confirm.ui-button>, Spend 0.14032292366 seconds
+2017-06-16 16:53:36,883 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 1.02534985542 seconds
+2017-06-16 16:53:37,047 - root - INFO - SUCCESS    Clicked element: <css->tbody.personnel_table > tr:nth-of-type(4) > td:nth-of-type(4) > div.opt-btn-warp > button:nth-of-type(1)>, Spend 0.164119958878 seconds
+2017-06-16 16:53:37,167 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btnOK.columOK.confirm.ui-button>, Spend 0.11883187294 seconds
+2017-06-16 16:53:37,177 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.00981307029724 seconds
+2017-06-16 16:53:38,342 - root - INFO - SUCCESS    Clicked element: <css->tbody.personnel_table > tr:nth-of-type(4) > td:nth-of-type(4) > div.opt-btn-warp > button:nth-of-type(2)>, Spend 0.158989906311 seconds
+2017-06-16 16:53:38,458 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.ui-button>, Spend 0.115307092667 seconds
+2017-06-16 16:53:38,473 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0145659446716 seconds
+2017-06-16 16:53:39,782 - root - INFO - SUCCESS    Drag and drop element: <css->tbody.personnel_table > tr:nth-of-type(3) > td:nth-of-type(1)> to element: <css->tbody.personnel_table > tr:nth-of-type(1) > td:nth-of-type(1)>, Spend 0.303061962128 seconds
+2017-06-16 16:53:40,461 - root - INFO - SUCCESS    Drag and drop element: <css->tbody.personnel_table > tr:nth-of-type(1) > td:nth-of-type(1)> to element: <css->tbody.personnel_table > tr:nth-of-type(3) > td:nth-of-type(1)>, Spend 0.174546003342 seconds
+2017-06-16 16:53:40,474 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.012305021286 seconds
+2017-06-16 16:53:40,572 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.0973029136658 seconds
+2017-06-16 16:53:40,573 - root - INFO - ######################## This App Cases End ###########################
+2017-06-16 16:53:40,575 - root - INFO - ######################## This App Cases Start #########################
+2017-06-16 16:53:42,912 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.33282518387 seconds
+2017-06-16 16:53:43,099 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 0.1863489151 seconds
+2017-06-16 16:53:45,151 - root - INFO - SUCCESS    Navigated to http://web.jingoal.com, Spend 2.05124878883 seconds
+2017-06-16 16:53:47,417 - root - INFO - SUCCESS    Clear and type element: <id->email> content: admin@1566720, Spend 2.2653901577 seconds
+2017-06-16 16:53:47,580 - root - INFO - SUCCESS    Clear and type element: <id->password> content: `12qwaszx, Spend 0.162636995316 seconds
+2017-06-16 16:53:47,687 - root - INFO - SUCCESS    Clicked element: <css->a.btn-submit.ng-binding>, Spend 0.105895996094 seconds
+2017-06-16 16:53:50,831 - root - INFO - SUCCESS    Clicked element: <css->div.addBtn>, Spend 0.138411045074 seconds
+2017-06-16 16:53:51,456 - root - INFO - SUCCESS    Clicked element: <css->i.jgicon.jgicon-flag>, Spend 0.622522115707 seconds
+2017-06-16 16:53:51,503 - root - INFO - SUCCESS    Switch to frame element: <css->iframe>, Spend 0.046247959137 seconds
+2017-06-16 16:53:52,598 - root - INFO - SUCCESS    Element: <css->div.btn_addTask.btn_addTask> is exist, Spend 1.09488487244 seconds
+2017-06-16 16:53:52,742 - root - INFO - SUCCESS    Clicked element: <css->div.btn_addTask.btn_addTask>, Spend 0.143505096436 seconds
+2017-06-16 16:53:54,066 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_title.text-input-wrap.ui-input > input> content: Task-Title_2017-06-16_16-53-00, Spend 1.32291388512 seconds
+2017-06-16 16:53:54,200 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 0.133907079697 seconds
+2017-06-16 16:53:55,251 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 1.04970502853 seconds
+2017-06-16 16:53:55,403 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_edit_btn.ui-button>, Spend 0.151426076889 seconds
+2017-06-16 16:53:56,523 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 1.1200940609 seconds
+2017-06-16 16:53:56,533 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 0.00899600982666 seconds
+2017-06-16 16:53:57,674 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_add_btn.ui-button>, Spend 0.136212825775 seconds
+2017-06-16 16:53:58,867 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_affair_title.text-input-wrap.ui-input > input> content: Event_Title, Spend 1.19284796715 seconds
+2017-06-16 16:53:58,989 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.task_affair_submit.ui-button>, Spend 0.120975017548 seconds
+2017-06-16 16:54:00,034 - root - INFO - SUCCESS    Element: <css->td.task_affair_list_title.title > div.ellipsis> is exist, Spend 1.04461479187 seconds
+2017-06-16 16:54:00,205 - root - INFO - SUCCESS    Clicked element: <css->td.task_affair_list_title.title > div.ellipsis>, Spend 0.169732809067 seconds
+2017-06-16 16:54:01,443 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.232039928436 seconds
+2017-06-16 16:54:01,576 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.13272690773 seconds
+2017-06-16 16:54:02,617 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.03982496262 seconds
+2017-06-16 16:54:02,782 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_finish>, Spend 0.164562940598 seconds
+2017-06-16 16:54:02,962 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.179646015167 seconds
+2017-06-16 16:54:03,987 - root - INFO - SUCCESS    Element: <css->div.title-left > button.btn.default> is exist, Spend 0.0203030109406 seconds
+2017-06-16 16:54:04,104 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button.btn.default>, Spend 0.115994930267 seconds
+2017-06-16 16:54:05,218 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.108757972717 seconds
+2017-06-16 16:54:06,237 - root - INFO - SUCCESS    Element: <css->button.btn.default.task_affair_finish> is exist, Spend 0.0154831409454 seconds
+2017-06-16 16:54:06,398 - root - INFO - SUCCESS    Clicked element: <css->div.task_tab.task_talk_list_tab>, Spend 0.160511016846 seconds
+2017-06-16 16:54:07,547 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_add_btn.ui-button>, Spend 1.14640808105 seconds
+2017-06-16 16:54:08,811 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.talk_title.text-input-wrap.ui-input > input> content: Discussion_Title, Spend 1.26287722588 seconds
+2017-06-16 16:54:08,940 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 0.129226922989 seconds
+2017-06-16 16:54:09,986 - root - INFO - SUCCESS    Element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title> is exist, Spend 1.0454928875 seconds
+2017-06-16 16:54:10,129 - root - INFO - SUCCESS    Clicked element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title>, Spend 0.141543865204 seconds
+2017-06-16 16:54:11,291 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_edit_btn>, Spend 0.15847992897 seconds
+2017-06-16 16:54:12,434 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 1.1405620575 seconds
+2017-06-16 16:54:13,484 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 1.04947209358 seconds
+2017-06-16 16:54:14,698 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.21073102951 seconds
+2017-06-16 16:54:14,827 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.128128051758 seconds
+2017-06-16 16:54:15,865 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.0374648571 seconds
+2017-06-16 16:54:16,030 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_summary_btn>, Spend 0.165017127991 seconds
+2017-06-16 16:54:17,239 - root - INFO - SUCCESS    Clear and type element: <css->#cke_talk_summary_desc > div.cke_inner.cke_reset > div.cke_contents.cke_reset > div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Summary Content, Spend 1.20851612091 seconds
+2017-06-16 16:54:17,389 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_summary_submit.ui-button>, Spend 0.149218082428 seconds
+2017-06-16 16:54:18,435 - root - INFO - SUCCESS    Element: <css->div.item-detail.editor_style > p:nth-of-type(1)> is exist, Spend 1.04592013359 seconds
+2017-06-16 16:54:18,588 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button:nth-of-type(3)>, Spend 0.152757883072 seconds
+2017-06-16 16:54:18,744 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.154829025269 seconds
+2017-06-16 16:54:19,785 - root - INFO - SUCCESS    Element: <css->div.title-left > button:nth-of-type(2)> is exist, Spend 0.0365967750549 seconds
+2017-06-16 16:54:19,971 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button:nth-of-type(2)>, Spend 0.185320854187 seconds
+2017-06-16 16:54:20,115 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btn.bg-blue.ui-button>, Spend 0.143041849136 seconds
+2017-06-16 16:54:21,165 - root - INFO - SUCCESS    Element: <css->div.title-left > button:nth-of-type(3)> is exist, Spend 1.04961490631 seconds
+2017-06-16 16:54:21,325 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_summary_btn.ui-button>, Spend 0.159904956818 seconds
+2017-06-16 16:54:22,627 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Task Summary!2017-06-16_16-53-00, Spend 1.30177211761 seconds
+2017-06-16 16:54:22,762 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 0.133749008179 seconds
+2017-06-16 16:54:23,810 - root - INFO - SUCCESS    Element: <xpath->//*[@id="task113-detail-block"]/div[1]/div/div/div/ul/li[8]/div/div[2]/p> is exist, Spend 1.0476000309 seconds
+2017-06-16 16:54:23,941 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_revoke_btn.ui-button>, Spend 0.130472898483 seconds
+2017-06-16 16:54:25,091 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.submit.ui-button>, Spend 1.14975714684 seconds
+2017-06-16 16:54:25,114 - root - INFO - SUCCESS    Element: <css->div.vertical-middle.btn-left.inline > button.btn.default.ui-button> is exist, Spend 0.0227398872375 seconds
+2017-06-16 16:54:26,248 - root - INFO - SUCCESS    Clicked element: <css->div.vertical-middle.btn-left.inline > button.btn.default.ui-button>, Spend 0.128879070282 seconds
+2017-06-16 16:54:26,348 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.100176095963 seconds
+2017-06-16 16:54:27,365 - root - INFO - SUCCESS    Element: <css->button.btn.default.task_revoke_btn.ui-button> is exist, Spend 0.0132808685303 seconds
+2017-06-16 16:54:27,522 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_complete_btn.ui-button>, Spend 0.156517982483 seconds
+2017-06-16 16:54:28,653 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 1.12979197502 seconds
+2017-06-16 16:54:29,695 - root - INFO - SUCCESS    Element: <css->label.remark_muted> is exist, Spend 1.04115104675 seconds
+2017-06-16 16:54:29,863 - root - INFO - SUCCESS    Clicked element: <css->ul.taskMenu > li:nth-of-type(3) > h3.task-item>, Spend 0.167834997177 seconds
+2017-06-16 16:54:31,022 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_tag_add_btn.ui-button>, Spend 1.15824198723 seconds
+2017-06-16 16:54:31,173 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.text-input-wrap.ui-input > input> content: Event Tag, Spend 0.149811983109 seconds
+2017-06-16 16:54:31,386 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.btn_submit.ui-button>, Spend 0.212506055832 seconds
+2017-06-16 16:54:32,431 - root - INFO - SUCCESS    Element: <css->tbody > tr:nth-of-type(9) > td.title> is exist, Spend 1.04508304596 seconds
+2017-06-16 16:54:32,615 - root - INFO - SUCCESS    Clicked element: <css->tbody > tr:nth-of-type(9) > td:nth-of-type(3) > a.deletetag>, Spend 0.182580947876 seconds
+2017-06-16 16:54:32,733 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.117791175842 seconds
+2017-06-16 16:54:33,766 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0297868251801 seconds
+2017-06-16 16:54:33,908 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.141747951508 seconds
+2017-06-16 16:54:33,909 - root - INFO - ######################## This App Cases End ###########################
+2017-06-16 16:54:44,243 - root - INFO - 发送邮件成功
+2017-06-16 16:58:04,680 - root - INFO - 发送邮件成功
+2017-06-16 16:59:27,539 - root - INFO - ######################## This App Cases Start #########################
+2017-06-16 16:59:30,035 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.4918589592 seconds
+2017-06-16 16:59:30,379 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 0.342963933945 seconds
+2017-06-16 16:59:32,409 - root - INFO - SUCCESS    Navigated to http://web.jingoal.com, Spend 2.02996897697 seconds
+2017-06-16 16:59:34,716 - root - INFO - SUCCESS    Clear and type element: <id->email> content: admin@1566720, Spend 2.30615401268 seconds
+2017-06-16 16:59:34,878 - root - INFO - SUCCESS    Clear and type element: <id->password> content: `12qwaszx, Spend 0.156136035919 seconds
+2017-06-16 16:59:34,982 - root - INFO - SUCCESS    Clicked element: <css->a.btn-submit.ng-binding>, Spend 0.103979110718 seconds
+2017-06-16 16:59:38,150 - root - INFO - SUCCESS    Clicked element: <css->div.addBtn>, Spend 0.162147045135 seconds
+2017-06-16 16:59:39,020 - root - INFO - SUCCESS    Clicked element: <css->i.jgicon.jgicon-pageage>, Spend 0.869268894196 seconds
+2017-06-16 16:59:39,080 - root - INFO - SUCCESS    Switch to frame element: <css->iframe>, Spend 0.0593588352203 seconds
+2017-06-16 16:59:40,133 - root - INFO - SUCCESS    Element: <css->div.bread-left> is exist, Spend 1.05201506615 seconds
+2017-06-16 16:59:40,297 - root - INFO - SUCCESS    Clicked element: <css->span.mid_text>, Spend 0.163815975189 seconds
+2017-06-16 16:59:41,766 - root - INFO - SUCCESS    Clear and type element: <css->#addScrollDiv > ul > li:nth-child(2) > div > input[type="text"]> content: notice-title_2017-06-16_16-59-27, Spend 1.46893501282 seconds
+2017-06-16 16:59:42,185 - root - INFO - SUCCESS    Clear and type element: <css->#cke_1_contents > div> content: notice-content-test, Spend 0.415340900421 seconds
+2017-06-16 16:59:42,548 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="addScrollDiv"]/ul/li[9]/button[3]>, Spend 0.362653017044 seconds
+2017-06-16 16:59:43,602 - root - INFO - SUCCESS    Element: <css->h6.ui-dialog-title.notice-preview-dialog-title> is exist, Spend 1.05373692513 seconds
+2017-06-16 16:59:43,902 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="notice-preview-body"]/div[3]/button>, Spend 0.298449039459 seconds
+2017-06-16 16:59:44,121 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btn_save.confirm.ui-button>, Spend 0.216004133224 seconds
+2017-06-16 16:59:45,166 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.publishNotice> is exist, Spend 1.04319596291 seconds
+2017-06-16 16:59:45,297 - root - INFO - SUCCESS    Clicked element: <css->button.btn.notice-option.publishNotice>, Spend 0.131191015244 seconds
+2017-06-16 16:59:45,475 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.ui-button>, Spend 0.177290916443 seconds
+2017-06-16 16:59:46,511 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.suspendNotice> is exist, Spend 1.03600311279 seconds
+2017-06-16 16:59:46,651 - root - INFO - SUCCESS    Clicked element: <css->button.btn.notice-option.suspendNotice>, Spend 0.139024019241 seconds
+2017-06-16 16:59:46,801 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.ui-button>, Spend 0.149303913116 seconds
+2017-06-16 16:59:47,845 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.publishNotice> is exist, Spend 1.04381990433 seconds
+2017-06-16 16:59:47,983 - root - INFO - SUCCESS    Clicked element: <css->button.btn.editNotice.notice-option>, Spend 0.136606931686 seconds
+2017-06-16 16:59:49,181 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btn_submit.confirm.ui-button>, Spend 1.19757509232 seconds
+2017-06-16 16:59:50,230 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.editNotice> is exist, Spend 1.04589700699 seconds
+2017-06-16 16:59:52,401 - root - INFO - SUCCESS    Clicked element: <css->button.btn.notice-option.stickNotice>, Spend 0.16694688797 seconds
+2017-06-16 16:59:53,443 - root - INFO - SUCCESS    Element: <css->button.btn.cancelStickNotice.notice-option> is exist, Spend 1.04112100601 seconds
+2017-06-16 16:59:55,590 - root - INFO - SUCCESS    Clicked element: <css->button.btn.cancelStickNotice.notice-option>, Spend 0.145977020264 seconds
+2017-06-16 16:59:56,625 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.stickNotice> is exist, Spend 1.03235411644 seconds
+2017-06-16 16:59:56,784 - root - INFO - SUCCESS    Clicked element: <css->i.notice_detail_attention>, Spend 0.158692121506 seconds
+2017-06-16 16:59:57,823 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0353410243988 seconds
+2017-06-16 16:59:58,928 - root - INFO - SUCCESS    Clicked element: <css->div.detail-basics-title > div:nth-of-type(1) > i>, Spend 0.1004550457 seconds
+2017-06-16 16:59:59,946 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0129170417786 seconds
+2017-06-16 17:00:01,120 - root - INFO - SUCCESS    Clicked element: <css->button.btn.delNotice.notice-option>, Spend 0.171540975571 seconds
+2017-06-16 17:00:01,287 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.ui-button>, Spend 0.165748119354 seconds
+2017-06-16 17:00:02,321 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 1.03255391121 seconds
+2017-06-16 17:00:02,525 - root - INFO - SUCCESS    Clicked element: <css->#notice_label_setting>, Spend 0.203075885773 seconds
+2017-06-16 17:00:03,711 - root - INFO - SUCCESS    Clicked element: <css->button.add-columns-btn.border.btn.default.newColum>, Spend 1.18560600281 seconds
+2017-06-16 17:00:03,978 - root - INFO - SUCCESS    Clear and type element: <css->div.columName.text-input-wrap.top-border-dark.ui-input > input> content: category name, Spend 0.26637506485 seconds
+2017-06-16 17:00:04,124 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btnOK.columOK.confirm.ui-button>, Spend 0.145716905594 seconds
+2017-06-16 17:00:05,152 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 1.02682900429 seconds
+2017-06-16 17:00:05,313 - root - INFO - SUCCESS    Clicked element: <css->tbody.personnel_table > tr:nth-of-type(4) > td:nth-of-type(4) > div.opt-btn-warp > button:nth-of-type(1)>, Spend 0.160989999771 seconds
+2017-06-16 17:00:05,444 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btnOK.columOK.confirm.ui-button>, Spend 0.130111932755 seconds
+2017-06-16 17:00:05,456 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0114991664886 seconds
+2017-06-16 17:00:06,606 - root - INFO - SUCCESS    Clicked element: <css->tbody.personnel_table > tr:nth-of-type(4) > td:nth-of-type(4) > div.opt-btn-warp > button:nth-of-type(2)>, Spend 0.148401975632 seconds
+2017-06-16 17:00:06,722 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.ui-button>, Spend 0.116347074509 seconds
+2017-06-16 17:00:06,735 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0120928287506 seconds
+2017-06-16 17:00:07,976 - root - INFO - SUCCESS    Drag and drop element: <css->tbody.personnel_table > tr:nth-of-type(3) > td:nth-of-type(1)> to element: <css->tbody.personnel_table > tr:nth-of-type(1) > td:nth-of-type(1)>, Spend 0.234265804291 seconds
+2017-06-16 17:00:08,680 - root - INFO - SUCCESS    Drag and drop element: <css->tbody.personnel_table > tr:nth-of-type(1) > td:nth-of-type(1)> to element: <css->tbody.personnel_table > tr:nth-of-type(3) > td:nth-of-type(1)>, Spend 0.198666095734 seconds
+2017-06-16 17:00:08,694 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0133318901062 seconds
+2017-06-16 17:00:08,845 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.150064945221 seconds
+2017-06-16 17:00:08,846 - root - INFO - ######################## This App Cases End ###########################
+2017-06-16 17:00:08,849 - root - INFO - ######################## This App Cases Start #########################
+2017-06-16 17:00:11,293 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.44390511513 seconds
+2017-06-16 17:00:11,677 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 0.383332014084 seconds
+2017-06-16 17:00:14,790 - root - INFO - SUCCESS    Navigated to http://web.jingoal.com, Spend 3.11200904846 seconds
+2017-06-16 17:00:16,493 - root - INFO - SUCCESS    Clear and type element: <id->email> content: admin@1566720, Spend 1.70229101181 seconds
+2017-06-16 17:00:16,727 - root - INFO - SUCCESS    Clear and type element: <id->password> content: `12qwaszx, Spend 0.232749223709 seconds
+2017-06-16 17:00:16,846 - root - INFO - SUCCESS    Clicked element: <css->a.btn-submit.ng-binding>, Spend 0.118278980255 seconds
+2017-06-16 17:00:19,990 - root - INFO - SUCCESS    Clicked element: <css->div.addBtn>, Spend 0.138381004333 seconds
+2017-06-16 17:00:20,869 - root - INFO - SUCCESS    Clicked element: <css->i.jgicon.jgicon-flag>, Spend 0.878863096237 seconds
+2017-06-16 17:00:20,924 - root - INFO - SUCCESS    Switch to frame element: <css->iframe>, Spend 0.0538599491119 seconds
+2017-06-16 17:00:22,030 - root - INFO - SUCCESS    Element: <css->div.btn_addTask.btn_addTask> is exist, Spend 1.10517311096 seconds
+2017-06-16 17:00:22,187 - root - INFO - SUCCESS    Clicked element: <css->div.btn_addTask.btn_addTask>, Spend 0.156388044357 seconds
+2017-06-16 17:00:23,676 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_title.text-input-wrap.ui-input > input> content: Task-Title_2017-06-16_16-59-27, Spend 1.48787808418 seconds
+2017-06-16 17:00:23,926 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 0.249506950378 seconds
+2017-06-16 17:00:24,996 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 1.06987810135 seconds
+2017-06-16 17:00:25,142 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_edit_btn.ui-button>, Spend 0.145661830902 seconds
+2017-06-16 17:00:26,274 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 1.13079404831 seconds
+2017-06-16 17:00:26,287 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 0.012894153595 seconds
+2017-06-16 17:00:27,446 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_add_btn.ui-button>, Spend 0.153434991837 seconds
+2017-06-16 17:00:28,681 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_affair_title.text-input-wrap.ui-input > input> content: Event_Title, Spend 1.23417305946 seconds
+2017-06-16 17:00:28,812 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.task_affair_submit.ui-button>, Spend 0.129976034164 seconds
+2017-06-16 17:00:29,864 - root - INFO - SUCCESS    Element: <css->td.task_affair_list_title.title > div.ellipsis> is exist, Spend 1.0511739254 seconds
+2017-06-16 17:00:30,011 - root - INFO - SUCCESS    Clicked element: <css->td.task_affair_list_title.title > div.ellipsis>, Spend 0.146833896637 seconds
+2017-06-16 17:00:31,256 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.239236116409 seconds
+2017-06-16 17:00:31,424 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.167606830597 seconds
+2017-06-16 17:00:32,469 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.04490303993 seconds
+2017-06-16 17:00:32,638 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_finish>, Spend 0.167419910431 seconds
+2017-06-16 17:00:32,930 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.291960954666 seconds
+2017-06-16 17:00:33,968 - root - INFO - SUCCESS    Element: <css->div.title-left > button.btn.default> is exist, Spend 0.0330801010132 seconds
+2017-06-16 17:00:34,129 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button.btn.default>, Spend 0.160660028458 seconds
+2017-06-16 17:00:35,252 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.1200299263 seconds
+2017-06-16 17:00:36,273 - root - INFO - SUCCESS    Element: <css->button.btn.default.task_affair_finish> is exist, Spend 0.0158388614655 seconds
+2017-06-16 17:00:36,455 - root - INFO - SUCCESS    Clicked element: <css->div.task_tab.task_talk_list_tab>, Spend 0.18110704422 seconds
+2017-06-16 17:00:37,758 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_add_btn.ui-button>, Spend 1.30202913284 seconds
+2017-06-16 17:00:39,215 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.talk_title.text-input-wrap.ui-input > input> content: Discussion_Title, Spend 1.45635604858 seconds
+2017-06-16 17:00:39,344 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 0.128811836243 seconds
+2017-06-16 17:00:40,398 - root - INFO - SUCCESS    Element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title> is exist, Spend 1.05381584167 seconds
+2017-06-16 17:00:40,542 - root - INFO - SUCCESS    Clicked element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title>, Spend 0.143182992935 seconds
+2017-06-16 17:00:41,695 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_edit_btn>, Spend 0.147752046585 seconds
+2017-06-16 17:00:42,833 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 1.13766098022 seconds
+2017-06-16 17:00:43,905 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 1.07009005547 seconds
+2017-06-16 17:00:45,396 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.486081123352 seconds
+2017-06-16 17:00:45,561 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.164683103561 seconds
+2017-06-16 17:00:46,607 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.0448679924 seconds
+2017-06-16 17:00:46,777 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_summary_btn>, Spend 0.169059038162 seconds
+2017-06-16 17:00:48,160 - root - INFO - SUCCESS    Clear and type element: <css->#cke_talk_summary_desc > div.cke_inner.cke_reset > div.cke_contents.cke_reset > div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Summary Content, Spend 1.38235998154 seconds
+2017-06-16 17:00:48,340 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_summary_submit.ui-button>, Spend 0.179278850555 seconds
+2017-06-16 17:00:49,472 - root - INFO - SUCCESS    Element: <css->div.item-detail.editor_style > p:nth-of-type(1)> is exist, Spend 1.13131594658 seconds
+2017-06-16 17:00:49,654 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button:nth-of-type(3)>, Spend 0.180578947067 seconds
+2017-06-16 17:00:49,847 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.192640066147 seconds
+2017-06-16 17:00:50,885 - root - INFO - SUCCESS    Element: <css->div.title-left > button:nth-of-type(2)> is exist, Spend 0.0317039489746 seconds
+2017-06-16 17:00:51,010 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button:nth-of-type(2)>, Spend 0.124974966049 seconds
+2017-06-16 17:00:51,182 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btn.bg-blue.ui-button>, Spend 0.171205997467 seconds
+2017-06-16 17:00:52,770 - root - INFO - ######################## This App Cases Start #########################
+2017-06-16 17:00:55,292 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.52084898949 seconds
+2017-06-16 17:00:55,609 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 0.316992044449 seconds
+2017-06-16 17:00:58,398 - root - INFO - SUCCESS    Navigated to http://web.jingoal.com, Spend 2.78783893585 seconds
+2017-06-16 17:01:00,681 - root - INFO - SUCCESS    Clear and type element: <id->email> content: admin@1566720, Spend 2.28287315369 seconds
+2017-06-16 17:01:00,909 - root - INFO - SUCCESS    Clear and type element: <id->password> content: `12qwaszx, Spend 0.227557897568 seconds
+2017-06-16 17:01:01,032 - root - INFO - SUCCESS    Clicked element: <css->a.btn-submit.ng-binding>, Spend 0.121997117996 seconds
+2017-06-16 17:01:04,503 - root - INFO - SUCCESS    Clicked element: <css->div.addBtn>, Spend 0.467966079712 seconds
+2017-06-16 17:01:05,295 - root - INFO - SUCCESS    Clicked element: <css->i.jgicon.jgicon-pageage>, Spend 0.789159059525 seconds
+2017-06-16 17:01:05,353 - root - INFO - SUCCESS    Switch to frame element: <css->iframe>, Spend 0.0570850372314 seconds
+2017-06-16 17:01:06,464 - root - INFO - SUCCESS    Element: <css->div.bread-left> is exist, Spend 1.11083507538 seconds
+2017-06-16 17:01:06,642 - root - INFO - SUCCESS    Clicked element: <css->span.mid_text>, Spend 0.177295923233 seconds
+2017-06-16 17:01:07,984 - root - INFO - SUCCESS    Clear and type element: <css->#addScrollDiv > ul > li:nth-child(2) > div > input[type="text"]> content: notice-title_2017-06-16_17-00-52, Spend 1.3403878212 seconds
+2017-06-16 17:01:08,441 - root - INFO - SUCCESS    Clear and type element: <css->#cke_1_contents > div> content: notice-content-test, Spend 0.456557035446 seconds
+2017-06-16 17:01:08,615 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="addScrollDiv"]/ul/li[9]/button[3]>, Spend 0.173239946365 seconds
+2017-06-16 17:01:09,746 - root - INFO - SUCCESS    Element: <css->h6.ui-dialog-title.notice-preview-dialog-title> is exist, Spend 1.13054013252 seconds
+2017-06-16 17:01:09,905 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="notice-preview-body"]/div[3]/button>, Spend 0.156358957291 seconds
+2017-06-16 17:01:10,077 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btn_save.confirm.ui-button>, Spend 0.171052932739 seconds
+2017-06-16 17:01:11,125 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.publishNotice> is exist, Spend 1.04818987846 seconds
+2017-06-16 17:01:11,270 - root - INFO - SUCCESS    Clicked element: <css->button.btn.notice-option.publishNotice>, Spend 0.141438007355 seconds
+2017-06-16 17:01:11,454 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.ui-button>, Spend 0.182601928711 seconds
+2017-06-16 17:01:12,509 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.suspendNotice> is exist, Spend 1.05425596237 seconds
+2017-06-16 17:01:12,628 - root - INFO - SUCCESS    Clicked element: <css->button.btn.notice-option.suspendNotice>, Spend 0.118594169617 seconds
+2017-06-16 17:01:12,745 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.ui-button>, Spend 0.116497039795 seconds
+2017-06-16 17:01:13,773 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.publishNotice> is exist, Spend 1.0267739296 seconds
+2017-06-16 17:01:13,942 - root - INFO - SUCCESS    Clicked element: <css->button.btn.editNotice.notice-option>, Spend 0.168421983719 seconds
+2017-06-16 17:01:15,134 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btn_submit.confirm.ui-button>, Spend 1.19131493568 seconds
+2017-06-16 17:01:16,177 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.editNotice> is exist, Spend 1.04294490814 seconds
+2017-06-16 17:01:18,334 - root - INFO - SUCCESS    Clicked element: <css->button.btn.notice-option.stickNotice>, Spend 0.150892019272 seconds
+2017-06-16 17:01:19,382 - root - INFO - SUCCESS    Element: <css->button.btn.cancelStickNotice.notice-option> is exist, Spend 1.04792308807 seconds
+2017-06-16 17:01:21,530 - root - INFO - SUCCESS    Clicked element: <css->button.btn.cancelStickNotice.notice-option>, Spend 0.142729043961 seconds
+2017-06-16 17:01:22,559 - root - INFO - SUCCESS    Element: <css->button.btn.notice-option.stickNotice> is exist, Spend 1.02867102623 seconds
+2017-06-16 17:01:22,739 - root - INFO - SUCCESS    Clicked element: <css->i.notice_detail_attention>, Spend 0.179090976715 seconds
+2017-06-16 17:01:23,774 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0302541255951 seconds
+2017-06-16 17:01:24,883 - root - INFO - SUCCESS    Clicked element: <css->div.detail-basics-title > div:nth-of-type(1) > i>, Spend 0.102537155151 seconds
+2017-06-16 17:01:25,904 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0176751613617 seconds
+2017-06-16 17:01:27,087 - root - INFO - SUCCESS    Clicked element: <css->button.btn.delNotice.notice-option>, Spend 0.179286956787 seconds
+2017-06-16 17:01:27,287 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.ui-button>, Spend 0.199480056763 seconds
+2017-06-16 17:01:28,327 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 1.03704285622 seconds
+2017-06-16 17:01:28,500 - root - INFO - SUCCESS    Clicked element: <css->#notice_label_setting>, Spend 0.171855926514 seconds
+2017-06-16 17:01:29,717 - root - INFO - SUCCESS    Clicked element: <css->button.add-columns-btn.border.btn.default.newColum>, Spend 1.21648812294 seconds
+2017-06-16 17:01:29,920 - root - INFO - SUCCESS    Clear and type element: <css->div.columName.text-input-wrap.top-border-dark.ui-input > input> content: category name, Spend 0.201503992081 seconds
+2017-06-16 17:01:30,181 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btnOK.columOK.confirm.ui-button>, Spend 0.260355949402 seconds
+2017-06-16 17:01:31,224 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 1.04277014732 seconds
+2017-06-16 17:01:31,467 - root - INFO - SUCCESS    Clicked element: <css->tbody.personnel_table > tr:nth-of-type(4) > td:nth-of-type(4) > div.opt-btn-warp > button:nth-of-type(1)>, Spend 0.241296052933 seconds
+2017-06-16 17:01:31,598 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btnOK.columOK.confirm.ui-button>, Spend 0.130674123764 seconds
+2017-06-16 17:01:31,611 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0111219882965 seconds
+2017-06-16 17:01:32,801 - root - INFO - SUCCESS    Clicked element: <css->tbody.personnel_table > tr:nth-of-type(4) > td:nth-of-type(4) > div.opt-btn-warp > button:nth-of-type(2)>, Spend 0.184255838394 seconds
+2017-06-16 17:01:33,006 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.ui-button>, Spend 0.204133033752 seconds
+2017-06-16 17:01:33,039 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0327770709991 seconds
+2017-06-16 17:01:34,369 - root - INFO - SUCCESS    Drag and drop element: <css->tbody.personnel_table > tr:nth-of-type(3) > td:nth-of-type(1)> to element: <css->tbody.personnel_table > tr:nth-of-type(1) > td:nth-of-type(1)>, Spend 0.325381994247 seconds
+2017-06-16 17:01:35,139 - root - INFO - SUCCESS    Drag and drop element: <css->tbody.personnel_table > tr:nth-of-type(1) > td:nth-of-type(1)> to element: <css->tbody.personnel_table > tr:nth-of-type(3) > td:nth-of-type(1)>, Spend 0.266633987427 seconds
+2017-06-16 17:01:35,153 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.0138080120087 seconds
+2017-06-16 17:01:35,257 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.102714061737 seconds
+2017-06-16 17:01:35,258 - root - INFO - ######################## This App Cases End ###########################
+2017-06-16 17:01:35,260 - root - INFO - ######################## This App Cases Start #########################
+2017-06-16 17:01:38,341 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.07833600044 seconds
+2017-06-16 17:01:38,667 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 0.325497865677 seconds
+2017-06-16 17:01:41,093 - root - INFO - SUCCESS    Navigated to http://web.jingoal.com, Spend 2.42474603653 seconds
+2017-06-16 17:01:44,071 - root - INFO - SUCCESS    Clear and type element: <id->email> content: admin@1566720, Spend 2.97727012634 seconds
+2017-06-16 17:01:44,278 - root - INFO - SUCCESS    Clear and type element: <id->password> content: `12qwaszx, Spend 0.205796957016 seconds
+2017-06-16 17:01:44,439 - root - INFO - SUCCESS    Clicked element: <css->a.btn-submit.ng-binding>, Spend 0.160247087479 seconds
+2017-06-16 17:01:47,573 - root - INFO - SUCCESS    Clicked element: <css->div.addBtn>, Spend 0.12900185585 seconds
+2017-06-16 17:01:48,232 - root - INFO - SUCCESS    Clicked element: <css->i.jgicon.jgicon-flag>, Spend 0.658211946487 seconds
+2017-06-16 17:01:48,343 - root - INFO - SUCCESS    Switch to frame element: <css->iframe>, Spend 0.110370874405 seconds
+2017-06-16 17:01:49,392 - root - INFO - SUCCESS    Element: <css->div.btn_addTask.btn_addTask> is exist, Spend 1.04858708382 seconds
+2017-06-16 17:01:49,551 - root - INFO - SUCCESS    Clicked element: <css->div.btn_addTask.btn_addTask>, Spend 0.157283067703 seconds
+2017-06-16 17:01:51,016 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_title.text-input-wrap.ui-input > input> content: Task-Title_2017-06-16_17-00-52, Spend 1.46432304382 seconds
+2017-06-16 17:01:51,166 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 0.148922920227 seconds
+2017-06-16 17:01:52,216 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 1.04981613159 seconds
+2017-06-16 17:01:52,396 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_edit_btn.ui-button>, Spend 0.179020166397 seconds
+2017-06-16 17:01:53,529 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 1.13207912445 seconds
+2017-06-16 17:01:53,539 - root - INFO - SUCCESS    Element: <css->label.title> is exist, Spend 0.00901699066162 seconds
+2017-06-16 17:01:54,690 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_add_btn.ui-button>, Spend 0.148849010468 seconds
+2017-06-16 17:01:55,899 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.task_affair_title.text-input-wrap.ui-input > input> content: Event_Title, Spend 1.2080039978 seconds
+2017-06-16 17:01:56,024 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.task_affair_submit.ui-button>, Spend 0.124939918518 seconds
+2017-06-16 17:01:57,075 - root - INFO - SUCCESS    Element: <css->td.task_affair_list_title.title > div.ellipsis> is exist, Spend 1.05028295517 seconds
+2017-06-16 17:01:57,235 - root - INFO - SUCCESS    Clicked element: <css->td.task_affair_list_title.title > div.ellipsis>, Spend 0.15917301178 seconds
+2017-06-16 17:01:58,524 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.284378051758 seconds
+2017-06-16 17:01:58,661 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.135924100876 seconds
+2017-06-16 17:01:59,708 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.04651093483 seconds
+2017-06-16 17:01:59,873 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_finish>, Spend 0.164973020554 seconds
+2017-06-16 17:02:00,058 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.183740854263 seconds
+2017-06-16 17:02:01,087 - root - INFO - SUCCESS    Element: <css->div.title-left > button.btn.default> is exist, Spend 0.0243511199951 seconds
+2017-06-16 17:02:01,229 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button.btn.default>, Spend 0.142260789871 seconds
+2017-06-16 17:02:02,353 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.11915397644 seconds
+2017-06-16 17:02:03,373 - root - INFO - SUCCESS    Element: <css->button.btn.default.task_affair_finish> is exist, Spend 0.0172810554504 seconds
+2017-06-16 17:02:03,749 - root - INFO - SUCCESS    Clicked element: <css->div.task_tab.task_talk_list_tab>, Spend 0.372347831726 seconds
+2017-06-16 17:02:05,077 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_add_btn.ui-button>, Spend 1.3276219368 seconds
+2017-06-16 17:02:06,571 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.talk_title.text-input-wrap.ui-input > input> content: Discussion_Title, Spend 1.49309396744 seconds
+2017-06-16 17:02:06,834 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 0.262296199799 seconds
+2017-06-16 17:02:07,949 - root - INFO - SUCCESS    Element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title> is exist, Spend 1.11370396614 seconds
+2017-06-16 17:02:08,218 - root - INFO - SUCCESS    Clicked element: <css->tbody > tr:nth-of-type(1) > td.task_talk_list_title.title>, Spend 0.269159078598 seconds
+2017-06-16 17:02:09,496 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_edit_btn>, Spend 0.275301933289 seconds
+2017-06-16 17:02:10,643 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_edit_submit.ui-button>, Spend 1.14669203758 seconds
+2017-06-16 17:02:11,701 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 1.05685591698 seconds
+2017-06-16 17:02:12,925 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Comment Content, Spend 0.221566200256 seconds
+2017-06-16 17:02:13,078 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.comment_submit_button.ui-button>, Spend 0.152690887451 seconds
+2017-06-16 17:02:14,122 - root - INFO - SUCCESS    Element: <css->img.image> is exist, Spend 1.04372191429 seconds
+2017-06-16 17:02:14,274 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_talk_summary_btn>, Spend 0.151452064514 seconds
+2017-06-16 17:02:15,553 - root - INFO - SUCCESS    Clear and type element: <css->#cke_talk_summary_desc > div.cke_inner.cke_reset > div.cke_contents.cke_reset > div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Summary Content, Spend 1.27786111832 seconds
+2017-06-16 17:02:15,699 - root - INFO - SUCCESS    Clicked element: <css->button.btn.bg-blue.talk_summary_submit.ui-button>, Spend 0.145384073257 seconds
+2017-06-16 17:02:16,743 - root - INFO - SUCCESS    Element: <css->div.item-detail.editor_style > p:nth-of-type(1)> is exist, Spend 1.04350495338 seconds
+2017-06-16 17:02:16,910 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button:nth-of-type(3)>, Spend 0.165479898453 seconds
+2017-06-16 17:02:17,124 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.213932991028 seconds
+2017-06-16 17:02:18,160 - root - INFO - SUCCESS    Element: <css->div.title-left > button:nth-of-type(2)> is exist, Spend 0.0337200164795 seconds
+2017-06-16 17:02:18,331 - root - INFO - SUCCESS    Clicked element: <css->div.title-left > button:nth-of-type(2)>, Spend 0.169583797455 seconds
+2017-06-16 17:02:18,549 - root - INFO - SUCCESS    Clicked element: <css->button.btn.btn.bg-blue.ui-button>, Spend 0.217491149902 seconds
+2017-06-16 17:02:19,588 - root - INFO - SUCCESS    Element: <css->div.title-left > button:nth-of-type(3)> is exist, Spend 1.03872108459 seconds
+2017-06-16 17:02:19,753 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_summary_btn.ui-button>, Spend 0.164123058319 seconds
+2017-06-16 17:02:21,127 - root - INFO - SUCCESS    Clear and type element: <css->div.cke_wysiwyg_div.cke_reset.cke_enable_context_menu.cke_editable.cke_editable_themed.cke_contents_ltr> content: Task Summary!2017-06-16_17-00-52, Spend 1.37301111221 seconds
+2017-06-16 17:02:21,278 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 0.150405883789 seconds
+2017-06-16 17:02:22,333 - root - INFO - SUCCESS    Element: <xpath->//*[@id="task113-detail-block"]/div[1]/div/div/div/ul/li[8]/div/div[2]/p> is exist, Spend 1.05470204353 seconds
+2017-06-16 17:02:22,473 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_revoke_btn.ui-button>, Spend 0.139578104019 seconds
+2017-06-16 17:02:23,645 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.submit.ui-button>, Spend 1.17112207413 seconds
+2017-06-16 17:02:23,672 - root - INFO - SUCCESS    Element: <css->div.vertical-middle.btn-left.inline > button.btn.default.ui-button> is exist, Spend 0.0261459350586 seconds
+2017-06-16 17:02:24,809 - root - INFO - SUCCESS    Clicked element: <css->div.vertical-middle.btn-left.inline > button.btn.default.ui-button>, Spend 0.132668972015 seconds
+2017-06-16 17:02:24,923 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.112895965576 seconds
+2017-06-16 17:02:25,936 - root - INFO - SUCCESS    Element: <css->button.btn.default.task_revoke_btn.ui-button> is exist, Spend 0.0102820396423 seconds
+2017-06-16 17:02:26,086 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_complete_btn.ui-button>, Spend 0.148988962173 seconds
+2017-06-16 17:02:27,241 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.task_edit_submit.ui-button>, Spend 1.15406703949 seconds
+2017-06-16 17:02:28,289 - root - INFO - SUCCESS    Element: <css->label.remark_muted> is exist, Spend 1.04716205597 seconds
+2017-06-16 17:02:28,476 - root - INFO - SUCCESS    Clicked element: <css->ul.taskMenu > li:nth-of-type(3) > h3.task-item>, Spend 0.186526060104 seconds
+2017-06-16 17:02:29,662 - root - INFO - SUCCESS    Clicked element: <css->button.btn.default.task_affair_tag_add_btn.ui-button>, Spend 1.18469119072 seconds
+2017-06-16 17:02:29,831 - root - INFO - SUCCESS    Clear and type element: <css->div.line-height-normal.text-input-wrap.ui-input > input> content: Event Tag, Spend 0.168542146683 seconds
+2017-06-16 17:02:30,018 - root - INFO - SUCCESS    Clicked element: <css->button.bg-blue.btn.btn_submit.ui-button>, Spend 0.186237812042 seconds
+2017-06-16 17:02:31,069 - root - INFO - SUCCESS    Element: <css->tbody > tr:nth-of-type(9) > td.title> is exist, Spend 1.0487279892 seconds
+2017-06-16 17:02:31,294 - root - INFO - SUCCESS    Clicked element: <css->tbody > tr:nth-of-type(9) > td:nth-of-type(3) > a.deletetag>, Spend 0.223083019257 seconds
+2017-06-16 17:02:31,413 - root - INFO - SUCCESS    Clicked element: <css->div.modal-footer-content > button.bg-blue.btn.btn.ui-button>, Spend 0.118266105652 seconds
+2017-06-16 17:02:32,438 - root - INFO - SUCCESS    Element: <id->jingoalAsyncTip> is exist, Spend 0.021635055542 seconds
+2017-06-16 17:02:32,566 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.126585006714 seconds
+2017-06-16 17:02:32,567 - root - INFO - ######################## This App Cases End ###########################
+2017-06-16 17:02:42,763 - root - INFO - 发送邮件成功

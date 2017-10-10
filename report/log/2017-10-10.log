@@ -1,0 +1,99 @@
+2017-10-10 11:43:33,843 - root - INFO - ######################## This App Cases Start #########################
+2017-10-10 11:44:54,774 - root - INFO - ######################## This App Cases Start #########################
+2017-10-10 11:46:42,933 - root - INFO - ######################## This App Cases Start #########################
+2017-10-10 11:50:18,986 - root - INFO - ######################## This App Cases Start #########################
+2017-10-10 11:50:23,079 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.091580629348755 seconds
+2017-10-10 11:50:24,246 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 1.1652069091796875 seconds
+2017-10-10 11:50:25,772 - root - INFO - SUCCESS    Navigated to http://vip.kmhealthcloud.com:20002/mxm/login, Spend 1.524298906326294 seconds
+2017-10-10 11:50:25,934 - root - INFO - SUCCESS    Clear and type element: <name->username> content: admin, Spend 0.16100001335144043 seconds
+2017-10-10 11:50:26,053 - root - INFO - SUCCESS    Clear and type element: <name->password> content: member@2017, Spend 0.11799931526184082 seconds
+2017-10-10 11:50:27,155 - root - INFO - SUCCESS    Clicked element: <css->button.btn.blue.pull-right>, Spend 1.099621057510376 seconds
+2017-10-10 11:50:33,273 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.113391876220703 seconds
+2017-10-10 11:50:33,274 - root - INFO - ######################## This App Cases End ###########################
+2017-10-10 11:57:11,905 - root - INFO - ######################## This App Cases Start #########################
+2017-10-10 11:57:15,336 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.430187225341797 seconds
+2017-10-10 11:57:16,457 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 1.1203887462615967 seconds
+2017-10-10 11:57:17,788 - root - INFO - SUCCESS    Navigated to http://vip.kmhealthcloud.com:20002/mxm/login, Spend 1.329573392868042 seconds
+2017-10-10 11:57:17,924 - root - INFO - SUCCESS    Clear and type element: <name->username> content: admin, Spend 0.13399910926818848 seconds
+2017-10-10 11:57:18,050 - root - INFO - SUCCESS    Clear and type element: <name->password> content: member@2017, Spend 0.1250014305114746 seconds
+2017-10-10 11:57:18,975 - root - INFO - SUCCESS    Clicked element: <css->button.btn.blue.pull-right>, Spend 0.9227690696716309 seconds
+2017-10-10 11:57:25,087 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.110405683517456 seconds
+2017-10-10 11:57:25,088 - root - INFO - ######################## This App Cases End ###########################
+2017-10-10 11:57:33,576 - root - ERROR - 发送邮件失败
+2017-10-10 12:18:06,522 - root - INFO - ######################## This App Cases Start #########################
+2017-10-10 12:18:10,350 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.8267505168914795 seconds
+2017-10-10 12:18:11,488 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 1.1367738246917725 seconds
+2017-10-10 12:18:12,781 - root - INFO - SUCCESS    Navigated to http://vip.kmhealthcloud.com:20002/mxm/login, Spend 1.290158748626709 seconds
+2017-10-10 12:18:12,927 - root - INFO - SUCCESS    Clear and type element: <name->username> content: admin, Spend 0.1439826488494873 seconds
+2017-10-10 12:18:13,058 - root - INFO - SUCCESS    Clear and type element: <name->password> content: member@2017, Spend 0.13000106811523438 seconds
+2017-10-10 12:18:13,951 - root - INFO - SUCCESS    Clicked element: <css->button.btn.blue.pull-right>, Spend 0.8923830986022949 seconds
+2017-10-10 12:18:20,760 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.807630777359009 seconds
+2017-10-10 12:18:23,888 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.126288890838623 seconds
+2017-10-10 12:18:23,890 - root - INFO - ######################## This App Cases End ###########################
+2017-10-10 12:18:47,900 - root - ERROR - 发送邮件失败
+2017-10-10 12:20:31,502 - root - INFO - ######################## This App Cases Start #########################
+2017-10-10 12:20:34,894 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.391052484512329 seconds
+2017-10-10 12:20:36,045 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 1.1491432189941406 seconds
+2017-10-10 12:20:37,310 - root - INFO - SUCCESS    Navigated to http://vip.kmhealthcloud.com:20002/mxm/login, Spend 1.262115716934204 seconds
+2017-10-10 12:20:37,440 - root - INFO - SUCCESS    Clear and type element: <name->username> content: admin, Spend 0.12799406051635742 seconds
+2017-10-10 12:20:37,560 - root - INFO - SUCCESS    Clear and type element: <name->password> content: member@2017, Spend 0.11998128890991211 seconds
+2017-10-10 12:20:38,425 - root - INFO - SUCCESS    Clicked element: <css->button.btn.blue.pull-right>, Spend 0.8643801212310791 seconds
+2017-10-10 12:20:44,861 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.434191942214966 seconds
+2017-10-10 12:20:47,904 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.0422565937042236 seconds
+2017-10-10 12:20:47,906 - root - INFO - ######################## This App Cases End ###########################
+2017-10-10 12:20:51,069 - root - ERROR - 发送邮件失败
+2017-10-10 12:21:24,748 - root - INFO - ######################## This App Cases Start #########################
+2017-10-10 12:21:28,170 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.4207944869995117 seconds
+2017-10-10 12:21:29,298 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 1.1273202896118164 seconds
+2017-10-10 12:21:30,630 - root - INFO - SUCCESS    Navigated to http://vip.kmhealthcloud.com:20002/mxm/login, Spend 1.3306102752685547 seconds
+2017-10-10 12:21:30,822 - root - INFO - SUCCESS    Clear and type element: <name->username> content: admin, Spend 0.18999862670898438 seconds
+2017-10-10 12:21:30,947 - root - INFO - SUCCESS    Clear and type element: <name->password> content: member@2017, Spend 0.12400007247924805 seconds
+2017-10-10 12:21:31,887 - root - INFO - SUCCESS    Clicked element: <css->button.btn.blue.pull-right>, Spend 0.9380221366882324 seconds
+2017-10-10 12:21:38,392 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.501976728439331 seconds
+2017-10-10 12:21:41,445 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.0511059761047363 seconds
+2017-10-10 12:21:41,448 - root - INFO - ######################## This App Cases End ###########################
+2017-10-10 12:22:05,456 - root - ERROR - 发送邮件失败
+2017-10-10 12:23:08,528 - root - INFO - ######################## This App Cases Start #########################
+2017-10-10 12:23:11,972 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.4425036907196045 seconds
+2017-10-10 12:23:13,107 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 1.1328868865966797 seconds
+2017-10-10 12:23:14,380 - root - INFO - SUCCESS    Navigated to http://vip.kmhealthcloud.com:20002/mxm/login, Spend 1.2699544429779053 seconds
+2017-10-10 12:23:14,510 - root - INFO - SUCCESS    Clear and type element: <name->username> content: admin, Spend 0.12800025939941406 seconds
+2017-10-10 12:23:14,637 - root - INFO - SUCCESS    Clear and type element: <name->password> content: member@2017, Spend 0.12502360343933105 seconds
+2017-10-10 12:23:15,537 - root - INFO - SUCCESS    Clicked element: <css->button.btn.blue.pull-right>, Spend 0.9003472328186035 seconds
+2017-10-10 12:23:21,991 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.451962947845459 seconds
+2017-10-10 12:23:25,072 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.078352689743042 seconds
+2017-10-10 12:23:25,074 - root - INFO - ######################## This App Cases End ###########################
+2017-10-10 12:23:49,084 - root - ERROR - 发送邮件失败
+2017-10-10 12:27:35,311 - root - INFO - ######################## This App Cases Start #########################
+2017-10-10 12:27:38,756 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.4427833557128906 seconds
+2017-10-10 12:27:39,877 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 1.12046480178833 seconds
+2017-10-10 12:27:41,359 - root - INFO - SUCCESS    Navigated to http://vip.kmhealthcloud.com:20002/mxm/login, Spend 1.4787719249725342 seconds
+2017-10-10 12:27:41,526 - root - INFO - SUCCESS    Clear and type element: <name->username> content: admin, Spend 0.164992094039917 seconds
+2017-10-10 12:27:41,660 - root - INFO - SUCCESS    Clear and type element: <name->password> content: member@2017, Spend 0.13199806213378906 seconds
+2017-10-10 12:27:42,585 - root - INFO - SUCCESS    Clicked element: <css->button.btn.blue.pull-right>, Spend 0.9240612983703613 seconds
+2017-10-10 12:27:49,005 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.4188051223754883 seconds
+2017-10-10 12:27:52,061 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.054833173751831 seconds
+2017-10-10 12:27:52,063 - root - INFO - ######################## This App Cases End ###########################
+2017-10-10 12:28:16,071 - root - ERROR - 发送邮件失败
+2017-10-10 12:34:01,256 - root - INFO - ######################## This App Cases Start #########################
+2017-10-10 12:34:04,753 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.496774911880493 seconds
+2017-10-10 12:34:05,922 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 1.1652247905731201 seconds
+2017-10-10 12:34:07,246 - root - INFO - SUCCESS    Navigated to http://vip.kmhealthcloud.com:20002/mxm/login, Spend 1.3224992752075195 seconds
+2017-10-10 12:34:07,411 - root - INFO - SUCCESS    Clear and type element: <name->username> content: admin, Spend 0.16399550437927246 seconds
+2017-10-10 12:34:07,589 - root - INFO - SUCCESS    Clear and type element: <name->password> content: member@2017, Spend 0.17702102661132812 seconds
+2017-10-10 12:34:08,522 - root - INFO - SUCCESS    Clicked element: <css->button.btn.blue.pull-right>, Spend 0.9312100410461426 seconds
+2017-10-10 12:34:14,964 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.439756155014038 seconds
+2017-10-10 12:34:18,008 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.0440146923065186 seconds
+2017-10-10 12:34:18,009 - root - INFO - ######################## This App Cases End ###########################
+2017-10-10 12:34:42,061 - root - ERROR - 发送邮件失败
+2017-10-10 14:01:40,985 - root - INFO - ######################## This App Cases Start #########################
+2017-10-10 14:01:44,517 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.5311038494110107 seconds
+2017-10-10 14:01:45,645 - root - INFO - SUCCESS    Set browser window wide: 1400,high: 900, Spend 1.1260080337524414 seconds
+2017-10-10 14:01:46,976 - root - INFO - SUCCESS    Navigated to http://vip.kmhealthcloud.com:20002/mxm/login, Spend 1.3295009136199951 seconds
+2017-10-10 14:01:47,144 - root - INFO - SUCCESS    Clear and type element: <name->username> content: admin, Spend 0.16399240493774414 seconds
+2017-10-10 14:01:47,274 - root - INFO - SUCCESS    Clear and type element: <name->password> content: member@2017, Spend 0.12797117233276367 seconds
+2017-10-10 14:01:48,173 - root - INFO - SUCCESS    Clicked element: <css->button.btn.blue.pull-right>, Spend 0.8977875709533691 seconds
+2017-10-10 14:01:54,671 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.495328664779663 seconds
+2017-10-10 14:01:57,731 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.0586094856262207 seconds
+2017-10-10 14:01:57,733 - root - INFO - ######################## This App Cases End ###########################
+2017-10-10 14:02:00,847 - root - ERROR - 发送邮件失败
